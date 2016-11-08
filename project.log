@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/MacPorts 2014_9) (preloaded format=xelatex 2014.11.18)  7 NOV 2016 21:22
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/MacPorts 2014_9) (preloaded format=xelatex 2014.11.18)  7 NOV 2016 22:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -139,11 +139,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 \epsfxsize=\dimen123
 \epsfysize=\dimen124
-) (./project.aux
-
-LaTeX Warning: Label `kimfigure' multiply defined.
-
-)
+) (./project.aux)
 \openout1 = `project.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
@@ -249,340 +245,38 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [8] [9]
 File: lizhi_comparison.png Graphic file (type QTm)
- <use  "lizhi_comparison.png" > [10] [11] [12] [13] (./milestones.tex
-Underfull \hbox (badness 10000) in paragraph at lines 11--11
-[]\OT1/cmr/m/n/10.95 Finalize sam-ple
- []
+ <use  "lizhi_comparison.png" > [10] [11] [12] [13]
 
+LaTeX Warning: Reference `schedule' on page 14 undefined on input line 842.
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--11
-\OT1/cmr/m/n/10.95 se-lec-tion; iden-tify
- []
+(./datamanagement.tex) [14]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 965.
 
 
-Underfull \hbox (badness 6510) in paragraph at lines 11--11
-\OT1/cmr/m/n/10.95 and re-move AGN;
- []
-
-
-Underfull \hbox (badness 6236) in paragraph at lines 11--11
-\OT1/cmr/m/n/10.95 write code to re-
- []
-
-
-Underfull \hbox (badness 1762) in paragraph at lines 11--11
-\OT1/cmr/m/n/10.95 trieve cutouts from
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 11--11
-\OT1/cmr/m/it/10.95 un-WISE\OT1/cmr/m/n/10.95 ; cal-cu-late
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--12
-[]\OT1/cmr/m/n/10.95 Identify best
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--12
-\OT1/cmr/m/n/10.95 tech-niques
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--12
-\OT1/cmr/m/n/10.95 for mod-el-ing
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-[]\OT1/cmr/m/n/10.95 Adapt GAL-
- []
-
-
-Underfull \hbox (badness 6445) in paragraph at lines 13--13
-\OT1/cmr/m/n/10.95 FIT code to
- []
-
-
-Underfull \hbox (badness 3049) in paragraph at lines 13--13
-\OT1/cmr/m/n/10.95 run on Siena
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-\OT1/cmr/m/n/10.95 ter; de-velop
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-\OT1/cmr/m/n/10.95 code to run
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-\OT1/cmr/m/n/10.95 on par-al-lel
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 13--13
-\OT1/cmr/m/n/10.95 com-put-ing
- []
-
-
-Overfull \hbox (3.43715pt too wide) in paragraph at lines 15--15
-[]\OT1/cmr/m/n/10.95 Summer| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--15
-[]\OT1/cmr/m/n/10.95 Supervise sum-mer
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--15
-\OT1/cmr/m/n/10.95 stu-dents - cross
- []
-
-
-Underfull \hbox (badness 2158) in paragraph at lines 15--15
-\OT1/cmr/m/n/10.95 match sam-ple with
- []
-
-
-Underfull \hbox (badness 2591) in paragraph at lines 15--15
-\OT1/cmr/m/n/10.95 other sur-veys (AL-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--15
-\OT1/cmr/m/n/10.95 FALFA, GIM2D,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--15
-\OT1/cmr/m/n/10.95 un-WISE pho-tom-e-
- []
-
-
-Underfull \hbox (badness 1917) in paragraph at lines 15--15
-\OT1/cmr/m/n/10.95 and clus-ters within
- []
-
-
-Underfull \hbox (badness 2735) in paragraph at lines 15--15
-\OT1/cmr/m/n/10.95 sur-vey re-gion; cal-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--15
-\OT1/cmr/m/n/10.95 cu-late en-vi-ron-ment
- []
-
-
-Underfull \hbox (badness 2042) in paragraph at lines 15--15
-\OT1/cmr/m/n/10.95 pa-ram-e-ters such as
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--16
-[]\OT1/cmr/m/n/10.95 Fit IR tem-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--16
-\OT1/cmr/m/n/10.95 plates to
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--16
-\OT1/cmr/m/n/10.95 es-ti-mate IR
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 16--16
-\OT1/cmr/m/n/10.95 lu-mi-nos-ity
- []
-
-
-Underfull \hbox (badness 1308) in paragraph at lines 16--16
-\OT1/cmr/m/n/10.95 and SFRs for
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--17
-[]\OT1/cmr/m/n/10.95 Run code
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--17
-\OT1/cmr/m/n/10.95 on com-puter
- []
-
-
-Underfull \hbox (badness 6461) in paragraph at lines 17--17
-\OT1/cmr/m/n/10.95 clus-ter for a
- []
-
-
-Underfull \hbox (badness 2735) in paragraph at lines 17--17
-\OT1/cmr/m/n/10.95 sub-set of the
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--17
-\OT1/cmr/m/n/10.95 sam-ple; ad-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 17--17
-\OT1/cmr/m/n/10.95 method-ol-ogy
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 19--19
-[]\OT1/cmr/m/n/10.95 Cross-check re-sults
- []
-
-
-Underfull \hbox (badness 4316) in paragraph at lines 19--19
-\OT1/cmr/m/n/10.95 with size mea-sure-
- []
-
-
-Underfull \hbox (badness 8038) in paragraph at lines 19--19
-\OT1/cmr/m/n/10.95 ments from MIPS
- []
-
-
-Underfull \hbox (badness 6825) in paragraph at lines 19--19
-\OT1/cmr/m/n/10.95 data; run sim-u-la-
- []
-
-
-Underfull \hbox (badness 2922) in paragraph at lines 20--20
-[]\OT1/cmr/m/n/10.95 Interface with
- []
-
-
-Underfull \hbox (badness 2393) in paragraph at lines 20--20
-\OT1/cmr/m/n/10.95 NED to plan
- []
-
-
-Underfull \hbox (badness 3189) in paragraph at lines 21--21
-[]\OT1/cmr/m/n/10.95 Run code on
- []
-
-
-Underfull \hbox (badness 1142) in paragraph at lines 24--25
-\OT1/cmr/m/n/10.95 AAS on pre-lim-i-
- []
-
-
-Overfull \hbox (3.43715pt too wide) in paragraph at lines 26--26
-[]\OT1/cmr/m/n/10.95 Summer| 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
-\OT1/cmr/m/n/10.95 dents (star-forming
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
-\OT1/cmr/m/n/10.95 main se-quence as
- []
-
-
-Underfull \hbox (badness 6559) in paragraph at lines 26--27
-\OT1/cmr/m/n/10.95 a func-tion of en-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 26--27
-\OT1/cmr/m/n/10.95 vi-ron-ment); draft
- []
-
-
-Underfull \hbox (badness 1092) in paragraph at lines 28--28
-\OT1/cmr/m/n/10.95 per; su-per-vise
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--29
-[]\OT1/cmr/m/n/10.95 Help su-per-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 29--29
-\OT1/cmr/m/n/10.95 vise sum-mer
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
-\OT1/cmr/m/n/10.95 ucts pub-li-cally
- []
-
-
-Underfull \hbox (badness 1019) in paragraph at lines 30--31
-\OT1/cmr/m/n/10.95 avail-able through
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--35
-\OT1/cmr/m/n/10.95 top-i-cal meet-ing;
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--35
-\OT1/cmr/m/n/10.95 pub-lish pa-per;
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 33--35
-\OT1/cmr/m/n/10.95 re-lease data to
- []
-
-
-Overfull \hbox (6.95627pt too wide) in paragraph at lines 4--37
-[][] 
- []
-
-
-LaTeX Warning: Float too large for page by 48.37352pt on input line 37.
-
-)
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[14]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 964.
-
- (/opt/local/share/texmf-texlive/tex/latex/base/omscmr.fd
+(/opt/local/share/texmf-texlive/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 964.
- [15] [16]
-[17] (./project.bbl [18
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 965.
+ [15] [16] [17]
+(./project.bbl [18
 
 ] [19]) [20] (./project.aux)
 
-LaTeX Warning: There were multiply-defined labels.
+LaTeX Warning: There were undefined references.
 
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 469 ({)
+### simple group (level 1) entered at line 468 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 2538 strings out of 494893
- 31453 string characters out of 6167766
- 104056 words of memory out of 5000000
- 5785 multiletter control sequences out of 15000+600000
+ 2541 strings out of 494893
+ 31494 string characters out of 6167766
+ 99897 words of memory out of 5000000
+ 5788 multiletter control sequences out of 15000+600000
  13934 words of font info for 58 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 32i,10n,31p,1562b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,11n,31p,1562b,347s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on project.pdf (20 pages).

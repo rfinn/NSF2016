@@ -5,36 +5,36 @@ The style file: apj.bst
 Database file #1: /Users/rfinn/research/Papers/rfinn.bib
 You've used 36 entries,
             2948 wiz_defined-function locations,
-            846 strings with 15296 characters,
-and the built_in function-call counts, 28521 in all, are:
-= -- 1961
-> -- 3274
+            846 strings with 15103 characters,
+and the built_in function-call counts, 27960 in all, are:
+= -- 1936
+> -- 3170
 < -- 7
-+ -- 1212
-- -- 1176
-* -- 3051
-:= -- 5584
++ -- 1173
+- -- 1137
+* -- 2974
+:= -- 5468
 add.period$ -- 36
 call.type$ -- 36
-change.case$ -- 536
+change.case$ -- 523
 chr.to.int$ -- 36
 cite$ -- 36
 duplicate$ -- 677
-empty$ -- 971
-format.name$ -- 1286
-if$ -- 5108
+empty$ -- 972
+format.name$ -- 1247
+if$ -- 5020
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 36
 newline$ -- 112
 num.names$ -- 144
-pop$ -- 556
+pop$ -- 543
 preamble$ -- 1
-purify$ -- 536
+purify$ -- 523
 quote$ -- 0
-skip$ -- 563
+skip$ -- 564
 stack$ -- 0
-substring$ -- 755
+substring$ -- 758
 swap$ -- 0
 text.length$ -- 0
 text.prefix$ -- 0

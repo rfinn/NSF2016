@@ -183,9 +183,9 @@ The study of these filaments will benefit from the comparison with the rich
 ensemble of data already obtained for the center of Virgo: the atomic
 gas with the VLA by Chung
 et al (2009), and also at large scale with ALFALFA \citep{giovanelli05}; the
-dust content with the Herschel Virgo Cluster Survey \citep{davies10}; the stellar mass with the
-NGVS survey and WISE \citep{ferrarese12}; and recent star formation
-from UV data with GALEX GUViCS survey \citep{boselli11}. 
+dust content with the Herschel Virgo Cluster Survey \citep{davies10};
+the stellar mass with WISE \citep{ferrarese12}; and recent star formation
+from UV data with GALEX \citep{boselli11}. 
 
 
 
@@ -200,20 +200,7 @@ from UV data with GALEX GUViCS survey \citep{boselli11}.
 
 
 
-\begin{figure}[h]
-\centering
-%\includegraphics[width=0.6\textwidth]{Virgo_positions_boselli.png}
-%\includegraphics[width=0.48\textwidth]{KimFig1.png}
-\includegraphics[width=0.48\textwidth]{filaments.png}
-\includegraphics[width=0.4\textwidth]{KimFig2a.png}
-\caption{\small {\it (Left)} Figure 1(a) from \citet{kim16} showing filaments
-  surrounding Virgo Cluster as observed on the plane of the sky in RA and Dec.  {\it (Right)} Figure
-  2(a) from \citet{kim16} showing the same galaxies but projected into
-Virgo-centric coordinates.  The Leo filaments can now be seen as three
-distinct filaments.  The NGC5353 filament, which does not intersect
-the Virgo Cluster, is not shown in the right panel.}
-\label{kimfigure}
-\end{figure}
+
 
 % \begin{figure}[h]
 % \centering
@@ -271,11 +258,10 @@ termed clouds.  More recently \citet{kim16} repeat this analysis with
 a much larger spectroscopic dataset that probes to lower luminosities,
 and they are able to identify multiple
 filaments around Virgo, some that lead directly into the cluster and
-others that are nearby but not falling into Virgo.  We show these
-filaments in Figure \ref{kimfigure}.
+others that are nearby but not falling into Virgo (see right panel of Figure \ref{kimfigure}).
 This proposal focuses on two of the filaments identified by
-\citet{kim16}, and we highlight these in the bottom panel of Figure
-\ref{fig1}.  The NGC5353 filament feeds the NGC5353 group and extends over 20~Mpc,
+\citet{kim16}, and we highlight these in the left panel of Figure
+\ref{kimfigure}.  The NGC5353 filament feeds the NGC5353 group and extends over 20~Mpc,
 passing close to but not into the Virgo cluster \citep{kim16}.  The second filament
 that we will study is the Leo filament.  \citet{kim16} show that once
 you project galaxies into a Virgo-centric coordinate system (see right
@@ -289,15 +275,28 @@ these filaments are among the most distant of the Virgo filaments and
 thus the galaxies have smaller apparent size.  This helps to minimize
 the aperture correction that we need to apply to CO observations
 because when the galaxy size extends beyond the beam size.  
+\begin{figure}[h]
+\centering
+%\includegraphics[width=0.6\textwidth]{Virgo_positions_boselli.png}
+%\includegraphics[width=0.48\textwidth]{KimFig1.png}
+\includegraphics[width=0.5\textwidth]{filaments.png}
+\includegraphics[width=0.46\textwidth]{KimFig2a.png}
+\caption{\small {\it (Left)} Figure 1(a) from \citet{kim16} showing filaments
+  surrounding Virgo Cluster as observed on the plane of the sky in RA and Dec.  {\it (Right)} Figure
+  2(a) from \citet{kim16} showing the same galaxies but projected into
+Virgo-centric coordinates.  The Leo filaments can now be seen as three
+distinct filaments.  The NGC5353 filament, which does not intersect
+the Virgo Cluster, is not shown in the right panel.}
+\label{kimfigure}
+\end{figure}
 
 
 
-
-
-
+The two filaments contain over 600 galaxies.  
 We show the $NUV-r$ color versus stellar mass in Figure \ref{sample}.
 The grey circles show all the filament galaxies that are in the
-NASA-Sloan Atlas.  The green points show points
+NASA-Sloan Atlas \citep{blanton05}, which we use as our primary galaxy
+catalog.  The green points show points
 that we will target with CO observations.  We have restricted the mass
 range for the CO sample to $9 < \log_{10} (M_\star/M_\odot) < 10$.
 Galaxies below this mass limit are difficult to detect in CO due
@@ -385,7 +384,7 @@ addressed in such exquisite details.
 \caption{\small {\it (Left)} SDSS color images showing 16 randomly
   selected galaxies in NGC5353 filament.  {\it (Right)} CO spectra
   from IRAM 30-m telescope for galaxies in the NGC5353 filament.  }
-\label{kimfigure}
+\label{sdssCO}
 \end{figure}
 
 
@@ -707,8 +706,8 @@ bound \citep[e.g.][]{kawata08, mccarthy07, bekki14}.  We find
 some evidence of this in the {\it Local Cluster Survey}, but a larger
 sample is needed to strengthen the statistical significance. 
 
-%\vspace*{-1cm}
-\subsubsection{Computational Requirements and
+\vspace*{-1cm}
+\subsection{Computational Requirements and
   Facilities:   \label{comp}}
 \vspace*{-.4cm}
 Siena College has recently acquired a High Performance  Computer
@@ -728,7 +727,8 @@ The Intel
 compiler suite is available to create efficient custom programs.
 
 
-We estimate the computational complexity for analyzing 7000
+We estimate the computational complexity for analyzing the WISE images
+for 300 
 galaxies with GALFIT in a systematic fashion. We would scan over the
 five-dimensional parameter space  p$=$(x,y, radius, concentration,
 brightness), by discretizing each dimension from a minimum search
@@ -838,9 +838,10 @@ with ALFALFA, GIM2D structural fits, and the unWISE photometric catalogs.  Durin
 students will analyze the star-forming main sequence using the
 WISE-derived star-formation rates.
 
-The major milestones and timeline for completion
-are listed in Table \ref{schedule}. 
-\input{milestones}
+The division of observing and analysis responsiblities among the team
+members is outlined in Table \ref{schedule}. 
+%\input{milestones}
+\input{datamanagement}
 % \begin{table}[h]
 % \caption{Major Milestones and Timeline \label{schedule}}
 % %\includegraphics[width=.9\textwidth]{timeline.png}
