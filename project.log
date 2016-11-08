@@ -1,0 +1,588 @@
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/MacPorts 2014_9) (preloaded format=xelatex 2014.11.18)  7 NOV 2016 21:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**project
+(./project.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 43 languages loaded.
+(./aastex.cls
+Document Class: aastex 2005/06/22 5.2/AAS markup document class
+Class aastex Info: Original \LaTeX2.09 style by Chris Biemesderfer (chris@seago
+at.com). Adapted to \LaTeXe by A. Ogawa (ogawa@teleport.com) on input line 83.
+(/opt/local/share/texmf-texlive/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/opt/local/share/texmf-texlive/tex/latex/base/size12.clo
+File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/opt/local/share/texmf-texlive/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 47.
+)
+(/opt/local/share/texmf-texlive/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/opt/local/share/texmf-texlive/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/opt/local/share/texmf-texlive/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/opt/local/share/texmf-texlive/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/opt/local/share/texmf-texlive/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: xetex.def on input line 91.
+
+(/opt/local/share/texmf-texlive/tex/xelatex/xetex-def/xetex.def
+File: xetex.def 2014/04/28 v4.01 LaTeX color/graphics driver for XeTeX (RRM/JK)
+
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/opt/local/share/texmf-texlive/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/opt/local/share/texmf-texlive/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/opt/local/share/texmf-texlive/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count88
+)
+(/opt/local/share/texmf-texlive/tex/latex/tools/verbatim.sty
+Package: verbatim 2003/08/22 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks16
+\verbatim@line=\toks17
+\verbatim@in@stream=\read1
+)
+\@slugcmmntwidth=\dimen105
+\abstract@box=\box26
+\c@editornote=\count89
+\c@cureqno=\count90
+\tnotemarkskip=\skip45
+\@abovenoteskip=\dimen106
+\pt@box=\box27
+\pt@width=\dimen107
+\pt@line=\count91
+\pt@column=\count92
+\pt@nlines=\count93
+\pt@ncol=\count94
+\pt@page=\count95
+\tabbaseskip=\dimen108
+\pt@tmpcapwidth=\dimen109
+\spew@tblnotesbox=\box28
+\restof@tblnotesbox=\box29
+\noteheight=\dimen110
+\pt@tabnoteminht=\dimen111
+\firsttabskip=\dimen112
+\captionbox=\box30
+\pt@reduceline=\dimen113
+\extra@vspace=\dimen114
+\c@plate=\count96
+\my@footins=\box31
+)
+(/opt/local/share/texmf-texlive/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+(/opt/local/share/texmf-texlive/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is not detected.
+)
+(/opt/local/share/texmf-texlive/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/opt/local/share/texmf-texlive/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count97
+\Gm@cntv=\count98
+\c@Gm@tempcnt=\count99
+\Gm@bindingoffset=\dimen115
+\Gm@wd@mp=\dimen116
+\Gm@odd@mp=\dimen117
+\Gm@even@mp=\dimen118
+\Gm@layoutwidth=\dimen119
+\Gm@layoutheight=\dimen120
+\Gm@layouthoffset=\dimen121
+\Gm@layoutvoffset=\dimen122
+\Gm@dimlist=\toks18
+)
+(/opt/local/share/texmf-texlive/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+\epsfxsize=\dimen123
+\epsfysize=\dimen124
+) (./project.aux
+
+LaTeX Warning: Label `kimfigure' multiply defined.
+
+)
+\openout1 = `project.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+AAS preprint substyle, v5.2 <12 Dec 2003>.
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 469.75502pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 650.43001pt, 72.26999pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75502pt
+* \textheight=650.43001pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-35.84006pt
+* \headheight=10.84006pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=0.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=20.66669pt plus 5.16667pt minus 2.58333pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Try loading font information for U+lasy on input line 34.
+(/opt/local/share/texmf-texlive/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 34.
+
+(/opt/local/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 34.
+
+(/opt/local/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
+
+]
+File: CLUES-DM.png Graphic file (type QTm)
+
+<use  "CLUES-DM.png" >
+File: Dressler-morph-dens.png Graphic file (type QTm)
+ <use  "Dressler-morph-dens.png" > [2]
+File: filaments.png Graphic file (type QTm)
+
+<use  "filaments.png" >
+File: KimFig2a.png Graphic file (type QTm)
+ <use  "KimFig2a.png" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3]
+File: sample.png Graphic file (type QTm)
+ <use  "sample.png" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[4] [5]
+File: sdss-montage.png Graphic file (type QTm)
+ <use  "sdss-montage.png" >
+File: CO-detection.png Graphic file (type QTm)
+ <use  "CO-detection.png" >
+File: HalphaProfileWISE.png Graphic file (type QTm)
+
+<use  "HalphaProfileWISE.png" > [6] [7]
+File: NSA-88353.png Graphic file (type QTm)
+ <use  "NSA-88353.png" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: NSA-113482.png Graphic file (type QTm)
+<use  "NSA-113482.png" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8] [9]
+File: lizhi_comparison.png Graphic file (type QTm)
+ <use  "lizhi_comparison.png" > [10] [11] [12] [13] (./milestones.tex
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+[]\OT1/cmr/m/n/10.95 Finalize sam-ple
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\OT1/cmr/m/n/10.95 se-lec-tion; iden-tify
+ []
+
+
+Underfull \hbox (badness 6510) in paragraph at lines 11--11
+\OT1/cmr/m/n/10.95 and re-move AGN;
+ []
+
+
+Underfull \hbox (badness 6236) in paragraph at lines 11--11
+\OT1/cmr/m/n/10.95 write code to re-
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 11--11
+\OT1/cmr/m/n/10.95 trieve cutouts from
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--11
+\OT1/cmr/m/it/10.95 un-WISE\OT1/cmr/m/n/10.95 ; cal-cu-late
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+[]\OT1/cmr/m/n/10.95 Identify best
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+\OT1/cmr/m/n/10.95 tech-niques
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--12
+\OT1/cmr/m/n/10.95 for mod-el-ing
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+[]\OT1/cmr/m/n/10.95 Adapt GAL-
+ []
+
+
+Underfull \hbox (badness 6445) in paragraph at lines 13--13
+\OT1/cmr/m/n/10.95 FIT code to
+ []
+
+
+Underfull \hbox (badness 3049) in paragraph at lines 13--13
+\OT1/cmr/m/n/10.95 run on Siena
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+\OT1/cmr/m/n/10.95 ter; de-velop
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+\OT1/cmr/m/n/10.95 code to run
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+\OT1/cmr/m/n/10.95 on par-al-lel
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--13
+\OT1/cmr/m/n/10.95 com-put-ing
+ []
+
+
+Overfull \hbox (3.43715pt too wide) in paragraph at lines 15--15
+[]\OT1/cmr/m/n/10.95 Summer| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+[]\OT1/cmr/m/n/10.95 Supervise sum-mer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+\OT1/cmr/m/n/10.95 stu-dents - cross
+ []
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 15--15
+\OT1/cmr/m/n/10.95 match sam-ple with
+ []
+
+
+Underfull \hbox (badness 2591) in paragraph at lines 15--15
+\OT1/cmr/m/n/10.95 other sur-veys (AL-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+\OT1/cmr/m/n/10.95 FALFA, GIM2D,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+\OT1/cmr/m/n/10.95 un-WISE pho-tom-e-
+ []
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 15--15
+\OT1/cmr/m/n/10.95 and clus-ters within
+ []
+
+
+Underfull \hbox (badness 2735) in paragraph at lines 15--15
+\OT1/cmr/m/n/10.95 sur-vey re-gion; cal-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--15
+\OT1/cmr/m/n/10.95 cu-late en-vi-ron-ment
+ []
+
+
+Underfull \hbox (badness 2042) in paragraph at lines 15--15
+\OT1/cmr/m/n/10.95 pa-ram-e-ters such as
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+[]\OT1/cmr/m/n/10.95 Fit IR tem-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+\OT1/cmr/m/n/10.95 plates to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+\OT1/cmr/m/n/10.95 es-ti-mate IR
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--16
+\OT1/cmr/m/n/10.95 lu-mi-nos-ity
+ []
+
+
+Underfull \hbox (badness 1308) in paragraph at lines 16--16
+\OT1/cmr/m/n/10.95 and SFRs for
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+[]\OT1/cmr/m/n/10.95 Run code
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\OT1/cmr/m/n/10.95 on com-puter
+ []
+
+
+Underfull \hbox (badness 6461) in paragraph at lines 17--17
+\OT1/cmr/m/n/10.95 clus-ter for a
+ []
+
+
+Underfull \hbox (badness 2735) in paragraph at lines 17--17
+\OT1/cmr/m/n/10.95 sub-set of the
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\OT1/cmr/m/n/10.95 sam-ple; ad-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--17
+\OT1/cmr/m/n/10.95 method-ol-ogy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 19--19
+[]\OT1/cmr/m/n/10.95 Cross-check re-sults
+ []
+
+
+Underfull \hbox (badness 4316) in paragraph at lines 19--19
+\OT1/cmr/m/n/10.95 with size mea-sure-
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 19--19
+\OT1/cmr/m/n/10.95 ments from MIPS
+ []
+
+
+Underfull \hbox (badness 6825) in paragraph at lines 19--19
+\OT1/cmr/m/n/10.95 data; run sim-u-la-
+ []
+
+
+Underfull \hbox (badness 2922) in paragraph at lines 20--20
+[]\OT1/cmr/m/n/10.95 Interface with
+ []
+
+
+Underfull \hbox (badness 2393) in paragraph at lines 20--20
+\OT1/cmr/m/n/10.95 NED to plan
+ []
+
+
+Underfull \hbox (badness 3189) in paragraph at lines 21--21
+[]\OT1/cmr/m/n/10.95 Run code on
+ []
+
+
+Underfull \hbox (badness 1142) in paragraph at lines 24--25
+\OT1/cmr/m/n/10.95 AAS on pre-lim-i-
+ []
+
+
+Overfull \hbox (3.43715pt too wide) in paragraph at lines 26--26
+[]\OT1/cmr/m/n/10.95 Summer| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+\OT1/cmr/m/n/10.95 dents (star-forming
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+\OT1/cmr/m/n/10.95 main se-quence as
+ []
+
+
+Underfull \hbox (badness 6559) in paragraph at lines 26--27
+\OT1/cmr/m/n/10.95 a func-tion of en-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 26--27
+\OT1/cmr/m/n/10.95 vi-ron-ment); draft
+ []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 28--28
+\OT1/cmr/m/n/10.95 per; su-per-vise
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+[]\OT1/cmr/m/n/10.95 Help su-per-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--29
+\OT1/cmr/m/n/10.95 vise sum-mer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 30--31
+\OT1/cmr/m/n/10.95 ucts pub-li-cally
+ []
+
+
+Underfull \hbox (badness 1019) in paragraph at lines 30--31
+\OT1/cmr/m/n/10.95 avail-able through
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
+\OT1/cmr/m/n/10.95 top-i-cal meet-ing;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
+\OT1/cmr/m/n/10.95 pub-lish pa-per;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
+\OT1/cmr/m/n/10.95 re-lease data to
+ []
+
+
+Overfull \hbox (6.95627pt too wide) in paragraph at lines 4--37
+[][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 48.37352pt on input line 37.
+
+)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[14]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 964.
+
+ (/opt/local/share/texmf-texlive/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 964.
+ [15] [16]
+[17] (./project.bbl [18
+
+] [19]) [20] (./project.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ )
+(\end occurred inside a group at level 1)
+
+### simple group (level 1) entered at line 469 ({)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 2538 strings out of 494893
+ 31453 string characters out of 6167766
+ 104056 words of memory out of 5000000
+ 5785 multiletter control sequences out of 15000+600000
+ 13934 words of font info for 58 fonts, out of 8000000 for 9000
+ 430 hyphenation exceptions out of 8191
+ 32i,10n,31p,1562b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on project.pdf (20 pages).
