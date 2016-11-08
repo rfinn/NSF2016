@@ -1,4 +1,4 @@
-\begin{thebibliography}{36}
+\begin{thebibliography}{40}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{{Bah{\'e}} {et~al.}(2013){Bah{\'e}}, {McCarthy}, {Balogh}, \&
@@ -45,6 +45,11 @@
   {Spekkens}, K., {Taylor}, J.~E., {Valotto}, C., {van Driel}, W.,
   {Verstappen}, J., {Vlahakis}, C., {Vollmer}, B., \& {Xilouris}, E.~M. 2011,
   \aap, 528, A107
+
+\bibitem[{{Boselli} {et~al.}(2015){Boselli}, {Fossati}, {Gavazzi}, {Ciesla},
+  {Buat}, {Boissier}, \& {Hughes}}]{boselli15}
+{Boselli}, A., {Fossati}, M., {Gavazzi}, G., {Ciesla}, L., {Buat}, V.,
+  {Boissier}, S., \& {Hughes}, T.~M. 2015, \aap, 579, A102
 
 \bibitem[{{Chung} {et~al.}(2007){Chung}, {van Gorkom}, {Kenney}, \&
   {Vollmer}}]{chung07}
@@ -126,6 +131,11 @@
   M., {Simard}, L., {Taylor}, J.~E., {Tully}, R.~B., {van Driel}, W., {Wilson},
   C.~D., {Burdullis}, T., {Mahoney}, B., \& {Manset}, N. 2012, \apjs, 200, 4
 
+\bibitem[{{Gavazzi} {et~al.}(2012){Gavazzi}, {Fumagalli}, {Galardo},
+  {Grossetti}, {Boselli}, {Giovanelli}, {Haynes}, \& {Fabello}}]{gavazzi12}
+{Gavazzi}, G., {Fumagalli}, M., {Galardo}, V., {Grossetti}, F., {Boselli}, A.,
+  {Giovanelli}, R., {Haynes}, M.~P., \& {Fabello}, S. 2012, \aap, 545, A16
+
 \bibitem[{{Giovanelli} {et~al.}(2005){Giovanelli}, {Haynes}, {Kent},
   {Perillat}, {Saintonge}, {Brosch}, {Catinella}, {Hoffman}, {Stierwalt},
   {Spekkens}, {Lerner}, {Masters}, {Momjian}, {Rosenberg}, {Springob},
@@ -145,6 +155,9 @@
   M., {Skillman}, E., {Solanes}, J.~M., {Valotto}, C., {van Driel}, W., \& {van
   Zee}, L. 2005, \aj, 130, 2598
 
+\bibitem[{{Hodge} \& {Kennicutt}(1983)}]{hodge83}
+{Hodge}, P.~W. \& {Kennicutt}, Jr., R.~C. 1983, \apj, 267, 563
+
 \bibitem[{{Kauffmann} {et~al.}(2004){Kauffmann}, {White}, {Heckman},
   {M{\'e}nard}, {Brinchmann}, {Charlot}, {Tremonti}, \&
   {Brinkmann}}]{kauffmann04}
@@ -154,6 +167,9 @@
 
 \bibitem[{{Kawata} \& {Mulchaey}(2008)}]{kawata08}
 {Kawata}, D. \& {Mulchaey}, J.~S. 2008, \apjl, 672, L103
+
+\bibitem[{{Kennicutt}(1998)}]{kennicutt98}
+{Kennicutt}, Jr., R.~C. 1998, \apj, 498, 541
 
 \bibitem[{{Kim} {et~al.}(2016){Kim}, {Rey}, {Bureau}, {Yoon}, {Chung},
   {Jerjen}, {Lisker}, {Jeong}, {Sung}, {Lee}, {Lee}, \& {Chung}}]{kim16}

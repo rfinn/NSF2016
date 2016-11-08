@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: project.aux
 The style file: apj.bst
 Database file #1: /Users/rfinn/research/Papers/rfinn.bib
-You've used 36 entries,
+You've used 40 entries,
             2948 wiz_defined-function locations,
-            846 strings with 15103 characters,
-and the built_in function-call counts, 27960 in all, are:
-= -- 1936
-> -- 3170
-< -- 7
-+ -- 1173
-- -- 1137
-* -- 2974
-:= -- 5468
-add.period$ -- 36
-call.type$ -- 36
-change.case$ -- 523
-chr.to.int$ -- 36
-cite$ -- 36
-duplicate$ -- 677
-empty$ -- 972
-format.name$ -- 1247
-if$ -- 5020
+            868 strings with 15898 characters,
+and the built_in function-call counts, 30006 in all, are:
+= -- 2102
+> -- 3328
+< -- 9
++ -- 1231
+- -- 1191
+* -- 3157
+:= -- 5859
+add.period$ -- 40
+call.type$ -- 40
+change.case$ -- 557
+chr.to.int$ -- 40
+cite$ -- 40
+duplicate$ -- 751
+empty$ -- 1081
+format.name$ -- 1313
+if$ -- 5410
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 36
-newline$ -- 112
-num.names$ -- 144
-pop$ -- 543
+missing$ -- 40
+newline$ -- 124
+num.names$ -- 160
+pop$ -- 576
 preamble$ -- 1
-purify$ -- 523
+purify$ -- 557
 quote$ -- 0
-skip$ -- 564
+skip$ -- 631
 stack$ -- 0
-substring$ -- 758
+substring$ -- 845
 swap$ -- 0
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 324
+type$ -- 360
 warning$ -- 0
-while$ -- 143
+while$ -- 159
 width$ -- 0
-write$ -- 362
+write$ -- 402
