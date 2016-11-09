@@ -3,9 +3,10 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: project.aux
 The style file: apj.bst
 Database file #1: /Users/rfinn/research/Papers/rfinn.bib
+Warning--I didn't find a database entry for "finn16"
 You've used 40 entries,
             2948 wiz_defined-function locations,
-            868 strings with 15898 characters,
+            869 strings with 15904 characters,
 and the built_in function-call counts, 30006 in all, are:
 = -- 2102
 > -- 3328
@@ -44,3 +45,4 @@ warning$ -- 0
 while$ -- 159
 width$ -- 0
 write$ -- 402
+(There was 1 warning)

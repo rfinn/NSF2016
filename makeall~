@@ -1,0 +1,7 @@
+dolatex cv
+dolatex summary
+dolatex budget
+dolatex facilities.tex
+mkps project
+dvips -t letter -o project.ps -p 1 -l 15 project-aas.dvi
+dvips -t letter -o references.ps -p 16 project-aas.dvi
