@@ -1,0 +1,9 @@
+xelatex finn_biosketch
+xelatex summary
+xelatex budget
+xelatex facilities.tex
+xelatex project
+bibtex project
+xelatex project
+rm *.log
+rm *.aux
