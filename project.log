@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/MacPorts 2014_9) (preloaded format=xelatex 2014.11.18)  8 NOV 2016 19:02
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/MacPorts 2014_9) (preloaded format=xelatex 2014.11.18)  9 NOV 2016 12:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -210,25 +210,14 @@ File: CLUES-DM.png Graphic file (type QTm)
 
 <use  "CLUES-DM.png" >
 File: gomez2003-fg6a.png Graphic file (type QTm)
- <use  "gomez2003-fg6a.png" >
-
-Package natbib Warning: Citation `gomez03' on page 2 undefined on input line 15
-6.
-
-[2]
+ <use  "gomez2003-fg6a.png" > [2]
 File: filaments.png Graphic file (type QTm)
- <use  "filaments.png" >
+
+<use  "filaments.png" >
 File: KimFig2a.png Graphic file (type QTm)
- <use  "KimFig2a.png" >
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[3]
+ <use  "KimFig2a.png" > [3]
 File: sample.png Graphic file (type QTm)
  <use  "sample.png" >
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 [4]
 File: sdss-montage.png Graphic file (type QTm)
  <use  "sdss-montage.png" >
@@ -243,48 +232,165 @@ File: HalphaProfileWISE.png Graphic file (type QTm)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[6] [7]
+[6]
 File: NSA-88353.png Graphic file (type QTm)
  <use  "NSA-88353.png" >
 
-Package natbib Warning: Citation `finn16' on page 8 undefined on input line 635
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package natbib Warning: Citation `finn16' on page 7 undefined on input line 611
 .
 
-[8]
+[7] [8]
 File: lizhi_comparison.png Graphic file (type QTm)
  <use  "lizhi_comparison.png" >
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [9] [10] [11] (./datamanagement.tex) [12]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 1004
-.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 992.
+
 
 (/opt/local/share/texmf-texlive/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1004.
-
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 992.
  [13] [14]
-(./project.bbl [15
+(./project.bbl
+Underfull \hbox (badness 1838) in paragraph at lines 19--25
+[]\OT1/cmr/m/n/10.95 Blanton, MR; Schlegel, DJ; Strauss, MA; Brinkmann, J; Fink
+beiner, D; Fukugita, M;
+ []
 
-] [16])
+
+Underfull \hbox (badness 1092) in paragraph at lines 19--25
+\OT1/cmr/m/n/10.95 Galaxy Cat-a-log Based on New Pub-lic Sur-veys,'' \OT1/cmr/m
+/it/10.95 AJ\OT1/cmr/m/n/10.95 , v. 129, 2005, p. 2562--2578.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--64
+[]\OT1/cmr/m/n/10.95 Chung, A; van Gorkom, JH; Ken-ney, JDP; Vollmer, B. ``Virg
+o Galax-ies
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--64
+\OT1/cmr/m/n/10.95 with Long One-sided H I Tails,'' \OT1/cmr/m/it/10.95 ApJ\OT1
+/cmr/m/n/10.95 , v. 659, 2007, p. L115--L119.
+ []
+
+
+Underfull \hbox (badness 3291) in paragraph at lines 79--84
+[]\OT1/cmr/m/n/10.95 Cortese, L; Gavazzi, G; Boselli, A; Franzetti, P; Ken-ni-c
+utt, RC; O'Neil, K; Sakai,
+ []
+
+
+Underfull \hbox (badness 7649) in paragraph at lines 79--84
+\OT1/cmr/m/n/10.95 S. ``Wit-ness-ing galaxy pre-pro-cess-ing in the lo-cal Uni-
+verse: the case of a
+ []
+
+
+Underfull \hbox (badness 3815) in paragraph at lines 79--84
+\OT1/cmr/m/n/10.95 star-bursting group falling into Abell 1367,'' \OT1/cmr/m/it
+/10.95 A&A\OT1/cmr/m/n/10.95 , v. 453, 2006, p. 847--861.
+ []
+
+[15
+
+]
+Underfull \hbox (badness 1337) in paragraph at lines 95--99
+\OT1/cmr/m/n/10.95 Pres-sure Strip-ping of the Virgo Spi-ral NGC 4402,'' \OT1/c
+mr/m/it/10.95 AJ\OT1/cmr/m/n/10.95 , v. 130, 2005, p. 65--72.
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 159--164
+[]\OT1/cmr/m/n/10.95 Gavazzi, G; Fu-ma-galli, M; Galardo, V; Gros-setti, F; Bos
+elli, A; Gio-vanelli, R; Haynes,
+ []
+
+
+Underfull \hbox (badness 1215) in paragraph at lines 159--164
+\OT1/cmr/m/n/10.95 MP; Fa-bello, S. ``H$\OML/cmm/m/it/10.95 ^^K$\OT1/cmr/m/n/10
+.95 3: an H$\OML/cmm/m/it/10.95 ^^K$ \OT1/cmr/m/n/10.95 imag-ing sur-vey of HI 
+se-lected galax-ies from AL-
+ []
+
+
+Underfull \hbox (badness 2635) in paragraph at lines 159--164
+\OT1/cmr/m/n/10.95 FALFA. I. Cat-a-logue in the Lo-cal Su-per-clus-ter,'' \OT1/
+cmr/m/it/10.95 A&A\OT1/cmr/m/n/10.95 , v. 545, 2012, p. A16.
+ []
+
+[16]
+Underfull \hbox (badness 7925) in paragraph at lines 230--235
+[]\OT1/cmr/m/n/10.95 Kitaura, FS; Jasche, J; Li, C; En^^Ylin, TA; Met-calf, RB;
+ Wan-delt, BD; Lem-
+ []
+
+
+Underfull \hbox (badness 5817) in paragraph at lines 230--235
+\OT1/cmr/m/n/10.95 son, G; White, SDM. ``Cos-mic car-tog-ra-phy of the large-sc
+ale struc-ture with
+ []
+
+
+Underfull \hbox (badness 2564) in paragraph at lines 230--235
+\OT1/cmr/m/n/10.95 Sloan Dig-i-tal Sky Sur-vey data re-lease 6,'' \OT1/cmr/m/it
+/10.95 MN-RAS\OT1/cmr/m/n/10.95 , v. 400, 2009, p. 183--203.
+ []
+
+[17]
+Underfull \hbox (badness 2503) in paragraph at lines 278--283
+[]\OT1/cmr/m/n/10.95 McCarthy, IG; Bower, RG; Balogh, ML; Voit, GM; Pearce, FR;
+ The-uns, T; Babul,
+ []
+
+
+Underfull \hbox (badness 2359) in paragraph at lines 278--283
+\OT1/cmr/m/n/10.95 ing be-yond the spher-i-cal ac-cre-tion model,'' \OT1/cmr/m/
+it/10.95 MN-RAS\OT1/cmr/m/n/10.95 , v. 376, 2007, p. 497--522.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--325
+[]\OT1/cmr/m/n/10.95 Springel, V; Di Mat-teo, T; Hern-quist, L. ``Mod-elling fe
+ed-back from stars and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--325
+\OT1/cmr/m/n/10.95 black holes in galaxy merg-ers,'' \OT1/cmr/m/it/10.95 MN-RAS
+\OT1/cmr/m/n/10.95 , v. 361, 2005, p. 776--794.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 327--329
+[]\OT1/cmr/m/n/10.95 Tully, RB. ``The Lo-cal Su-per-clus-ter,'' \OT1/cmr/m/it/1
+0.95 ApJ\OT1/cmr/m/n/10.95 , v. 257, 1982, p. 389--422.
+ []
+
+)
 
 Package natbib Warning: There were undefined citations.
 
-[17] (./project.aux) )
+[18] (./project.aux) )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 509 ({)
+### simple group (level 1) entered at line 502 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 2552 strings out of 494893
- 31656 string characters out of 6167766
- 101197 words of memory out of 5000000
+ 2553 strings out of 494893
+ 31666 string characters out of 6167766
+ 102430 words of memory out of 5000000
  5799 multiletter control sequences out of 15000+600000
- 13935 words of font info for 58 fonts, out of 8000000 for 9000
+ 14103 words of font info for 59 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 32i,10n,31p,1550b,354s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,10n,31p,1552b,354s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on project.pdf (17 pages).
+Output written on project.pdf (18 pages).
