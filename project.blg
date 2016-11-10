@@ -1,48 +1,48 @@
 This is BibTeX, Version 0.99d (TeX Live 2014/MacPorts 2014_9)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: project.aux
-The style file: apj.bst
+The style file: nsf.bst
 Database file #1: /Users/rfinn/research/Papers/rfinn.bib
 Warning--I didn't find a database entry for "finn16"
 You've used 40 entries,
-            2948 wiz_defined-function locations,
-            869 strings with 15904 characters,
-and the built_in function-call counts, 30006 in all, are:
-= -- 2102
-> -- 3328
-< -- 9
-+ -- 1231
-- -- 1191
-* -- 3157
-:= -- 5859
-add.period$ -- 40
+            2925 wiz_defined-function locations,
+            957 strings with 18922 characters,
+and the built_in function-call counts, 54711 in all, are:
+= -- 5050
+> -- 3388
+< -- 87
++ -- 1267
+- -- 1227
+* -- 5805
+:= -- 8503
+add.period$ -- 80
 call.type$ -- 40
-change.case$ -- 557
+change.case$ -- 609
 chr.to.int$ -- 40
 cite$ -- 40
-duplicate$ -- 751
-empty$ -- 1081
-format.name$ -- 1313
-if$ -- 5410
+duplicate$ -- 1171
+empty$ -- 3574
+format.name$ -- 1277
+if$ -- 11234
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 40
+missing$ -- 41
 newline$ -- 124
 num.names$ -- 160
-pop$ -- 576
+pop$ -- 497
 preamble$ -- 1
-purify$ -- 557
+purify$ -- 569
 quote$ -- 0
-skip$ -- 631
+skip$ -- 923
 stack$ -- 0
-substring$ -- 845
-swap$ -- 0
-text.length$ -- 0
+substring$ -- 7360
+swap$ -- 497
+text.length$ -- 78
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 360
 warning$ -- 0
-while$ -- 159
+while$ -- 225
 width$ -- 0
-write$ -- 402
+write$ -- 482
 (There was 1 warning)
