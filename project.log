@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/MacPorts 2014_9) (preloaded format=xelatex 2014.11.18)  9 NOV 2016 12:02
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/MacPorts 2014_9) (preloaded format=xelatex 2014.11.18)  9 NOV 2016 21:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -239,26 +239,29 @@ File: NSA-88353.png Graphic file (type QTm)
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Package natbib Warning: Citation `finn16' on page 7 undefined on input line 611
+Package natbib Warning: Citation `finn16' on page 7 undefined on input line 616
 .
 
 [7] [8]
 File: lizhi_comparison.png Graphic file (type QTm)
- <use  "lizhi_comparison.png" >
+ <use  "lizhi_comparison.png" > [9] [10] [11] (./datamanagement.tex)
+File: work-plan.pdf Graphic file (type QTm)
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+<use  "work-plan.pdf" >
 
-[9] [10] [11] (./datamanagement.tex) [12]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 992.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-(/opt/local/share/texmf-texlive/tex/latex/base/omscmr.fd
+[12] [13]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 1031
+.
+ (/opt/local/share/texmf-texlive/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 992.
- [13] [14]
-(./project.bbl
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1031.
+
+ [14]
+[15] (./project.bbl
 Underfull \hbox (badness 1838) in paragraph at lines 19--25
 []\OT1/cmr/m/n/10.95 Blanton, MR; Schlegel, DJ; Strauss, MA; Brinkmann, J; Fink
 beiner, D; Fukugita, M;
@@ -300,7 +303,7 @@ Underfull \hbox (badness 3815) in paragraph at lines 79--84
 /10.95 A&A\OT1/cmr/m/n/10.95 , v. 453, 2006, p. 847--861.
  []
 
-[15
+[16
 
 ]
 Underfull \hbox (badness 1337) in paragraph at lines 95--99
@@ -327,7 +330,7 @@ Underfull \hbox (badness 2635) in paragraph at lines 159--164
 cmr/m/it/10.95 A&A\OT1/cmr/m/n/10.95 , v. 545, 2012, p. A16.
  []
 
-[16]
+[17]
 Underfull \hbox (badness 7925) in paragraph at lines 230--235
 []\OT1/cmr/m/n/10.95 Kitaura, FS; Jasche, J; Li, C; En^^Ylin, TA; Met-calf, RB;
  Wan-delt, BD; Lem-
@@ -345,7 +348,7 @@ Underfull \hbox (badness 2564) in paragraph at lines 230--235
 /10.95 MN-RAS\OT1/cmr/m/n/10.95 , v. 400, 2009, p. 183--203.
  []
 
-[17]
+[18]
 Underfull \hbox (badness 2503) in paragraph at lines 278--283
 []\OT1/cmr/m/n/10.95 McCarthy, IG; Bower, RG; Balogh, ML; Voit, GM; Pearce, FR;
  The-uns, T; Babul,
@@ -379,18 +382,18 @@ Underfull \hbox (badness 10000) in paragraph at lines 327--329
 
 Package natbib Warning: There were undefined citations.
 
-[18] (./project.aux) )
+[19] (./project.aux) )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 502 ({)
+### simple group (level 1) entered at line 507 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 2553 strings out of 494893
- 31666 string characters out of 6167766
- 102430 words of memory out of 5000000
- 5799 multiletter control sequences out of 15000+600000
+ 2556 strings out of 494893
+ 31702 string characters out of 6167766
+ 102449 words of memory out of 5000000
+ 5801 multiletter control sequences out of 15000+600000
  14103 words of font info for 59 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  32i,10n,31p,1552b,354s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on project.pdf (18 pages).
+Output written on project.pdf (19 pages).
