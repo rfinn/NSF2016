@@ -5,5 +5,7 @@ xelatex facilities.tex
 xelatex project
 bibtex project
 xelatex project
+dvipdf -t letter -o project-only.pdf -p 1 -l 15 project.dvi
+dvipdf -t letter -o references.ps -p 16 project.dvi
 rm *.log
 rm *.aux

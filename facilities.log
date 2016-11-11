@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/MacPorts 2014_9) (preloaded format=xelatex 2014.11.18)  10 NOV 2016 19:25
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/MacPorts 2014_9) (preloaded format=xelatex 2014.11.18)  10 NOV 2016 21:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**finn_rui_statement
-(./finn_rui_statement.tex
+**facilities
+(./facilities.tex
 LaTeX2e <2014/05/01>
 Babel <3.9k> and hyphenation patterns for 43 languages loaded.
 (./aastex.cls
@@ -140,21 +140,21 @@ Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 \epsfxsize=\dimen123
 \epsfysize=\dimen124
 )
-(./finn_rui_statement.aux)
-\openout1 = `finn_rui_statement.aux'.
+(./facilities.aux)
+\openout1 = `facilities.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 33.
-LaTeX Font Info:    ... okay on input line 33.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
 
 AAS preprint substyle, v5.2 <12 Dec 2003>.
 *geometry* driver: auto-detecting
@@ -191,37 +191,30 @@ AAS preprint substyle, v5.2 <12 Dec 2003>.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-File: dept_plot.png Graphic file (type QTm)
-<use  "dept_plot.png" >
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[1
-
-]
-Missing character: There is no ’ in font cmr10!
-LaTeX Font Info:    Try loading font information for U+lasy on input line 193.
- (/opt/local/share/texmf-texlive/tex/latex/base/ulasy.fd
+LaTeX Font Info:    Try loading font information for U+lasy on input line 57.
+(/opt/local/share/texmf-texlive/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 193.
+LaTeX Font Info:    Try loading font information for U+msa on input line 57.
 
 (/opt/local/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 193.
+LaTeX Font Info:    Try loading font information for U+msb on input line 57.
 
 (/opt/local/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [2] [3] [4]
-(./finn_rui_statement.aux) ) 
-Here is how much of TeX's memory you used:
- 2341 strings out of 494893
- 28720 string characters out of 6167766
- 91249 words of memory out of 5000000
- 5614 multiletter control sequences out of 15000+600000
- 9865 words of font info for 39 fonts, out of 8000000 for 9000
- 430 hyphenation exceptions out of 8191
- 32i,5n,31p,410b,207s stack positions out of 5000i,500n,10000p,200000b,80000s
+) [1
 
-Output written on finn_rui_statement.pdf (4 pages).
+]
+(./facilities.aux) ) 
+Here is how much of TeX's memory you used:
+ 2330 strings out of 494893
+ 28545 string characters out of 6167766
+ 89250 words of memory out of 5000000
+ 5608 multiletter control sequences out of 15000+600000
+ 9211 words of font info for 37 fonts, out of 8000000 for 9000
+ 430 hyphenation exceptions out of 8191
+ 32i,4n,31p,226b,100s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on facilities.pdf (1 page).

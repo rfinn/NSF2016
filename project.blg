@@ -4,45 +4,45 @@ The top-level auxiliary file: project.aux
 The style file: nsf.bst
 Database file #1: /Users/rfinn/research/Papers/rfinn.bib
 Warning--I didn't find a database entry for "finn16"
-You've used 40 entries,
+You've used 50 entries,
             2925 wiz_defined-function locations,
-            957 strings with 18922 characters,
-and the built_in function-call counts, 54711 in all, are:
-= -- 5050
-> -- 3388
-< -- 87
-+ -- 1267
-- -- 1227
-* -- 5805
-:= -- 8503
-add.period$ -- 80
-call.type$ -- 40
-change.case$ -- 609
-chr.to.int$ -- 40
-cite$ -- 40
-duplicate$ -- 1171
-empty$ -- 3574
-format.name$ -- 1277
-if$ -- 11234
+            1026 strings with 23240 characters,
+and the built_in function-call counts, 69479 in all, are:
+= -- 6331
+> -- 4506
+< -- 107
++ -- 1685
+- -- 1635
+* -- 7434
+:= -- 10894
+add.period$ -- 100
+call.type$ -- 50
+change.case$ -- 795
+chr.to.int$ -- 50
+cite$ -- 50
+duplicate$ -- 1453
+empty$ -- 4431
+format.name$ -- 1695
+if$ -- 14177
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 41
-newline$ -- 124
-num.names$ -- 160
-pop$ -- 497
+missing$ -- 51
+newline$ -- 154
+num.names$ -- 200
+pop$ -- 660
 preamble$ -- 1
-purify$ -- 569
+purify$ -- 745
 quote$ -- 0
-skip$ -- 923
+skip$ -- 1129
 stack$ -- 0
-substring$ -- 7360
-swap$ -- 497
-text.length$ -- 78
+substring$ -- 9107
+swap$ -- 609
+text.length$ -- 98
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 360
+type$ -- 450
 warning$ -- 0
-while$ -- 225
+while$ -- 278
 width$ -- 0
-write$ -- 482
+write$ -- 602
 (There was 1 warning)

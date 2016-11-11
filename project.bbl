@@ -1,4 +1,4 @@
-\begin{thebibliography}{40}
+\begin{thebibliography}{50}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Bah{\'e}} et~al.(2013){Bah{\'e}}, {McCarthy}, {Balogh}, and
@@ -7,6 +7,13 @@
   environmental influence on group and cluster galaxies extend beyond the
   virial radius?},'' {\em \mnras\/}, v. 430, 2013, p. 3017--3031.
   \url{http://adsabs.harvard.edu/abs/2013MNRAS.430.3017B}
+
+\bibitem[{Bardar} et~al.(2006){Bardar}, {Prather}, {Brecher}, and
+  {Slater}]{bardar06}
+{Bardar}, EM; {Prather}, EE; {Brecher}, K; {Slater}, TF. ``{Development and
+  Validation of the Light and Spectroscopy Concept Inventory},'' {\em Astronomy
+  Education Review\/}, v.~5, 2006, p. 103--113.
+  \url{http://adsabs.harvard.edu/abs/2006AEdRv...5..103B}
 
 \bibitem[{Bekki}(2014)]{bekki14}
 {Bekki}, K. ``{Galactic star formation enhanced and quenched by ram pressure in
@@ -73,6 +80,18 @@
   Survey. X. The relationship between cold dust and molecular gas content in
   Virgo spirals},'' {\em \aap\/}, v. 542, 2012, p. A32.
   \url{http://adsabs.harvard.edu/abs/2012A\%26A...542A..32C}
+
+\bibitem[{Cormier} et~al.(2014){Cormier}, {Madden}, {Lebouteiller}, {Hony},
+  {Aalto}, {Costagliola}, {Hughes}, {R{\'e}my-Ruyer}, {Abel}, {Bayet},
+  {Bigiel}, {Cannon}, {Cumming}, {Galametz}, {Galliano}, {Viti}, and
+  {Wu}]{cormier14}
+{Cormier}, D; {Madden}, SC; {Lebouteiller}, V; {Hony}, S; {Aalto}, S;
+  {Costagliola}, F; {Hughes}, A; {R{\'e}my-Ruyer}, A; {Abel}, N; {Bayet}, E;
+  {Bigiel}, F; {Cannon}, JM; {Cumming}, RJ; {Galametz}, M; {Galliano}, F;
+  {Viti}, S; {Wu}, R. ``{The molecular gas reservoir of 6 low-metallicity
+  galaxies from the Herschel Dwarf Galaxy Survey. A ground-based follow-up
+  survey of CO(1-0), CO(2-1), and CO(3-2)},'' {\em \aap\/}, v. 564, 2014, p.
+  A121. \url{http://adsabs.harvard.edu/abs/2014A\%26A...564A.121C}
 
 \bibitem[{Cortese} et~al.(2006){Cortese}, {Gavazzi}, {Boselli}, {Franzetti},
   {Kennicutt}, {O'Neil}, and {Sakai}]{cortese06}
@@ -161,6 +180,35 @@
   imaging survey of HI selected galaxies from ALFALFA. I. Catalogue in the
   Local Supercluster},'' {\em \aap\/}, v. 545, 2012, p. A16.
   \url{http://adsabs.harvard.edu/abs/2012A\%26A...545A..16G}
+
+\bibitem[{Geach} et~al.(2013){Geach}, {Hickox}, {Diamond-Stanic}, {Krips},
+  {Moustakas}, {Tremonti}, {Coil}, {Sell}, and {Rudnick}]{geach13}
+{Geach}, JE; {Hickox}, RC; {Diamond-Stanic}, AM; {Krips}, M; {Moustakas}, J;
+  {Tremonti}, CA; {Coil}, AL; {Sell}, PH; {Rudnick}, GH. ``{A Redline
+  Starburst: CO(2-1) Observations of an Eddington-limited Galaxy Reveal Star
+  Formation at Its Most Extreme},'' {\em \apjl\/}, v. 767, 2013, p. L17.
+  \url{http://adsabs.harvard.edu/abs/2013ApJ...767L..17G}
+
+\bibitem[{Geach} et~al.(2014){Geach}, {Hickox}, {Diamond-Stanic}, {Krips},
+  {Rudnick}, {Tremonti}, {Sell}, {Coil}, and {Moustakas}]{geach14}
+{Geach}, JE; {Hickox}, RC; {Diamond-Stanic}, AM; {Krips}, M; {Rudnick}, GH;
+  {Tremonti}, CA; {Sell}, PH; {Coil}, AL; {Moustakas}, J. ``{Stellar feedback
+  as the origin of an extended molecular outflow in a starburst galaxy},'' {\em
+  \nat\/}, v. 516, 2014, p. 68--70.
+  \url{http://adsabs.harvard.edu/abs/2014Natur.516...68G}
+
+\bibitem[{Genzel} et~al.(2010){Genzel}, {Tacconi}, {Gracia-Carpio},
+  {Sternberg}, {Cooper}, {Shapiro}, {Bolatto}, {Bouch{\'e}}, {Bournaud},
+  {Burkert}, {Combes}, {Comerford}, {Cox}, {Davis}, {Schreiber},
+  {Garcia-Burillo}, {Lutz}, {Naab}, {Neri}, {Omont}, {Shapley}, and
+  {Weiner}]{genzel10}
+{Genzel}, R; {Tacconi}, LJ; {Gracia-Carpio}, J; {Sternberg}, A; {Cooper}, MC;
+  {Shapiro}, K; {Bolatto}, A; {Bouch{\'e}}, N; {Bournaud}, F; {Burkert}, A;
+  {Combes}, F; {Comerford}, J; {Cox}, P; {Davis}, M; {Schreiber}, NMF;
+  {Garcia-Burillo}, S; {Lutz}, D; {Naab}, T; {Neri}, R; {Omont}, A; {Shapley},
+  A; {Weiner}, B. ``{A study of the gas-star formation relation over cosmic
+  time},'' {\em \mnras\/}, v. 407, 2010, p. 2091--2108.
+  \url{http://adsabs.harvard.edu/abs/2010MNRAS.407.2091G}
 
 \bibitem[{Giovanelli} et~al.(2005){Giovanelli}, {Haynes}, {Kent}, {Perillat},
   {Saintonge}, {Brosch}, {Catinella}, {Hoffman}, {Stierwalt}, {Spekkens},
@@ -273,6 +321,16 @@
   of galaxy star formation rates near clusters},'' {\em \mnras\/}, v. 334,
   2002, p. 673--683. \url{http://adsabs.harvard.edu/abs/2002MNRAS.334..673L}
 
+\bibitem[{Lotz} et~al.(2013){Lotz}, {Papovich}, {Faber}, {Ferguson}, {Grogin},
+  {Guo}, {Kocevski}, {Koekemoer}, {Lee}, {McIntosh}, {Momcheva}, {Rudnick},
+  {Saintonge}, {Tran}, {van der Wel}, and {Willmer}]{lotz13}
+{Lotz}, JM; {Papovich}, C; {Faber}, SM; {Ferguson}, HC; {Grogin}, N; {Guo}, Y;
+  {Kocevski}, D; {Koekemoer}, AM; {Lee}, KS; {McIntosh}, D; {Momcheva}, I;
+  {Rudnick}, G; {Saintonge}, A; {Tran}, KV; {van der Wel}, A; {Willmer}, C.
+  ``{Caught in the Act: The Assembly of Massive Cluster Galaxies at z =
+  1.62},'' {\em \apj\/}, v. 773, 2013, p. 154.
+  \url{http://adsabs.harvard.edu/abs/2013ApJ...773..154L}
+
 \bibitem[{McCarthy} et~al.(2007){McCarthy}, {Bower}, {Balogh}, {Voit},
   {Pearce}, {Theuns}, {Babul}, {Lacey}, and {Frenk}]{mccarthy07}
 {McCarthy}, IG; {Bower}, RG; {Balogh}, ML; {Voit}, GM; {Pearce}, FR; {Theuns},
@@ -280,6 +338,20 @@
   cluster mergers - I. Moving beyond the spherical accretion model},'' {\em
   \mnras\/}, v. 376, 2007, p. 497--522.
   \url{http://adsabs.harvard.edu/abs/2007MNRAS.376..497M}
+
+\bibitem[{Papovich} et~al.(2012){Papovich}, {Bassett}, {Lotz}, {van der Wel},
+  {Tran}, {Finkelstein}, {Bell}, {Conselice}, {Dekel}, {Dunlop}, {Guo},
+  {Faber}, {Farrah}, {Ferguson}, {Finkelstein}, {H{\"a}ussler}, {Kocevski},
+  {Koekemoer}, {Koo}, {McGrath}, {McLure}, {McIntosh}, {Momcheva}, {Newman},
+  {Rudnick}, {Weiner}, {Willmer}, and {Wuyts}]{papovich12}
+{Papovich}, C; {Bassett}, R; {Lotz}, JM; {van der Wel}, A; {Tran}, KV;
+  {Finkelstein}, SL; {Bell}, EF; {Conselice}, CJ; {Dekel}, A; {Dunlop}, JS;
+  {Guo}, Y; {Faber}, SM; {Farrah}, D; {Ferguson}, HC; {Finkelstein}, KD;
+  {H{\"a}ussler}, B; {Kocevski}, DD; {Koekemoer}, AM; {Koo}, DC; {McGrath}, EJ;
+  {McLure}, RJ; {McIntosh}, DH; {Momcheva}, I; {Newman}, JA; {Rudnick}, G;
+  {Weiner}, B; {Willmer}, CNA; {Wuyts}, S. ``{CANDELS Observations of the
+  Structural Properties of Cluster Galaxies at z = 1.62},'' {\em \apj\/}, v.
+  750, 2012, p.~93. \url{http://adsabs.harvard.edu/abs/2012ApJ...750...93P}
 
 \bibitem[{Pardo} et~al.(2011){Pardo}, {Rovira-Esteva}, {Busch}, {Moulin}, and
   {Tamarit}]{pardo11}
@@ -310,6 +382,13 @@
   Galaxies in Clusters},'' {\em Science\/}, v. 288, 2000, p. 1617--1620.
   \url{http://adsabs.harvard.edu/abs/2000Sci...288.1617Q}
 
+\bibitem[{Rudnick} et~al.(2012){Rudnick}, {Tran}, {Papovich}, {Momcheva}, and
+  {Willmer}]{rudnick12}
+{Rudnick}, GH; {Tran}, KV; {Papovich}, C; {Momcheva}, I; {Willmer}, C. ``{A
+  Tale of Dwarfs and Giants: Using a z = 1.62 Cluster to Understand How the Red
+  Sequence Grew over the Last 9.5 Billion Years},'' {\em \apj\/}, v. 755, 2012,
+  p.~14. \url{http://adsabs.harvard.edu/abs/2012ApJ...755...14R}
+
 \bibitem[{Sala} et~al.(2012){Sala}, {Haberl}, {Jos{\'e}}, {Parikh}, {Longland},
   {Pardo}, and {Andersen}]{sala12}
 {Sala}, G; {Haberl}, F; {Jos{\'e}}, J; {Parikh}, A; {Longland}, R; {Pardo}, LC;
@@ -323,9 +402,28 @@
   and black holes in galaxy mergers},'' {\em \mnras\/}, v. 361, 2005, p.
   776--794. \url{http://adsabs.harvard.edu/abs/2005MNRAS.361..776S}
 
+\bibitem[{Tran} et~al.(2015){Tran}, {Nanayakkara}, {Yuan}, {Kacprzak},
+  {Glazebrook}, {Kewley}, {Momcheva}, {Papovich}, {Quadri}, {Rudnick},
+  {Saintonge}, {Spitler}, {Straatman}, and {Tomczak}]{tran15}
+{Tran}, KVH; {Nanayakkara}, T; {Yuan}, T; {Kacprzak}, GG; {Glazebrook}, K;
+  {Kewley}, LJ; {Momcheva}, I; {Papovich}, CJ; {Quadri}, R; {Rudnick}, G;
+  {Saintonge}, A; {Spitler}, LR; {Straatman}, C; {Tomczak}, A. ``{ZFIRE: Galaxy
+  Cluster Kinematics, H alpha Star Formation Rates, and Gas Phase Metallicities
+  of XMM-LSS J02182-05102 at zcl = 1.6232},'' {\em \apj\/}, v. 811, 2015,
+  p.~28. \url{http://adsabs.harvard.edu/abs/2015ApJ...811...28T}
+
 \bibitem[{Tully}(1982)]{tully82}
 {Tully}, RB. ``{The Local Supercluster},'' {\em \apj\/}, v. 257, 1982, p.
   389--422. \url{http://adsabs.harvard.edu/abs/1982ApJ...257..389T}
+
+\bibitem[{Wong} et~al.(2014){Wong}, {Tran}, {Suyu}, {Momcheva}, {Brammer},
+  {Brodwin}, {Gonzalez}, {Halkola}, {Kacprzak}, {Koekemoer}, {Papovich}, and
+  {Rudnick}]{wong14}
+{Wong}, KC; {Tran}, KVH; {Suyu}, SH; {Momcheva}, IG; {Brammer}, GB; {Brodwin},
+  M; {Gonzalez}, AH; {Halkola}, A; {Kacprzak}, GG; {Koekemoer}, AM; {Papovich},
+  CJ; {Rudnick}, GH. ``{Discovery of a Strong Lensing Galaxy Embedded in a
+  Cluster at z = 1.62},'' {\em \apjl\/}, v. 789, 2014, p. L31.
+  \url{http://adsabs.harvard.edu/abs/2014ApJ...789L..31W}
 
 \bibitem[{Yoon} et~al.(2011){Yoon}, {Weinberg}, and {Katz}]{yoon11}
 {Yoon}, I; {Weinberg}, MD; {Katz}, N. ``{New insights into galaxy structure

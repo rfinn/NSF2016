@@ -282,11 +282,11 @@ The two filaments contain over 600 galaxies, and we show the $NUV-r$
 color versus stellar mass for these galaxies in Figure \ref{sample}.
 The grey circles show all the filament galaxies that are in the
 NASA-Sloan Atlas \citep{blanton05}, which we use as our primary galaxy
-catalog.  The green points show points
-that we will target with CO observations.  We have restricted the mass
+catalog.  The green points show the 120 galaxies 
+we will target with CO observations.  We have restricted the mass
 range for the CO sample to $9 < \log_{10} (M_\star/M_\odot) < 10$.
 Galaxies below this mass limit are difficult to detect in CO due
-to lower metallicity and photodissociation of CO (ref).  We set the
+to lower metallicity and photodissociation of CO \citep[e.g.][]{cormier14}.  We set the
 upper limit to the mass range because we expect that galaxies with
 $\log (M_\star/M_\odot) < 10$ will be most affected by the
 environment.  We will push above this mass limit as telescope time
@@ -672,60 +672,47 @@ model parameters.
 %The Intel
 %compiler suite is available to create efficient custom programs.
 
+
 The analysis of the WISE imaging will be the most computationally
 intensive part of the proposed work because we plan to run multiple
 models for each galaxy to assess the impact of our initial conditions
-on the resulting size measurements.  
-We estimate the computational complexity for analyzing the WISE images
-for $\sim 200$ 
-galaxies with GALFIT in a systematic fashion. We would scan over the
-five-dimensional parameter space  p$=$(x,y, radius, concentration,
-brightness), by discretizing each dimension from a minimum search
-value to a maximum one, and sweeping over the entire mesh of points.
-Assuming an average of 10 points per search direction, we have a
-lattice with $10^5$ points. Preliminary analyses showed that the average
-fitting time is about 20 seconds with GALFIT. Therefore, the total
-computational time  for scanning the entire parameter space is of the
-order $1.4 \times 10^{10}$ seconds, which is  prohibitively high for the
-computational resources at Siena College. However,there is no need to
-sample over ALL the points, since we are interested only in the number
-of the basins of attraction of each value $p*$. In other words, GALFIT
-provides a direct way to map all possible starting points $\{p\}$ to a
-subset of points $\{p*\}$ of 'best fit' points. Since the minimization
-algorithm used by GALFIT is  the Levenberg-Marquardt algorithm, one can safely assume that around the minimum $p*$,
-the best fit function is quadratic. We can therefore estimate the
-Hessian numerically around such points and extrapolate the size of the
-basin of attraction. In this way we can remove a number of points $\{p\}$
-from subsequent sweeps, as they would likely converge to the same attractor
-$p*$. We cannot estimate the size of the basins of
-attraction precisely, nor the number of minima $p*$, at this stage. 
-For instance, if we find that only one or two minima exist, then quickly
-50\% to up almost 100\% of the points can be skipped in the subsequent
-sweeps, because they would not bring any  additional information. The
-calculation would be quite fast in this case.  A higher number of
-local minima will only be detected by systematically sampling phase space.
-The \sers \ model requires an initial guess for the center (x,y),
-effective radius, \sers \ index, and magnitude.
+on the resulting size measurements.   We estimate the computational
+complexity for analyzing the WISE images for $\sim 200$ galaxies with
+GALFIT in a systematic fashion.  We would scan over the
+five-dimensional parameter space p$=$(x, y, radius, concentration,
+brightness), by discretizing each dimension between a minimum and a
+maximum value. Assuming an average of 10 points per search direction,
+the discrete lattices has $10^5$ points. Preliminary analyses show
+that the average time GALFIT takes to fit each WISE image is about 20
+seconds. That corresponds to a total estimated computational time of
+the order $4 \times 10^{8}$ seconds to scan the entire parameter
+space, which can be managed by the High Performance  Computer Cluster
+(HPCC, see Facilities section of this proposal) available at Siena
+College (in about a couple of weeks of computational time). However,
+additional fine tuning of the parameters (e.g. by
+doubling the number of lattice points per parameter dimension) can
+quickly lead to a system that is beyond to Siena College’s current
+computational capabilities.  For that reason we plan to perform a
+stochastic sampling of the parameter space, with GALFIT.  In fact,
+since GALFIT’s minimization algorithm is based on a quadratic function
+(by means of the Levenberg-Marquardt algorithm), we can estimate the
+Hessian numerically around randomly chosen starting points $\{p\}$
+from which we can extrapolate the size of the basin of attraction (the
+\sers \ model requires an initial guess for the center (x,y),
+effective radius, \sers \ index, and magnitude) . A similar strategy
+has been successfully adopted in \citep{pardo11} where Monte Carlo
+sampling alternates with gradient minimization algorithm.  By running
+it on Siena College’s HPCC, we estimate it would take less than 2 days
+of computational time. The test and exploratory runs are anticipated
+to take an additional 50 CPU hours \citep[for a recent application of
+this method see,]{sala12}. The two computational techniques described
+above are sufficient to create a map of the full phase diagram
+accurately.  In addition, we will compare the GALFIT results to those
+generated by other independent fitting programs such as  GALPHAT
+\citep{yoon11} and The Tractor \citep{lang16}.
 
-We are also considering a stochastic sampling of the parameter space,
-by alternating a Monte Carlo sampling with the gradient minimization
-algorithm \citep{pardo11}. The code would be serial, but optimized for speed. In this
-case, the statistical errors decrease with 1/sqrt(N) where N is the
-number of sampling points in the parameter space. If N=1000 the
-relative error is of the order of 3\%, which is acceptable. Such an error
-is independent of the number of dimensions of the parameter space.
-Therefore  stochastic sampling will have a definitive advantage.
-By running it on the High Performance  Computer
-Cluster  (described in Facilities) at Siena College, it would take about 8
-days of computational time. The test and exploratory runs are
-anticipated to take an additional 50 CPU hours \citep[for a recent
-application of this method see,][]{sala12}.
 
-The two computational techniques described above are sufficient to
-create a map of the full phase diagram accurately.  In addition, we
-will compare the GALFIT results to those generated by other
-independent fitting programs such as 
-GALPHAT \citep{yoon11} and The Tractor \citep{lang16}.
+
 
 
 \vspace*{-1cm}
@@ -874,15 +861,15 @@ Francoise Combes, PhD, is a Professor at College de France, and astrophysicist a
 
 
 
-A total of 12 Siena College undergraduates students will be involved
-in this project over the course of three summers.  During the first
-summer, the students will work on cross-matching our galaxy sample
-with ALFALFA, GIM2D structural fits, and the unWISE photometric catalogs.  During the second summer, the
-students will analyze the star-forming main sequence using the
-WISE-derived star-formation rates.
+% A total of 12 Siena College undergraduates students will be involved
+% in this project over the course of three summers.  During the first
+% summer, the students will work on cross-matching our galaxy sample
+% with ALFALFA, GIM2D structural fits, and the unWISE photometric catalogs.  During the second summer, the
+% students will analyze the star-forming main sequence using the
+% WISE-derived star-formation rates.
 
 %\input{milestones}
-\input{datamanagement}
+%\input{datamanagement}
 
 
 \begin{figure}[h]
@@ -919,8 +906,10 @@ timely manner.
 \section{Broader Impact}
 
 \vspace*{-.4cm}
-\subsection{Modeling Physics for High School Programs}
+\subsection{Siena College}
 \vspace*{-.4cm}
+
+{\bf Modeling Physics for High School Programs:  }
 The modeling
 approach is an innovatve and effective way to teach physics that is 
 fundamentally different from traditional techniques.  Students are led through
@@ -956,9 +945,7 @@ will administer the force concept inventory and mechanics baseline test.
 %the opportunities for Siena students.  Second, the teachers will have time for informal
 %conversations to exchange teaching ideas and materials.
 
-\vspace*{-.7cm}
-\subsection{Undergraduate Research}
-\vspace*{-.4cm}
+{\bf Undergraduate Research  :}
 The importance of undergraduate research is widely recognized
 in the science community.
 {\em Recent studies have shown that undergraduate research may be the
@@ -967,7 +954,7 @@ Statement and references therein).}
 Involvement in research projects
 fosters highly motivated, self-confident students with enhanced
 analytical and communication skills. 
-The PI supervised 35 undergraduate students during the tenure of her
+The PI supervised 24 undergraduate students during the tenure of her
 previous NSF grant (AST-0847430).
 
 %The other member institutions are Colgate University,
@@ -1066,6 +1053,9 @@ who are involved in this project.  I will design and implement a survey to
 assess student plans/goals before, during, and after
 participation in research.
 
+\input{broader_impact_kansas}
+
+\input{prior_results_and_BI_rudnick}
 \vspace*{-.7cm}
 \section{Summary}
 \vspace*{-.25cm}
