@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/MacPorts 2014_9) (preloaded format=xelatex 2014.11.18)  10 NOV 2016 22:08
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/MacPorts 2014_9) (preloaded format=xelatex 2014.11.18)  10 NOV 2016 22:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -190,16 +190,16 @@ AAS preprint substyle, v5.2 <12 Dec 2003>.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Try loading font information for U+lasy on input line 34.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 36.
 (/opt/local/share/texmf-texlive/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 34.
+LaTeX Font Info:    Try loading font information for U+msa on input line 36.
 
 (/opt/local/share/texmf-texlive/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 34.
+LaTeX Font Info:    Try loading font information for U+msb on input line 36.
 
 (/opt/local/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -232,7 +232,7 @@ File: HalphaProfileWISE.png Graphic file (type QTm)
 File: NSA-88353.png Graphic file (type QTm)
  <use  "NSA-88353.png" >
 
-Package natbib Warning: Citation `finn16' on page 8 undefined on input line 627
+Package natbib Warning: Citation `finn16' on page 8 undefined on input line 629
 .
 
 Missing character: There is no ’ in font cmr10!
@@ -247,19 +247,19 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 [9] [10]
 
 LaTeX Warning: Reference `datamanagement' on page 11 undefined on input line 79
-6.
+8.
 
 [11]
-File: work-plan.pdf Graphic file (type QTm)
- <use  "work-plan.pdf" > [12] [13]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 1029
+File: work-plan_v2.pdf Graphic file (type QTm)
+ <use  "work-plan_v2.pdf" > [12] [13]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 1031
 .
 
 (/opt/local/share/texmf-texlive/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1029.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1031.
 
 
 (./broader_impact_kansas.tex [14]) (./prior_results_and_BI_rudnick.tex [15]
@@ -415,18 +415,15 @@ Package natbib Warning: There were undefined citations.
 
 LaTeX Warning: There were undefined references.
 
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 518 ({)
+### simple group (level 1) entered at line 520 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
  2627 strings out of 494893
- 32701 string characters out of 6167766
- 100324 words of memory out of 5000000
+ 32707 string characters out of 6167766
+ 100388 words of memory out of 5000000
  5854 multiletter control sequences out of 15000+600000
  18508 words of font info for 74 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
