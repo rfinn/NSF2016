@@ -1,8 +1,8 @@
 This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
-The top-level auxiliary file: project.aux
+The top-level auxiliary file: project.test.aux
 Case mismatch error between cite keys larson80 and Larson80
----line 15 of file project.aux
+---line 15 of file project.test.aux
  : \citation{larson80
  :                   }
 I'm skipping whatever remains of this command
@@ -325,7 +325,7 @@ I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "finn16"
 You've used 59 entries,
             2925 wiz_defined-function locations,
-            1101 strings with 26267 characters,
+            1101 strings with 26277 characters,
 and the built_in function-call counts, 80913 in all, are:
 = -- 7408
 > -- 5165

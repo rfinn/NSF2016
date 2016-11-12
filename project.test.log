@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  12 NOV 2016 15:52
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  12 NOV 2016 00:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**project.tex
-(./project.tex
+**project.test.tex
+(./project.test.tex
 LaTeX2e <2011/06/27>
 Babel <3.9f> and hyphenation patterns for 78 languages loaded.
 (./aastex.cls
@@ -148,8 +148,8 @@ Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 \epsfxsize=\dimen123
 \epsfysize=\dimen124
 )
-(./project.aux)
-\openout1 = `project.aux'.
+(./project.test.aux)
+\openout1 = `project.test.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
 LaTeX Font Info:    ... okay on input line 22.
@@ -271,79 +271,85 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 34.
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
-] [2]
-<CLUES-DM.png, id=15, 803.0pt x 803.0pt>
+]
+
+Package natbib Warning: Citation `larson80' on page 2 undefined on input line 1
+26.
+
+<CLUES-DM.png, id=11, 803.0pt x 803.0pt>
 File: CLUES-DM.png Graphic file (type png)
  <use CLUES-DM.png>
-Package pdftex.def Info: CLUES-DM.png used on input line 177.
+Package pdftex.def Info: CLUES-DM.png used on input line 156.
 (pdftex.def)             Requested size: 225.4804pt x 225.47562pt.
 
-<gomez2003-fg6a.png, id=16, 391.4625pt x 488.82625pt>
+<gomez2003-fg6a.png, id=12, 391.4625pt x 488.82625pt>
 File: gomez2003-fg6a.png Graphic file (type png)
  <use gomez2003-fg6a.png>
-Package pdftex.def Info: gomez2003-fg6a.png used on input line 178.
+Package pdftex.def Info: gomez2003-fg6a.png used on input line 157.
 (pdftex.def)             Requested size: 183.20416pt x 228.77124pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<filaments.png, id=17, 433.62pt x 361.35pt>
+[2] <filaments.png, id=17, 433.62pt x 361.35pt>
 File: filaments.png Graphic file (type png)
  <use filaments.png>
-Package pdftex.def Info: filaments.png used on input line 316.
+Package pdftex.def Info: filaments.png used on input line 295.
 (pdftex.def)             Requested size: 234.8775pt x 195.7326pt.
 
 <KimFig2a.png, id=19, 492.84125pt x 430.60875pt>
 File: KimFig2a.png Graphic file (type png)
  <use KimFig2a.png>
-Package pdftex.def Info: KimFig2a.png used on input line 317.
+Package pdftex.def Info: KimFig2a.png used on input line 296.
 (pdftex.def)             Requested size: 216.09045pt x 188.8048pt.
- [3]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[4 <./CLUES-DM.png> <./gomez2003-fg6a.png>]
-<sample.png, id=28, 794.97pt x 361.35pt>
+ [3 <./CLUES-DM.png> <./gomez2003-fg6a.png>] [4 <./filaments.png> <./KimFig2a.p
+ng>]
+<sample.png, id=31, 794.97pt x 361.35pt>
 File: sample.png Graphic file (type png)
  <use sample.png>
-Package pdftex.def Info: sample.png used on input line 360.
+Package pdftex.def Info: sample.png used on input line 339.
 (pdftex.def)             Requested size: 469.75502pt x 213.53099pt.
+ [5 <./sample.png>]
+<sdss-montage.png, id=38, 556.0775pt x 659.46375pt>
+File: sdss-montage.png Graphic file (type png)
+ <use sdss-montage.png>
+Package pdftex.def Info: sdss-montage.png used on input line 420.
+(pdftex.def)             Requested size: 225.4804pt x 267.40335pt.
+
+<CO-detection.png, id=39, 485.815pt x 645.41125pt>
+File: CO-detection.png Graphic file (type png)
+ <use CO-detection.png>
+Package pdftex.def Info: CO-detection.png used on input line 421.
+(pdftex.def)             Requested size: 187.89914pt x 249.62157pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5 <./filaments.png> <./KimFig2a.png>] [6 <./sample.png>]
-<sdss-montage.png, id=41, 556.0775pt x 659.46375pt>
-File: sdss-montage.png Graphic file (type png)
- <use sdss-montage.png>
-Package pdftex.def Info: sdss-montage.png used on input line 441.
-(pdftex.def)             Requested size: 225.4804pt x 267.40335pt.
-
-<CO-detection.png, id=42, 485.815pt x 645.41125pt>
-File: CO-detection.png Graphic file (type png)
- <use CO-detection.png>
-Package pdftex.def Info: CO-detection.png used on input line 442.
-(pdftex.def)             Requested size: 187.89914pt x 249.62157pt.
-
-[7 <./sdss-montage.png> <./CO-detection.png>]
-<HalphaProfileWISE.png, id=47, 955.57pt x 434.62375pt>
+[6] <HalphaProfileWISE.png, id=43, 955.57pt x 434.62375pt>
 File: HalphaProfileWISE.png Graphic file (type png)
 
 <use HalphaProfileWISE.png>
-Package pdftex.def Info: HalphaProfileWISE.png used on input line 500.
+Package pdftex.def Info: HalphaProfileWISE.png used on input line 479.
 (pdftex.def)             Requested size: 399.29463pt x 181.61227pt.
- [8 <./HalphaProfileWISE.png>]
-<NSA-88353.png, id=51, 1115.16624pt x 580.1675pt>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7 <./sdss-montage.png> <./CO-detection.png>]
+<NSA-88353.png, id=48, 1115.16624pt x 580.1675pt>
 File: NSA-88353.png Graphic file (type png)
  <use NSA-88353.png>
-Package pdftex.def Info: NSA-88353.png used on input line 631.
+Package pdftex.def Info: NSA-88353.png used on input line 610.
 (pdftex.def)             Requested size: 399.29463pt x 207.72699pt.
 
 
-Package natbib Warning: Citation `finn16' on page 9 undefined on input line 675
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Package natbib Warning: Citation `finn16' on page 8 undefined on input line 654
 .
 
-[9 <./NSA-88353.png>]
+[8 <./HalphaProfileWISE.png>]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
@@ -353,48 +359,48 @@ Missing character: There is no ™ in font cmr10!
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
- <lizhi_comparison.png, id=55, 839.135pt x 722.7pt>
+ [9 <./NSA-88353.png>]
+<lizhi_comparison.png, id=55, 839.135pt x 722.7pt>
 File: lizhi_comparison.png Graphic file (type png)
-
-<use lizhi_comparison.png>
-Package pdftex.def Info: lizhi_comparison.png used on input line 796.
+ <use lizhi_comparison.png>
+Package pdftex.def Info: lizhi_comparison.png used on input line 775.
 (pdftex.def)             Requested size: 399.29463pt x 343.89258pt.
- [10]
+
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
-LaTeX Warning: Reference `datamanagement' on page 11 undefined on input line 84
-4.
+LaTeX Warning: Reference `datamanagement' on page 10 undefined on input line 82
+3.
 
-[11] [12 <./lizhi_comparison.png>]
-<work-plan_v2.pdf, id=67, 1027.84pt x 770.88pt>
+[10] [11 <./lizhi_comparison.png>]
+<work-plan_v2.pdf, id=64, 1027.84pt x 770.88pt>
 File: work-plan_v2.pdf Graphic file (type pdf)
  <use work-plan_v2.pdf>
-Package pdftex.def Info: work-plan_v2.pdf used on input line 928.
+Package pdftex.def Info: work-plan_v2.pdf used on input line 907.
 (pdftex.def)             Requested size: 469.75502pt x 352.31538pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[13] [14 <./work-plan_v2.pdf>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 1077
+[12] [13 <./work-plan_v2.pdf>]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 1056
 .
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1077.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 1056.
 
-
-(./broader_impact_kansas.tex [15]) (./prior_results_and_BI_rudnick.tex [16]
-[17]
+ [14]
+(./broader_impact_kansas.tex) [15] (./prior_results_and_BI_rudnick.tex [16]
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 83.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 83.
-) [18] [19] (./project.bbl
+)
+[17] [18] (./project.test.bbl
 Underfull \hbox (badness 1838) in paragraph at lines 43--49
 []\OT1/cmr/m/n/10.95 Blanton, MR; Schlegel, DJ; Strauss, MA; Brinkmann, J; Fink
 beiner, D; Fukugita, M;
@@ -418,7 +424,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 85--88
 /cmr/m/n/10.95 , v. 659, 2007, p. L115--L119.
  []
 
-[20
+[19
 
 ]
 Underfull \hbox (badness 3291) in paragraph at lines 115--120
@@ -444,7 +450,7 @@ Underfull \hbox (badness 1337) in paragraph at lines 131--135
 mr/m/it/10.95 AJ\OT1/cmr/m/n/10.95 , v. 130, 2005, p. 65--72.
  []
 
-[21]
+[20]
 Underfull \hbox (badness 4328) in paragraph at lines 207--212
 []\OT1/cmr/m/n/10.95 Finn, RA; De-sai, V; Rud-nick, G; Pog-gianti, B; Bell, EF;
  Hinz, J; Jablonka, P;
@@ -493,7 +499,7 @@ Underfull \hbox (badness 1122) in paragraph at lines 231--236
 mr/m/it/10.95 Na-ture\OT1/cmr/m/n/10.95 , v. 516, 2014, p. 68--70.
  []
 
-[22]
+[21]
 Underfull \hbox (badness 10000) in paragraph at lines 283--286
 []\OT1/cmr/m/n/10.95 Gunn, JE; Gott, JR, III. ``On the In-fall of Mat-ter Into 
 Clus-ters of Galax-
@@ -529,7 +535,7 @@ Underfull \hbox (badness 2564) in paragraph at lines 336--341
 /10.95 MN-RAS\OT1/cmr/m/n/10.95 , v. 400, 2009, p. 183--203.
  []
 
-[23]
+[22]
 Underfull \hbox (badness 2503) in paragraph at lines 394--399
 []\OT1/cmr/m/n/10.95 McCarthy, IG; Bower, RG; Balogh, ML; Voit, GM; Pearce, FR;
  The-uns, T; Babul,
@@ -541,7 +547,7 @@ Underfull \hbox (badness 2359) in paragraph at lines 394--399
 it/10.95 MN-RAS\OT1/cmr/m/n/10.95 , v. 376, 2007, p. 497--522.
  []
 
-[24]
+[23]
 Underfull \hbox (badness 10000) in paragraph at lines 466--469
 []\OT1/cmr/m/n/10.95 Springel, V; Di Mat-teo, T; Hern-quist, L. ``Mod-elling fe
 ed-back from stars and
@@ -567,26 +573,23 @@ LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
 
 Package natbib Warning: There were undefined citations.
 
-[25] (./project.aux)
+[24] (./project.test.aux)
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 566 ({)
+### simple group (level 1) entered at line 545 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 3562 strings out of 493315
- 47949 string characters out of 6137904
- 125129 words of memory out of 5000000
- 6927 multiletter control sequences out of 15000+600000
+ 3563 strings out of 493315
+ 48014 string characters out of 6137904
+ 123128 words of memory out of 5000000
+ 6928 multiletter control sequences out of 15000+600000
  18508 words of font info for 74 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,8n,31p,1639b,413s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,8n,31p,1561b,414s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx6.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm
@@ -606,10 +609,10 @@ local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/lo
 cal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/loca
 l/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local
 /texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on project.pdf (25 pages, 4180080 bytes).
+Output written on project.test.pdf (24 pages, 4176252 bytes).
 PDF statistics:
- 201 PDF objects out of 1000 (max. 8388607)
- 134 compressed objects within 2 object streams
+ 197 PDF objects out of 1000 (max. 8388607)
+ 131 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
