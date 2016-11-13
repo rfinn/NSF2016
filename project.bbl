@@ -47,6 +47,10 @@
   Public Surveys},'' {\em \aj\/}, v. 129, 2005, p. 2562--2578.
   \url{http://adsabs.harvard.edu/abs/2005AJ....129.2562B}
 
+\bibitem[Bolatto et~al.(2013)Bolatto, Wolfire, and Leroy]{Bolatto13}
+Bolatto, AD; Wolfire, M; Leroy, AK. ``{The CO-to-H2 Conversion Factor},'' {\em
+  Annual Review of Astronomy {\&} Astrophysics\/}, v.~51, 2013, p. 207--268
+
 \bibitem[{Boselli} et~al.(2011){Boselli}, {Boissier}, {Heinis}, {Cortese},
   {Ilbert}, {Hughes}, {Cucciati}, {Davies}, {Ferrarese}, {Giovanelli},
   {Haynes}, {Baes}, {Balkowski}, {Brosch}, {Chapman}, {Charmandaris},
@@ -85,6 +89,18 @@
 {Chung}, A; {van Gorkom}, JH; {Kenney}, JDP; {Vollmer}, B. ``{Virgo Galaxies
   with Long One-sided H I Tails},'' {\em \apjl\/}, v. 659, 2007, p. L115--L119.
   \url{http://adsabs.harvard.edu/abs/2007ApJ...659L.115C}
+
+\bibitem[Ciesla et~al.(2012)Ciesla, Boselli, Smith, Bendo, Cortese, Eales,
+  Bianchi, Boquien, Buat, Davies, Pohlen, Zibetti, Baes, Cooray, De~Looze,
+  di~Serego~Alighieri, Galametz, Gomez, Lebouteiller, Madden, Pappalardo, Remy,
+  Spinoglio, Vaccari, Auld, and Clements]{Ciesla12}
+Ciesla, L; Boselli, A; Smith, MWL; Bendo, GJ; Cortese, L; Eales, S; Bianchi, S;
+  Boquien, M; Buat, V; Davies, J; Pohlen, M; Zibetti, S; Baes, M; Cooray, A;
+  De~Looze, I; di~Serego~Alighieri, S; Galametz, M; Gomez, HL; Lebouteiller, V;
+  Madden, SC; Pappalardo, C; Remy, A; Spinoglio, L; Vaccari, M; Auld, R;
+  Clements, DL. ``{Submillimetre photometry of 323 nearby galaxies from the
+  Herschel Reference Survey},'' {\em Astronomy and Astrophysics\/}, v. 543,
+  2012, p. A161
 
 \bibitem[{Corbelli} et~al.(2012){Corbelli}, {Bianchi}, {Cortese}, {Giovanardi},
   {Magrini}, {Pappalardo}, {Boselli}, {Bendo}, {Davies}, {Grossi}, {Madden},
@@ -305,14 +321,6 @@
   spiral galaxies},'' {\em \apj\/}, v. 267, 1983, p. 563--570.
   \url{http://adsabs.harvard.edu/abs/1983ApJ...267..563H}
 
-\bibitem[{Kauffmann} et~al.(2004){Kauffmann}, {White}, {Heckman}, {M{\'e}nard},
-  {Brinchmann}, {Charlot}, {Tremonti}, and {Brinkmann}]{kauffmann04}
-{Kauffmann}, G; {White}, SDM; {Heckman}, TM; {M{\'e}nard}, B; {Brinchmann}, J;
-  {Charlot}, S; {Tremonti}, C; {Brinkmann}, J. ``{The environmental dependence
-  of the relations between stellar mass, structure, star formation and nuclear
-  activity in galaxies},'' {\em \mnras\/}, v. 353, 2004, p. 713--731.
-  \url{http://adsabs.harvard.edu/abs/2004MNRAS.353..713K}
-
 \bibitem[{Kawata} \& {Mulchaey}(2008){Kawata} and {Mulchaey}]{kawata08}
 {Kawata}, D; {Mulchaey}, JS. ``{Strangulation in Galaxy Groups},'' {\em
   \apjl\/}, v. 672, 2008, p. L103--L106.
@@ -422,11 +430,6 @@
 {Peng}, CY; {Ho}, LC; {Impey}, CD; {Rix}, HW. ``{Detailed Structural
   Decomposition of Galaxy Images},'' {\em \aj\/}, v. 124, 2002, p. 266--293.
   \url{http://adsabs.harvard.edu/abs/2002AJ....124..266P}
-
-\bibitem[{Peng} et~al.(2010){Peng}, {Ho}, {Impey}, and {Rix}]{peng10}
----. ``{Detailed Decomposition of Galaxy Images. II. Beyond Axisymmetric
-  Models},'' {\em \aj\/}, v. 139, 2010, p. 2097--2129.
-  \url{http://adsabs.harvard.edu/abs/2010AJ....139.2097P}
 
 \bibitem[{Poggianti} et~al.(1999){Poggianti}, {Smail}, {Dressler}, {Couch},
   {Barger}, {Butcher}, {Ellis}, and {Oemler}]{poggianti99}

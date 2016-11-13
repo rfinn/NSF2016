@@ -1,11 +1,6 @@
 This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: project.aux
-Case mismatch error between cite keys larson80 and Larson80
----line 15 of file project.aux
- : \citation{larson80
- :                   }
-I'm skipping whatever remains of this command
 The style file: nsf.bst
 Database file #1: rfinn.bib
 Database file #2: nsfCAREERref14.bib
@@ -103,10 +98,6 @@ You're missing a field part---line 6120 of file references_2.bib
  :     month = 
  :             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6242 of file references_2.bib
- : @article{Kauffmann04
- :                     ,
-I'm skipping whatever remains of this entry
 Repeated entry---line 6305 of file references_2.bib
  : @article{Kawata08
  :                  ,
@@ -151,10 +142,6 @@ I'm skipping whatever remains of this entry
 You're missing a field part---line 9109 of file references_2.bib
  :     month = 
  :             ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 9330 of file references_2.bib
- : @article{Peng10
- :                ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 9510 of file references_2.bib
  : @article{Poggianti99
@@ -258,10 +245,6 @@ Repeated entry---line 5415 of file HSTreferences.bib
  : @article{Hirschmann14
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6294 of file HSTreferences.bib
- : @article{Kauffmann04
- :                     ,
-I'm skipping whatever remains of this entry
 Repeated entry---line 6376 of file HSTreferences.bib
  : @article{Kawata08
  :                  ,
@@ -294,10 +277,6 @@ Repeated entry---line 9281 of file HSTreferences.bib
  : @article{Papovich12
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 9540 of file HSTreferences.bib
- : @article{Peng10
- :                ,
-I'm skipping whatever remains of this entry
 Repeated entry---line 9720 of file HSTreferences.bib
  : @article{Poggianti99
  :                     ,
@@ -325,43 +304,43 @@ I'm skipping whatever remains of this entry
 Warning--I didn't find a database entry for "finn16"
 You've used 59 entries,
             2925 wiz_defined-function locations,
-            1101 strings with 26267 characters,
-and the built_in function-call counts, 80913 in all, are:
-= -- 7408
-> -- 5165
+            1101 strings with 26433 characters,
+and the built_in function-call counts, 80653 in all, are:
+= -- 7328
+> -- 5301
 < -- 127
-+ -- 1931
-- -- 1872
-* -- 8630
-:= -- 12652
-add.period$ -- 117
++ -- 1982
+- -- 1923
+* -- 8622
+:= -- 12692
+add.period$ -- 115
 call.type$ -- 59
-change.case$ -- 919
+change.case$ -- 936
 chr.to.int$ -- 59
 cite$ -- 59
-duplicate$ -- 1719
-empty$ -- 5201
-format.name$ -- 1945
-if$ -- 16551
+duplicate$ -- 1717
+empty$ -- 5090
+format.name$ -- 1996
+if$ -- 16439
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 60
 newline$ -- 181
 num.names$ -- 236
-pop$ -- 757
+pop$ -- 777
 preamble$ -- 1
-purify$ -- 860
+purify$ -- 877
 quote$ -- 0
-skip$ -- 1340
+skip$ -- 1336
 stack$ -- 0
-substring$ -- 10652
-swap$ -- 724
+substring$ -- 10334
+swap$ -- 722
 text.length$ -- 116
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 531
 warning$ -- 0
-while$ -- 330
+while$ -- 328
 width$ -- 0
-write$ -- 709
-(There were 78 error messages)
+write$ -- 707
+(There were 73 error messages)
