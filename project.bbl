@@ -1,4 +1,4 @@
-\begin{thebibliography}{59}
+\begin{thebibliography}{55}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Bah{\'e}} et~al.(2013){Bah{\'e}}, {McCarthy}, {Balogh}, and
@@ -190,10 +190,6 @@ Ciesla, L; Boselli, A; Smith, MWL; Bendo, GJ; Cortese, L; Eales, S; Bianchi, S;
   heating},'' {\em \mnras\/}, v. 368, 2006, p. 2--20.
   \url{http://adsabs.harvard.edu/abs/2006MNRAS.368....2D}
 
-\bibitem[{Farouki} \& {Shapiro}(1982){Farouki} and {Shapiro}]{Farouki82}
-{Farouki}, RT; {Shapiro}, SL. ``{Simulations of merging disk galaxies},'' {\em
-  ApJ\/}, v. 259, 1982, p. 103--115
-
 \bibitem[{Ferrarese} et~al.(2012){Ferrarese}, {C{\^o}t{\'e}}, {Cuillandre},
   {Gwyn}, {Peng}, {MacArthur}, {Duc}, {Boselli}, {Mei}, {Erben}, {McConnachie},
   {Durrell}, {Mihos}, {Jord{\'a}n}, {Lan{\c c}on}, {Puzia}, {Emsellem},
@@ -294,11 +290,6 @@ Ciesla, L; Boselli, A; Smith, MWL; Bendo, GJ; Cortese, L; Eales, S; Bianchi, S;
   Environment in the Early Data Release of the Sloan Digital Sky Survey},''
   {\em \apj\/}, v. 584, 2003, p. 210--227.
   \url{http://adsabs.harvard.edu/abs/2003ApJ...584..210G}
-
-\bibitem[{Gunn} \& {Gott}(1972){Gunn} and {Gott}]{Gunn72}
-{Gunn}, JE; {Gott}, JR, III. ``{On the Infall of Matter Into Clusters of
-  Galaxies and Some Effects on Their Evolution},'' {\em \apj\/}, v. 176, 1972,
-  p.~1. \url{http://adsabs.harvard.edu/abs/1972ApJ...176....1G}
 
 \bibitem[{Guo} et~al.(2011){Guo}, {White}, {Boylan-Kolchin}, {De Lucia},
   {Kauffmann}, {Lemson}, {Li}, {Springel}, and {Weinmann}]{guo11a}
@@ -419,13 +410,6 @@ Ciesla, L; Boselli, A; Smith, MWL; Bendo, GJ; Cortese, L; Eales, S; Bianchi, S;
   Structural Properties of Cluster Galaxies at z = 1.62},'' {\em \apj\/}, v.
   750, 2012, p.~93. \url{http://adsabs.harvard.edu/abs/2012ApJ...750...93P}
 
-\bibitem[{Pardo} et~al.(2011){Pardo}, {Rovira-Esteva}, {Busch}, {Moulin}, and
-  {Tamarit}]{pardo11}
-{Pardo}, LC; {Rovira-Esteva}, M; {Busch}, S; {Moulin}, JF; {Tamarit}, JL.
-  ``{Fitting in a complex {$\chi$}$^{2}$ landscape using an optimized
-  hypersurface sampling},'' {\em \pre\/}, v.~84(4), 2011, p. 046711.
-  \url{http://adsabs.harvard.edu/abs/2011PhRvE..84d6711P}
-
 \bibitem[{Peng} et~al.(2002){Peng}, {Ho}, {Impey}, and {Rix}]{peng02}
 {Peng}, CY; {Ho}, LC; {Impey}, CD; {Rix}, HW. ``{Detailed Structural
   Decomposition of Galaxy Images},'' {\em \aj\/}, v. 124, 2002, p. 266--293.
@@ -456,13 +440,6 @@ Ciesla, L; Boselli, A; Smith, MWL; Bendo, GJ; Cortese, L; Eales, S; Bianchi, S;
   Observations of Galaxy Clusters: An Increasing Fraction of Obscured
   Star-forming Members from z = 0.02 to z = 0.83},'' {\em \apjl\/}, v. 685,
   2008, p. L113--L116. \url{http://adsabs.harvard.edu/abs/2008ApJ...685L.113S}
-
-\bibitem[{Sala} et~al.(2012){Sala}, {Haberl}, {Jos{\'e}}, {Parikh}, {Longland},
-  {Pardo}, and {Andersen}]{sala12}
-{Sala}, G; {Haberl}, F; {Jos{\'e}}, J; {Parikh}, A; {Longland}, R; {Pardo}, LC;
-  {Andersen}, M. ``{Constraints on the Mass and Radius of the Accreting Neutron
-  Star in the Rapid Burster},'' {\em \apj\/}, v. 752, 2012, p. 158.
-  \url{http://adsabs.harvard.edu/abs/2012ApJ...752..158S}
 
 \bibitem[{Springel} et~al.(2005){Springel}, {Di Matteo}, and
   {Hernquist}]{springel05}

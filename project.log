@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/MacPorts 2014_9) (preloaded format=xelatex 2014.11.18)  13 NOV 2016 20:49
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/MacPorts 2014_9) (preloaded format=xelatex 2014.11.18)  14 NOV 2016 10:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -203,407 +203,63 @@ LaTeX Font Info:    Try loading font information for U+msb on input line 35.
 
 (/opt/local/share/texmf-texlive/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
+) [1
 
-Package natbib Warning: Citation `Saintonge08' on page 1 undefined on input lin
-e 37.
-
-
-Package natbib Warning: Citation `Finn10' on page 1 undefined on input line 37.
-
-
-
-Package natbib Warning: Citation `Lewis02' on page 1 undefined on input line 40
-.
-
-
-Package natbib Warning: Citation `Balogh04' on page 1 undefined on input line 4
-0.
-
-
-Package natbib Warning: Citation `Lewis02' on page 1 undefined on input line 42
-.
-
-
-Package natbib Warning: Citation `gomez03' on page 1 undefined on input line 42
-.
-
-
-Package natbib Warning: Citation `bahe13' on page 1 undefined on input line 42.
-
-
-
-Package natbib Warning: Citation `poggianti99' on page 1 undefined on input lin
-e 44.
-
-
-Package natbib Warning: Citation `cortese06' on page 1 undefined on input line 
-44.
-
-
-Package natbib Warning: Citation `Wetzel13' on page 1 undefined on input line 4
-7.
-
-
-Package natbib Warning: Citation `Dave11' on page 1 undefined on input line 48.
-
-
-
-Package natbib Warning: Citation `guo11a' on page 1 undefined on input line 49.
-
-
-
-Package natbib Warning: Citation `Hirschmann14' on page 1 undefined on input li
-ne 49.
-
-[1
-
-]
-
-Package natbib Warning: Citation `springel05' on page 2 undefined on input line
- 167.
-
-
-Package natbib Warning: Citation `croton06' on page 2 undefined on input line 1
-67.
-
-
-Package natbib Warning: Citation `dekel06' on page 2 undefined on input line 16
-7.
-
-
-Package natbib Warning: Citation `springel05' on page 2 undefined on input line
- 171.
-
-
-Package natbib Warning: Citation `croton06' on page 2 undefined on input line 1
-71.
-
-
-Package natbib Warning: Citation `dekel06' on page 2 undefined on input line 17
-1.
-
-
-Package natbib Warning: Citation `Larson80' on page 2 undefined on input line 1
-73.
-
-
-Package natbib Warning: Citation `kawata08' on page 2 undefined on input line 1
-76.
-
-
-Package natbib Warning: Citation `quilis00' on page 2 undefined on input line 1
-79.
-
-
-Package natbib Warning: Citation `crowl05' on page 2 undefined on input line 17
-9.
-
-[2]
-
-Package natbib Warning: Citation `kitaura09' on page 3 undefined on input line 
-191.
-
-
-Package natbib Warning: Citation `darvish14' on page 3 undefined on input line 
-191.
-
+] [2]
 File: CLUES-DM.png Graphic file (type QTm)
+
 <use  "CLUES-DM.png" >
 File: gomez2003-fg6a.png Graphic file (type QTm)
- <use  "gomez2003-fg6a.png" >
-
-Package natbib Warning: Citation `gomez03' on page 3 undefined on input line 21
-5.
-
-
-Package natbib Warning: Citation `bahe13' on page 3 undefined on input line 221
-.
-
-[3]
-
-Package natbib Warning: Citation `giovanelli05' on page 4 undefined on input li
-ne 243.
-
-
-Package natbib Warning: Citation `davies10' on page 4 undefined on input line 2
-44.
-
-
-Package natbib Warning: Citation `ferrarese12' on page 4 undefined on input lin
-e 245.
-
-
-Package natbib Warning: Citation `boselli11' on page 4 undefined on input line 
-246.
-
-
-Package natbib Warning: Citation `tully82' on page 4 undefined on input line 31
-2.
-
-
-Package natbib Warning: Citation `kim16' on page 4 undefined on input line 314.
-
-
-
-Package natbib Warning: Citation `kim16' on page 4 undefined on input line 320.
-
-
-
-Package natbib Warning: Citation `kim16' on page 4 undefined on input line 322.
-
-
-
-Package natbib Warning: Citation `kim16' on page 4 undefined on input line 323.
-
-
+ <use  "gomez2003-fg6a.png" > [3]
 File: filaments.png Graphic file (type QTm)
+
 <use  "filaments.png" >
 File: KimFig2a.png Graphic file (type QTm)
  <use  "KimFig2a.png" >
 
-Package natbib Warning: Citation `kim16' on page 4 undefined on input line 344.
-
-
-
-Package natbib Warning: Citation `kim16' on page 4 undefined on input line 344.
-
-
-
 LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Package natbib Warning: Citation `blanton05' on page 4 undefined on input line 
-353.
-
-
-Package natbib Warning: Citation `cormier14' on page 4 undefined on input line 
-358.
-
-
-LaTeX Warning: Reference `wise' on page 4 undefined on input line 372.
 
 [4]
 File: sample.png Graphic file (type QTm)
  <use  "sample.png" >
 
-Package natbib Warning: Citation `cormier14' on page 5 undefined on input line 
-393.
-
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Package natbib Warning: Citation `Ciesla12' on page 5 undefined on input line 4
-03.
-
-
-Package natbib Warning: Citation `davies10' on page 5 undefined on input line 4
-03.
-
-
-Package natbib Warning: Citation `Bolatto13' on page 5 undefined on input line 
-423.
-
-[5]
-
-LaTeX Warning: Reference `sdssCO' on page 6 undefined on input line 431.
-
-[6]
+[5] [6]
 File: CO-detection.png Graphic file (type QTm)
  <use  "CO-detection.png" >
-
-Package natbib Warning: Citation `kennicutt98' on page 7 undefined on input lin
-e 469.
-
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 476.
+
 
 (/opt/local/share/texmf-texlive/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 476.
-
-
-LaTeX Warning: Reference `wise' on page 7 undefined on input line 476.
-
-
-Package natbib Warning: Citation `hodge83' on page 7 undefined on input line 47
-8.
-
-
-Package natbib Warning: Citation `dale01' on page 7 undefined on input line 478
-.
-
-
-Package natbib Warning: Citation `gavazzi12' on page 7 undefined on input line 
-478.
-
-
-Package natbib Warning: Citation `boselli15' on page 7 undefined on input line 
-478.
-
-
-Package natbib Warning: Citation `koopmann98' on page 7 undefined on input line
- 484.
-
-
-Package natbib Warning: Citation `koopmann04' on page 7 undefined on input line
- 484.
-
-
-Package natbib Warning: Citation `dale01' on page 7 undefined on input line 484
-.
-
-
-Package natbib Warning: Citation `crowl05' on page 7 undefined on input line 48
-4.
-
-
-Package natbib Warning: Citation `chung07' on page 7 undefined on input line 48
-4.
-
-
-Package natbib Warning: Citation `corbelli12' on page 7 undefined on input line
- 484.
-
-
-Package natbib Warning: Citation `gavazzi12' on page 7 undefined on input line 
-484.
-
-
-Package natbib Warning: Citation `boselli15' on page 7 undefined on input line 
-484.
-
-
-Package natbib Warning: Citation `koopmann04' on page 7 undefined on input line
- 485.
-
-[7]
+ [7]
 File: HalphaProfileWISE.png Graphic file (type QTm)
- <use  "HalphaProfileWISE.png" > [8]
 
-LaTeX Warning: Reference `figwise' on page 9 undefined on input line 601.
-
+<use  "HalphaProfileWISE.png" > [8]
 File: NSA-88353.png Graphic file (type QTm)
-<use  "NSA-88353.png" >
-
-Package natbib Warning: Citation `peng02' on page 9 undefined on input line 680
-.
-
-
-Package natbib Warning: Citation `lang14' on page 9 undefined on input line 681
-.
-
-[9]
-
-Package natbib Warning: Citation `yoon11' on page 10 undefined on input line 74
-3.
-
-
-Package natbib Warning: Citation `lang16' on page 10 undefined on input line 74
-3.
-
-
-LaTeX Warning: Reference `lizhi_comparison' on page 10 undefined on input line 
-795.
-
-
-LaTeX Warning: Reference `lizhi_comparison' on page 10 undefined on input line 
-800.
-
-File: lizhi_comparison.png Graphic file (type QTm)
-<use  "lizhi_comparison.png" >
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Package natbib Warning: Citation `kawata08' on page 10 undefined on input line 
-845.
-
-
-Package natbib Warning: Citation `bekki14' on page 10 undefined on input line 8
-45.
-
-
-Package natbib Warning: Citation `kawata08' on page 10 undefined on input line 
-850.
-
-
-Package natbib Warning: Citation `mccarthy07' on page 10 undefined on input lin
-e 850.
-
-
-Package natbib Warning: Citation `bekki14' on page 10 undefined on input line 8
-50.
-
-[10]
-
-LaTeX Warning: Reference `fig:workplan' on page 11 undefined on input line 873.
-
-
-[11]
-File: work-plan_v2.pdf Graphic file (type QTm)
- <use  "work-plan_v2.pdf" >
+ <use  "NSA-88353.png" >
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[12] [13]
+[9]
+File: lizhi_comparison.png Graphic file (type QTm)
+ <use  "lizhi_comparison.png" >
 
-Package natbib Warning: Citation `papovich12' on page 14 undefined on input lin
-e 1003.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-Package natbib Warning: Citation `rudnick12' on page 14 undefined on input line
- 1003.
-
-
-Package natbib Warning: Citation `lotz13' on page 14 undefined on input line 10
-03.
-
-
-Package natbib Warning: Citation `geach13' on page 14 undefined on input line 1
-003.
-
-
-Package natbib Warning: Citation `wong14' on page 14 undefined on input line 10
-03.
-
-
-Package natbib Warning: Citation `geach14' on page 14 undefined on input line 1
-003.
-
-
-Package natbib Warning: Citation `tran15' on page 14 undefined on input line 10
-03.
-
-
-Package natbib Warning: Citation `genzel10' on page 14 undefined on input line 
-1011.
-
-
-LaTeX Warning: Reference `BI' on page 14 undefined on input line 1041.
-
-
-LaTeX Warning: Reference `Sec:gogreen_prior' on page 14 undefined on input line
- 1044.
-
-[14]
+[10] [11] [12]
+File: work-plan_v2.pdf Graphic file (type QTm)
+ <use  "work-plan_v2.pdf" > [13] [14]
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 1072.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 1072.
- [15]
-
-LaTeX Warning: Reference `Sec:prior_rudnick' on page 16 undefined on input line
- 1257.
-
-[16]
-
-Package natbib Warning: Citation `bardar06' on page 17 undefined on input line 
-1312.
-
-[17] [18] (./project.bbl
+ [15] [16] [17] [18]
+(./project.bbl
 Underfull \hbox (badness 1838) in paragraph at lines 43--49
 []\OT1/cmr/m/n/10.95 Blanton, MR; Schlegel, DJ; Strauss, MA; Brinkmann, J; Fink
 beiner, D; Fukugita, M;
@@ -654,152 +310,124 @@ mr/m/it/10.95 AJ\OT1/cmr/m/n/10.95 , v. 130, 2005, p. 65--72.
  []
 
 [20]
-Underfull \hbox (badness 4328) in paragraph at lines 223--228
+Underfull \hbox (badness 4328) in paragraph at lines 219--224
 []\OT1/cmr/m/n/10.95 Finn, RA; De-sai, V; Rud-nick, G; Pog-gianti, B; Bell, EF;
  Hinz, J; Jablonka, P;
  []
 
 
-Underfull \hbox (badness 1655) in paragraph at lines 223--228
+Underfull \hbox (badness 1655) in paragraph at lines 219--224
 \OT1/cmr/m/n/10.95 ma-tion in In-ter-me-di-ate Red-shift Galaxy Clus-ters,'' \O
 T1/cmr/m/it/10.95 ApJ\OT1/cmr/m/n/10.95 , v. 720, 2010, p. 87--98.
  []
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 231--236
+Underfull \hbox (badness 1210) in paragraph at lines 227--232
 []\OT1/cmr/m/n/10.95 Gavazzi, G; Fu-ma-galli, M; Galardo, V; Gros-setti, F; Bos
 elli, A; Gio-vanelli, R; Haynes,
  []
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 231--236
+Underfull \hbox (badness 1067) in paragraph at lines 227--232
 \OT1/cmr/m/n/10.95 MP; Fa-bello, S. ``H$\OML/cmm/b/it/10.95 ^^K$\OT1/cmr/m/n/10
 .95 3: an H$\OML/cmm/b/it/10.95 ^^K$ \OT1/cmr/m/n/10.95 imag-ing sur-vey of HI 
 se-lected galax-ies from AL-
  []
 
 
-Underfull \hbox (badness 2635) in paragraph at lines 231--236
+Underfull \hbox (badness 2635) in paragraph at lines 227--232
 \OT1/cmr/m/n/10.95 FALFA. I. Cat-a-logue in the Lo-cal Su-per-clus-ter,'' \OT1/
 cmr/m/it/10.95 A&A\OT1/cmr/m/n/10.95 , v. 545, 2012, p. A16.
  []
 
 
-Underfull \hbox (badness 1354) in paragraph at lines 247--252
+Underfull \hbox (badness 1354) in paragraph at lines 243--248
 []\OT1/cmr/m/n/10.95 Geach, JE; Hickox, RC; Diamond-Stanic, AM; Krips, M; Rud-n
 ick, GH; Tremonti, CA;
  []
 
 
-Underfull \hbox (badness 3623) in paragraph at lines 247--252
+Underfull \hbox (badness 3623) in paragraph at lines 243--248
 \OT1/cmr/m/n/10.95 Sell, PH; Coil, AL; Mous-takas, J. ``Stel-lar feed-back as t
 he ori-gin of an ex-
  []
 
 
-Underfull \hbox (badness 1122) in paragraph at lines 247--252
+Underfull \hbox (badness 1122) in paragraph at lines 243--248
 \OT1/cmr/m/n/10.95 tended molec-u-lar out-flow in a star-burst galaxy,'' \OT1/c
 mr/m/it/10.95 Na-ture\OT1/cmr/m/n/10.95 , v. 516, 2014, p. 68--70.
  []
 
 [21]
-Underfull \hbox (badness 10000) in paragraph at lines 299--302
-[]\OT1/cmr/m/n/10.95 Gunn, JE; Gott, JR, III. ``On the In-fall of Mat-ter Into 
-Clus-ters of Galax-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 299--302
-\OT1/cmr/m/n/10.95 ies and Some Ef-fects on Their Evo-lu-tion,'' \OT1/cmr/m/it/
-10.95 ApJ\OT1/cmr/m/n/10.95 , v. 176, 1972, p. 1.
- []
-
-
-Underfull \hbox (badness 1810) in paragraph at lines 305--310
+Underfull \hbox (badness 1810) in paragraph at lines 296--301
 []\OT1/cmr/m/n/10.95 Guo, Q; White, S; Boylan-Kolchin, M; De Lu-cia, G; Kauff-m
 ann, G; Lem-son, G; Li,
  []
 
 
-Underfull \hbox (badness 7925) in paragraph at lines 344--349
+Underfull \hbox (badness 7925) in paragraph at lines 335--340
 []\OT1/cmr/m/n/10.95 Kitaura, FS; Jasche, J; Li, C; En^^Ylin, TA; Met-calf, RB;
  Wan-delt, BD; Lem-
  []
 
 
-Underfull \hbox (badness 5817) in paragraph at lines 344--349
+Underfull \hbox (badness 5817) in paragraph at lines 335--340
 \OT1/cmr/m/n/10.95 son, G; White, SDM. ``Cos-mic car-tog-ra-phy of the large-sc
 ale struc-ture with
  []
 
 
-Underfull \hbox (badness 2564) in paragraph at lines 344--349
+Underfull \hbox (badness 2564) in paragraph at lines 335--340
 \OT1/cmr/m/n/10.95 Sloan Dig-i-tal Sky Sur-vey data re-lease 6,'' \OT1/cmr/m/it
 /10.95 MN-RAS\OT1/cmr/m/n/10.95 , v. 400, 2009, p. 183--203.
  []
 
 [22]
-Underfull \hbox (badness 2503) in paragraph at lines 402--407
+Underfull \hbox (badness 2503) in paragraph at lines 393--398
 []\OT1/cmr/m/n/10.95 McCarthy, IG; Bower, RG; Balogh, ML; Voit, GM; Pearce, FR;
  The-uns, T; Babul,
  []
 
 
-Underfull \hbox (badness 2359) in paragraph at lines 402--407
+Underfull \hbox (badness 2359) in paragraph at lines 393--398
 \OT1/cmr/m/n/10.95 ing be-yond the spher-i-cal ac-cre-tion model,'' \OT1/cmr/m/
 it/10.95 MN-RAS\OT1/cmr/m/n/10.95 , v. 376, 2007, p. 497--522.
  []
 
 [23]
-Underfull \hbox (badness 10000) in paragraph at lines 469--472
+Underfull \hbox (badness 10000) in paragraph at lines 446--449
 []\OT1/cmr/m/n/10.95 Springel, V; Di Mat-teo, T; Hern-quist, L. ``Mod-elling fe
 ed-back from stars and
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 469--472
+Underfull \hbox (badness 10000) in paragraph at lines 446--449
 \OT1/cmr/m/n/10.95 black holes in galaxy merg-ers,'' \OT1/cmr/m/it/10.95 MN-RAS
 \OT1/cmr/m/n/10.95 , v. 361, 2005, p. 776--794.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 484--486
+Underfull \hbox (badness 10000) in paragraph at lines 461--463
 []\OT1/cmr/m/n/10.95 Tully, RB. ``The Lo-cal Su-per-clus-ter,'' \OT1/cmr/m/it/1
 0.95 ApJ\OT1/cmr/m/n/10.95 , v. 257, 1982, p. 389--422.
  []
 
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 509.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 486.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 509.
-)
-
-Package natbib Warning: There were undefined citations.
-
-[24] (./project.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-)
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- )
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 486.
+) [24] (./project.aux) )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 574 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 2645 strings out of 494893
- 32924 string characters out of 6167766
- 92578 words of memory out of 5000000
- 5879 multiletter control sequences out of 15000+600000
+ 2633 strings out of 494893
+ 32744 string characters out of 6167766
+ 101415 words of memory out of 5000000
+ 5867 multiletter control sequences out of 15000+600000
  18508 words of font info for 74 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 32i,8n,31p,1552b,470s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,8n,31p,1552b,397s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on project.pdf (24 pages).

@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2013)
+This is BibTeX, Version 0.99d (TeX Live 2014/MacPorts 2014_9)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: project.aux
 The style file: nsf.bst
@@ -11,10 +11,6 @@ I'm skipping whatever remains of this entry
 Repeated entry---line 1005 of file nsfCAREERref14.bib
  : @article{croton06
  :                  ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1913 of file nsfCAREERref14.bib
- : @article{gunn72
- :                ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 2344 of file nsfCAREERref14.bib
  : @article{kawata08
@@ -89,10 +85,6 @@ I'm skipping whatever remains of this entry
 Repeated entry---line 4814 of file references_2.bib
  : @article{Gomez03
  :                 ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 5105 of file references_2.bib
- : @article{Gunn72
- :                ,
 I'm skipping whatever remains of this entry
 You're missing a field part---line 6120 of file references_2.bib
  :     month = 
@@ -221,10 +213,6 @@ Repeated entry---line 2670 of file HSTreferences.bib
  : @article{Dale01
  :                ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 3921 of file HSTreferences.bib
- : @article{Farouki82
- :                   ,
-I'm skipping whatever remains of this entry
 Repeated entry---line 4160 of file HSTreferences.bib
  : @article{Finn10
  :                ,
@@ -301,46 +289,45 @@ Repeated entry---line 13749 of file HSTreferences.bib
  : @article{Wong14
  :                ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "finn16"
-You've used 59 entries,
+You've used 55 entries,
             2925 wiz_defined-function locations,
-            1101 strings with 26433 characters,
-and the built_in function-call counts, 80653 in all, are:
-= -- 7328
-> -- 5301
-< -- 127
-+ -- 1982
-- -- 1923
-* -- 8622
-:= -- 12692
-add.period$ -- 115
-call.type$ -- 59
-change.case$ -- 936
-chr.to.int$ -- 59
-cite$ -- 59
-duplicate$ -- 1717
-empty$ -- 5090
-format.name$ -- 1996
-if$ -- 16439
+            1071 strings with 25593 characters,
+and the built_in function-call counts, 76857 in all, are:
+= -- 6940
+> -- 5161
+< -- 117
++ -- 1930
+- -- 1875
+* -- 8247
+:= -- 12134
+add.period$ -- 108
+call.type$ -- 55
+change.case$ -- 900
+chr.to.int$ -- 55
+cite$ -- 55
+duplicate$ -- 1601
+empty$ -- 4797
+format.name$ -- 1940
+if$ -- 15623
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 60
-newline$ -- 181
-num.names$ -- 236
-pop$ -- 777
+missing$ -- 56
+newline$ -- 169
+num.names$ -- 220
+pop$ -- 751
 preamble$ -- 1
-purify$ -- 877
+purify$ -- 845
 quote$ -- 0
-skip$ -- 1336
+skip$ -- 1247
 stack$ -- 0
-substring$ -- 10334
-swap$ -- 722
-text.length$ -- 116
+substring$ -- 9785
+swap$ -- 672
+text.length$ -- 108
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 531
+type$ -- 495
 warning$ -- 0
-while$ -- 328
+while$ -- 308
 width$ -- 0
-write$ -- 707
-(There were 73 error messages)
+write$ -- 660
+(There were 70 error messages)
