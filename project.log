@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/MacPorts 2014_9) (preloaded format=xelatex 2014.11.18)  14 NOV 2016 10:03
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/MacPorts 2014_9) (preloaded format=xelatex 2014.11.18)  14 NOV 2016 10:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -251,15 +251,18 @@ File: lizhi_comparison.png Graphic file (type QTm)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[10] [11] [12]
+[10] [11]
 File: work-plan_v2.pdf Graphic file (type QTm)
- <use  "work-plan_v2.pdf" > [13] [14]
+ <use  "work-plan_v2.pdf" >
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[12] [13]
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 1072.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 1072.
- [15] [16] [17] [18]
-(./project.bbl
+ [14] [15] [16] [17] (./project.bbl
 Underfull \hbox (badness 1838) in paragraph at lines 43--49
 []\OT1/cmr/m/n/10.95 Blanton, MR; Schlegel, DJ; Strauss, MA; Brinkmann, J; Fink
 beiner, D; Fukugita, M;
@@ -283,7 +286,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 89--92
 /cmr/m/n/10.95 , v. 659, 2007, p. L115--L119.
  []
 
-[19
+[18
 
 ]
 Underfull \hbox (badness 3291) in paragraph at lines 131--136
@@ -309,7 +312,7 @@ Underfull \hbox (badness 1337) in paragraph at lines 147--151
 mr/m/it/10.95 AJ\OT1/cmr/m/n/10.95 , v. 130, 2005, p. 65--72.
  []
 
-[20]
+[19]
 Underfull \hbox (badness 4328) in paragraph at lines 219--224
 []\OT1/cmr/m/n/10.95 Finn, RA; De-sai, V; Rud-nick, G; Pog-gianti, B; Bell, EF;
  Hinz, J; Jablonka, P;
@@ -358,7 +361,7 @@ Underfull \hbox (badness 1122) in paragraph at lines 243--248
 mr/m/it/10.95 Na-ture\OT1/cmr/m/n/10.95 , v. 516, 2014, p. 68--70.
  []
 
-[21]
+[20]
 Underfull \hbox (badness 1810) in paragraph at lines 296--301
 []\OT1/cmr/m/n/10.95 Guo, Q; White, S; Boylan-Kolchin, M; De Lu-cia, G; Kauff-m
 ann, G; Lem-son, G; Li,
@@ -382,7 +385,7 @@ Underfull \hbox (badness 2564) in paragraph at lines 335--340
 /10.95 MN-RAS\OT1/cmr/m/n/10.95 , v. 400, 2009, p. 183--203.
  []
 
-[22]
+[21]
 Underfull \hbox (badness 2503) in paragraph at lines 393--398
 []\OT1/cmr/m/n/10.95 McCarthy, IG; Bower, RG; Balogh, ML; Voit, GM; Pearce, FR;
  The-uns, T; Babul,
@@ -394,7 +397,7 @@ Underfull \hbox (badness 2359) in paragraph at lines 393--398
 it/10.95 MN-RAS\OT1/cmr/m/n/10.95 , v. 376, 2007, p. 497--522.
  []
 
-[23]
+[22]
 Underfull \hbox (badness 10000) in paragraph at lines 446--449
 []\OT1/cmr/m/n/10.95 Springel, V; Di Mat-teo, T; Hern-quist, L. ``Mod-elling fe
 ed-back from stars and
@@ -416,7 +419,7 @@ LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 486.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 486.
-) [24] (./project.aux) )
+) [23] (./project.aux) )
 (\end occurred inside a group at level 1)
 
 ### simple group (level 1) entered at line 574 ({)
@@ -430,4 +433,4 @@ Here is how much of TeX's memory you used:
  430 hyphenation exceptions out of 8191
  32i,8n,31p,1552b,397s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on project.pdf (24 pages).
+Output written on project.pdf (23 pages).
