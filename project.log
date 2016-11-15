@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 NOV 2016 14:04
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 NOV 2016 14:08
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -367,51 +367,51 @@ Package pdftex.def Info: sample.png used on input line 508.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 573.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 569.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 573.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 569.
  [5 <./model-comparisonv2.png>] <HalphaProfileWISE.png, id=37, 955.57pt x 434.6
 2375pt>
 File: HalphaProfileWISE.png Graphic file (type png)
 
 <use HalphaProfileWISE.png>
-Package pdftex.def Info: HalphaProfileWISE.png used on input line 603.
+Package pdftex.def Info: HalphaProfileWISE.png used on input line 599.
 (pdftex.def)             Requested size: 399.29463pt x 181.61227pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[6 <./filaments.png> <./KimFig2a.png>] [7 <./sample.png>]
-<NGC5320multiwaveV2.png, id=47, 1224.575pt x 601.24625pt>
+[6 <./filaments.png> <./KimFig2a.png>]
+<NGC5320multiwaveV2.png, id=42, 1224.575pt x 601.24625pt>
 File: NGC5320multiwaveV2.png Graphic file (type png)
 
 <use NGC5320multiwaveV2.png>
-Package pdftex.def Info: NGC5320multiwaveV2.png used on input line 712.
+Package pdftex.def Info: NGC5320multiwaveV2.png used on input line 708.
 (pdftex.def)             Requested size: 375.80544pt x 184.51285pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[8 <./HalphaProfileWISE.png>] [9 <./NGC5320multiwaveV2.png>] [10]
-<work-plan2.pdf, id=57, 794.97pt x 614.295pt>
+[7 <./sample.png>] [8 <./HalphaProfileWISE.png>] [9 <./NGC5320multiwaveV2.png>]
+[10] <work-plan2.pdf, id=57, 794.97pt x 614.295pt>
 File: work-plan2.pdf Graphic file (type pdf)
  <use work-plan2.pdf>
-Package pdftex.def Info: work-plan2.pdf used on input line 1136.
+Package pdftex.def Info: work-plan2.pdf used on input line 1132.
 (pdftex.def)             Requested size: 516.73338pt x 399.30576pt.
 
-Overfull \hbox (46.97836pt too wide) in paragraph at lines 1136--1138
+Overfull \hbox (46.97836pt too wide) in paragraph at lines 1132--1134
 [][]
  []
 
-[11] [12 <./work-plan2.pdf>]
+[11 <./work-plan2.pdf>] [12]
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 1251.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 1247.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 1251.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 1247.
  [13] [14] [15] [16] (./project.bbl
 Underfull \hbox (badness 1838) in paragraph at lines 43--49
 []\OT1/cmr/m/n/10.95 Blanton, MR; Schlegel, DJ; Strauss, MA; Brinkmann, J; Fink
@@ -579,7 +579,7 @@ LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
 ) [23] (./project.aux) )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 673 ({)
+### simple group (level 1) entered at line 669 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
  3555 strings out of 493315
@@ -605,7 +605,7 @@ pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
 usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></us
 r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr
 /local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on project.pdf (23 pages, 3624640 bytes).
+Output written on project.pdf (23 pages, 3624006 bytes).
 PDF statistics:
  254 PDF objects out of 1000 (max. 8388607)
  170 compressed objects within 2 object streams
