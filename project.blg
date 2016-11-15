@@ -66,6 +66,10 @@ You're missing a field part---line 3055 of file references_2.bib
  :    volume = 
  :             ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 3098 of file references_2.bib
+ : @article{Desai07a
+ :                  ,
+I'm skipping whatever remains of this entry
 You're missing a field part---line 3952 of file references_2.bib
  :     month = 
  :             ,
@@ -130,6 +134,11 @@ I'm skipping whatever remains of this entry
 You're missing a field part---line 9109 of file references_2.bib
  :     month = 
  :             ,
+I'm skipping whatever remains of this entry
+You're missing a field name---line 9494 of file references_2.bib
+ : 
+ : %   adsurl = {http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2006ApJ...642..188P&db_key=AST},
+(Error may have been on previous line)
 I'm skipping whatever remains of this entry
 Repeated entry---line 9510 of file references_2.bib
  : @article{Poggianti99
@@ -208,6 +217,14 @@ I'm skipping whatever remains of this entry
 Repeated entry---line 2670 of file HSTreferences.bib
  : @article{Dale01
  :                ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3056 of file HSTreferences.bib
+ : @article{Desai07a
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 3114 of file HSTreferences.bib
+ : @article{Desai07a
+ :                  ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 4160 of file HSTreferences.bib
  : @article{Finn10
@@ -289,47 +306,45 @@ Repeated entry---line 13749 of file HSTreferences.bib
  : @article{Wong14
  :                ,
 I'm skipping whatever remains of this entry
-Warning--I didn't find a database entry for "Desai07"
-Warning--I didn't find a database entry for "Cantale16"
-You've used 55 entries,
+You've used 57 entries,
             2925 wiz_defined-function locations,
-            1079 strings with 26234 characters,
-and the built_in function-call counts, 78344 in all, are:
-= -- 7049
-> -- 5329
-< -- 116
-+ -- 1993
-- -- 1938
-* -- 8422
-:= -- 12382
-add.period$ -- 108
-call.type$ -- 55
-change.case$ -- 921
-chr.to.int$ -- 55
-cite$ -- 55
-duplicate$ -- 1611
-empty$ -- 4855
-format.name$ -- 2001
-if$ -- 15906
+            1090 strings with 26958 characters,
+and the built_in function-call counts, 80595 in all, are:
+= -- 7228
+> -- 5551
+< -- 120
++ -- 2076
+- -- 2019
+* -- 8665
+:= -- 12778
+add.period$ -- 111
+call.type$ -- 57
+change.case$ -- 958
+chr.to.int$ -- 57
+cite$ -- 57
+duplicate$ -- 1671
+empty$ -- 4948
+format.name$ -- 2084
+if$ -- 16342
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 56
-newline$ -- 169
-num.names$ -- 220
-pop$ -- 771
+missing$ -- 58
+newline$ -- 175
+num.names$ -- 228
+pop$ -- 804
 preamble$ -- 1
-purify$ -- 866
+purify$ -- 901
 quote$ -- 0
-skip$ -- 1263
+skip$ -- 1310
 stack$ -- 0
-substring$ -- 9946
-swap$ -- 681
-text.length$ -- 108
+substring$ -- 10059
+swap$ -- 707
+text.length$ -- 112
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 495
+type$ -- 513
 warning$ -- 0
-while$ -- 310
+while$ -- 320
 width$ -- 0
-write$ -- 660
-(There were 70 error messages)
+write$ -- 683
+(There were 74 error messages)

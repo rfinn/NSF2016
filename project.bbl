@@ -1,4 +1,4 @@
-\begin{thebibliography}{55}
+\begin{thebibliography}{57}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Bah{\'e}} et~al.(2013){Bah{\'e}}, {McCarthy}, {Balogh}, and
@@ -83,6 +83,15 @@ Bolatto, AD; Wolfire, M; Leroy, AK. ``{The CO-to-H2 Conversion Factor},'' {\em
   star formation properties of a volume-limited, K-band-selected sample of
   nearby late-type galaxies},'' {\em \aap\/}, v. 579, 2015, p. A102.
   \url{http://adsabs.harvard.edu/abs/2015A\%26A...579A.102B}
+
+\bibitem[{Cantale} et~al.(2016){Cantale}, {Jablonka}, {Courbin}, {Rudnick},
+  {Zaritsky}, {Meylan}, {Desai}, {De Lucia}, {Arag{\'o}n-Salamanca},
+  {Poggianti}, {Finn}, and {Simard}]{Cantale16}
+{Cantale}, N; {Jablonka}, P; {Courbin}, F; {Rudnick}, G; {Zaritsky}, D;
+  {Meylan}, G; {Desai}, V; {De Lucia}, G; {Arag{\'o}n-Salamanca}, A;
+  {Poggianti}, BM; {Finn}, R; {Simard}, L. ``{Disc colours in field and cluster
+  spiral galaxies at $0.5 < z < 0.8$},'' {\em \aap\/}, v. 589, 2016, p. A82.
+  \url{http://adsabs.harvard.edu/abs/2016A\%26A...589A..82C}
 
 \bibitem[{Chung} et~al.(2007){Chung}, {van Gorkom}, {Kenney}, and
   {Vollmer}]{chung07}
@@ -189,6 +198,17 @@ Ciesla, L; Boselli, A; Smith, MWL; Bendo, GJ; Cortese, L; Eales, S; Bianchi, S;
 {Dekel}, A; {Birnboim}, Y. ``{Galaxy bimodality due to cold flows and shock
   heating},'' {\em \mnras\/}, v. 368, 2006, p. 2--20.
   \url{http://adsabs.harvard.edu/abs/2006MNRAS.368....2D}
+
+\bibitem[{Desai} et~al.(2007){Desai}, {Dalcanton}, {Arag{\'o}n-Salamanca},
+  {Jablonka}, {Poggianti}, {Gogarten}, {Simard}, {Milvang-Jensen}, {Rudnick},
+  {Zaritsky}, {Clowe}, {Halliday}, {Pell{\'o}}, {Saglia}, and
+  {White}]{Desai07a}
+{Desai}, V; {Dalcanton}, JJ; {Arag{\'o}n-Salamanca}, A; {Jablonka}, P;
+  {Poggianti}, B; {Gogarten}, SM; {Simard}, L; {Milvang-Jensen}, B; {Rudnick},
+  G; {Zaritsky}, D; {Clowe}, D; {Halliday}, C; {Pell{\'o}}, R; {Saglia}, R;
+  {White}, S. ``{The Morphological Content of 10 EDisCS Clusters at 0.5 $<$ z
+  $<$ 0.8},'' {\em \apj\/}, v. 660, 2007, p. 1151--1164.
+  \url{http://adsabs.harvard.edu/abs/2007ApJ...660.1151D}
 
 \bibitem[{Ferrarese} et~al.(2012){Ferrarese}, {C{\^o}t{\'e}}, {Cuillandre},
   {Gwyn}, {Peng}, {MacArthur}, {Duc}, {Boselli}, {Mei}, {Erben}, {McConnachie},
@@ -418,8 +438,7 @@ Ciesla, L; Boselli, A; Smith, MWL; Bendo, GJ; Cortese, L; Eales, S; Bianchi, S;
   {Clowe}, DI; {Dalcanton}, J; {Jablonka}, P; {Milvang-Jensen}, B; {Pello}, R;
   {Rudnick}, G; {Saglia}, R; {White}, SDM; {Zaritsky}, D. ``{The Evolution of
   the Star Formation Activity in Galaxies and Its Dependence on Environment},''
-  {\em \apj\/}, v. 642, 2006, p. 188--215.
-  \url{http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2006ApJ...642..188P&db_key=AST}
+  {\em \apj\/}, v. 642, 2006, p. 188--215
 
 \bibitem[{Quilis} et~al.(2000){Quilis}, {Moore}, and {Bower}]{quilis00}
 {Quilis}, V; {Moore}, B; {Bower}, R. ``{Gone with the Wind: The Origin of S0
