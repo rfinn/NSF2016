@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 NOV 2016 14:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 NOV 2016 14:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -287,11 +287,11 @@ Package pdftex.def Info: gomez2003-fg6a.png used on input line 225.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<decision_tree.png, id=13, 850.17625pt x 349.305pt>
+<decision_tree.png, id=13, 1139.25626pt x 464.73625pt>
 File: decision_tree.png Graphic file (type png)
  <use decision_tree.png>
 Package pdftex.def Info: decision_tree.png used on input line 279.
-(pdftex.def)             Requested size: 422.77664pt x 173.70332pt.
+(pdftex.def)             Requested size: 422.77664pt x 172.46028pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -338,11 +338,7 @@ LaTeX Font Warning: Command \small invalid in math mode on input line 25.
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 29.
 
-)
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[3 <./CLUES-DM.png> <./gomez2003-fg6a.png>] [4 <./decision_tree.png>]
+) [3 <./CLUES-DM.png> <./gomez2003-fg6a.png>] [4 <./decision_tree.png>]
 <filaments.png, id=30, 433.62pt x 361.35pt>
 File: filaments.png Graphic file (type png)
  <use filaments.png>
@@ -605,7 +601,7 @@ pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
 usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></us
 r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr
 /local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on project.pdf (23 pages, 3623886 bytes).
+Output written on project.pdf (23 pages, 3653438 bytes).
 PDF statistics:
  254 PDF objects out of 1000 (max. 8388607)
  170 compressed objects within 2 object streams
