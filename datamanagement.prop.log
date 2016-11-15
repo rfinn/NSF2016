@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  14 NOV 2016 18:48
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 NOV 2016 09:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -148,7 +148,7 @@ Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
 \epsfxsize=\dimen123
 \epsfysize=\dimen124
 )
-No file datamanagement.prop.aux.
+(./datamanagement.prop.aux)
 \openout1 = `datamanagement.prop.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -163,6 +163,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
+
 (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count100
@@ -273,8 +274,8 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
 (./datamanagement.prop.aux) ) 
 Here is how much of TeX's memory you used:
- 3202 strings out of 493315
- 42649 string characters out of 6137904
+ 3204 strings out of 493315
+ 42697 string characters out of 6137904
  111780 words of memory out of 5000000
  6620 multiletter control sequences out of 15000+600000
  8914 words of font info for 36 fonts, out of 8000000 for 9000
@@ -284,7 +285,7 @@ Here is how much of TeX's memory you used:
 blic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmr10.pfb>
-Output written on datamanagement.prop.pdf (2 pages, 46468 bytes).
+Output written on datamanagement.prop.pdf (2 pages, 47123 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  15 compressed objects within 1 object stream
