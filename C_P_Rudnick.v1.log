@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  14 NOV 2016 11:53
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 NOV 2016 08:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -297,22 +297,21 @@ Underfull \hbox (badness 10000) in paragraph at lines 48--82
 ]
 [2] (./C_P_Rudnick.v1.aux) ) 
 Here is how much of TeX's memory you used:
- 3160 strings out of 493315
- 41747 string characters out of 6137904
- 111093 words of memory out of 5000000
- 6598 multiletter control sequences out of 15000+600000
- 4908 words of font info for 18 fonts, out of 8000000 for 9000
+ 3158 strings out of 493315
+ 41723 string characters out of 6137904
+ 110892 words of memory out of 5000000
+ 6597 multiletter control sequences out of 15000+600000
+ 4555 words of font info for 17 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,4n,31p,273b,136s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,4n,31p,273b,100s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/pub
 lic/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publ
 ic/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmr10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmsl10.pfb>
-Output written on C_P_Rudnick.v1.pdf (2 pages, 61263 bytes).
+c/amsfonts/cm/cmr10.pfb>
+Output written on C_P_Rudnick.v1.pdf (2 pages, 46984 bytes).
 PDF statistics:
- 27 PDF objects out of 1000 (max. 8388607)
- 18 compressed objects within 1 object stream
+ 23 PDF objects out of 1000 (max. 8388607)
+ 15 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
