@@ -306,45 +306,45 @@ Repeated entry---line 13749 of file HSTreferences.bib
  : @article{Wong14
  :                ,
 I'm skipping whatever remains of this entry
-You've used 57 entries,
+You've used 59 entries,
             2925 wiz_defined-function locations,
-            1090 strings with 26958 characters,
-and the built_in function-call counts, 80595 in all, are:
-= -- 7228
-> -- 5551
-< -- 120
-+ -- 2076
-- -- 2019
-* -- 8665
-:= -- 12778
-add.period$ -- 111
-call.type$ -- 57
-change.case$ -- 958
-chr.to.int$ -- 57
-cite$ -- 57
-duplicate$ -- 1671
-empty$ -- 4948
-format.name$ -- 2084
-if$ -- 16342
+            1104 strings with 27597 characters,
+and the built_in function-call counts, 83223 in all, are:
+= -- 7483
+> -- 5685
+< -- 124
++ -- 2126
+- -- 2067
+* -- 8935
+:= -- 13171
+add.period$ -- 115
+call.type$ -- 59
+change.case$ -- 984
+chr.to.int$ -- 59
+cite$ -- 59
+duplicate$ -- 1733
+empty$ -- 5135
+format.name$ -- 2134
+if$ -- 16896
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 58
-newline$ -- 175
-num.names$ -- 228
-pop$ -- 804
+missing$ -- 60
+newline$ -- 181
+num.names$ -- 236
+pop$ -- 824
 preamble$ -- 1
-purify$ -- 901
+purify$ -- 925
 quote$ -- 0
-skip$ -- 1310
+skip$ -- 1361
 stack$ -- 0
-substring$ -- 10059
-swap$ -- 707
-text.length$ -- 112
+substring$ -- 10447
+swap$ -- 735
+text.length$ -- 116
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 513
+type$ -- 531
 warning$ -- 0
-while$ -- 320
+while$ -- 332
 width$ -- 0
-write$ -- 683
+write$ -- 707
 (There were 74 error messages)

@@ -1,4 +1,4 @@
-\begin{thebibliography}{57}
+\begin{thebibliography}{59}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Bah{\'e}} et~al.(2013){Bah{\'e}}, {McCarthy}, {Balogh}, and
@@ -350,6 +350,14 @@ Ciesla, L; Boselli, A; Smith, MWL; Bendo, GJ; Cortese, L; Eales, S; Bianchi, S;
   arXiv:1611.00437}), 2016.
   \url{http://adsabs.harvard.edu/abs/2016arXiv161100437K}
 
+\bibitem[{Kimm} et~al.(2009){Kimm}, {Somerville}, {Yi}, {van den Bosch},
+  {Salim}, {Fontanot}, {Monaco}, {Mo}, {Pasquali}, {Rich}, and {Yang}]{kimm09}
+{Kimm}, T; {Somerville}, RS; {Yi}, SK; {van den Bosch}, FC; {Salim}, S;
+  {Fontanot}, F; {Monaco}, P; {Mo}, H; {Pasquali}, A; {Rich}, RM; {Yang}, X.
+  ``{The correlation of star formation quenching with internal galaxy
+  properties and environment},'' {\em \mnras\/}, v. 394, 2009, p. 1131--1147.
+  \url{http://adsabs.harvard.edu/abs/2009MNRAS.394.1131K}
+
 \bibitem[{Koopmann} \& {Kenney}(2004){Koopmann} and {Kenney}]{koopmann04}
 {Koopmann}, RA; {Kenney}, JDP. ``{H{$\alpha$} Morphologies and Environmental
   Effects in Virgo Cluster Spiral Galaxies},'' {\em \apj\/}, v. 613, 2004, p.
@@ -470,6 +478,13 @@ Ciesla, L; Boselli, A; Smith, MWL; Bendo, GJ; Cortese, L; Eales, S; Bianchi, S;
   Observations of Galaxy Clusters: An Increasing Fraction of Obscured
   Star-forming Members from z = 0.02 to z = 0.83},'' {\em \apjl\/}, v. 685,
   2008, p. L113--L116. \url{http://adsabs.harvard.edu/abs/2008ApJ...685L.113S}
+
+\bibitem[{Somerville} et~al.(2008){Somerville}, {Hopkins}, {Cox}, {Robertson},
+  and {Hernquist}]{somerville08}
+{Somerville}, RS; {Hopkins}, PF; {Cox}, TJ; {Robertson}, BE; {Hernquist}, L.
+  ``{A semi-analytic model for the co-evolution of galaxies, black holes and
+  active galactic nuclei},'' {\em \mnras\/}, v. 391, 2008, p. 481--506.
+  \url{http://adsabs.harvard.edu/abs/2008MNRAS.391..481S}
 
 \bibitem[{Springel} et~al.(2005){Springel}, {Di Matteo}, and
   {Hernquist}]{springel05}
