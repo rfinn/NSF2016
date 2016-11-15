@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 NOV 2016 14:37
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 NOV 2016 14:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -346,41 +346,40 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 <filaments.png, id=25, 433.62pt x 361.35pt>
 File: filaments.png Graphic file (type png)
  <use filaments.png>
-Package pdftex.def Info: filaments.png used on input line 457.
+Package pdftex.def Info: filaments.png used on input line 458.
 (pdftex.def)             Requested size: 234.8775pt x 195.7326pt.
 
 <KimFig2a.png, id=27, 492.84125pt x 430.60875pt>
 File: KimFig2a.png Graphic file (type png)
  <use KimFig2a.png>
-Package pdftex.def Info: KimFig2a.png used on input line 458.
+Package pdftex.def Info: KimFig2a.png used on input line 459.
 (pdftex.def)             Requested size: 216.09045pt x 188.8048pt.
-
+ [4 <./decision_tree.png>]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4 <./decision_tree.png>] <sample.png, id=33, 867.24pt x 289.08pt>
+<sample.png, id=33, 867.24pt x 289.08pt>
 File: sample.png Graphic file (type png)
-
-<use sample.png>
-Package pdftex.def Info: sample.png used on input line 510.
+ <use sample.png>
+Package pdftex.def Info: sample.png used on input line 511.
 (pdftex.def)             Requested size: 469.75502pt x 156.58607pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 571.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 572.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 571.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 572.
  [5 <./model-comparisonv2.png>] <HalphaProfileWISE.png, id=37, 955.57pt x 434.6
 2375pt>
 File: HalphaProfileWISE.png Graphic file (type png)
 
 <use HalphaProfileWISE.png>
-Package pdftex.def Info: HalphaProfileWISE.png used on input line 601.
+Package pdftex.def Info: HalphaProfileWISE.png used on input line 602.
 (pdftex.def)             Requested size: 399.29463pt x 181.61227pt.
 
 
@@ -391,7 +390,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: NGC5320multiwaveV2.png Graphic file (type png)
 
 <use NGC5320multiwaveV2.png>
-Package pdftex.def Info: NGC5320multiwaveV2.png used on input line 710.
+Package pdftex.def Info: NGC5320multiwaveV2.png used on input line 711.
 (pdftex.def)             Requested size: 375.80544pt x 184.51285pt.
 
 
@@ -401,18 +400,18 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [10] <work-plan2.pdf, id=57, 794.97pt x 614.295pt>
 File: work-plan2.pdf Graphic file (type pdf)
  <use work-plan2.pdf>
-Package pdftex.def Info: work-plan2.pdf used on input line 1134.
+Package pdftex.def Info: work-plan2.pdf used on input line 1135.
 (pdftex.def)             Requested size: 516.73338pt x 399.30576pt.
 
-Overfull \hbox (46.97836pt too wide) in paragraph at lines 1134--1136
+Overfull \hbox (46.97836pt too wide) in paragraph at lines 1135--1137
 [][]
  []
 
 [11 <./work-plan2.pdf>] [12]
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 1248.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 1249.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 1248.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 1249.
  [13] [14] [15] (./project.bbl
 Underfull \hbox (badness 1838) in paragraph at lines 43--49
 []\OT1/cmr/m/n/10.95 Blanton, MR; Schlegel, DJ; Strauss, MA; Brinkmann, J; Fink
@@ -580,7 +579,7 @@ LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
 ) [22] (./project.aux) )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 671 ({)
+### simple group (level 1) entered at line 672 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
  3555 strings out of 493315
@@ -606,7 +605,7 @@ pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
 usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></us
 r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr
 /local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on project.pdf (22 pages, 3649746 bytes).
+Output written on project.pdf (22 pages, 3650017 bytes).
 PDF statistics:
  251 PDF objects out of 1000 (max. 8388607)
  168 compressed objects within 2 object streams
