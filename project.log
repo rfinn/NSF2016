@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 NOV 2016 14:31
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 NOV 2016 14:37
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -342,44 +342,45 @@ LaTeX Font Warning: Command \small invalid in math mode on input line 29.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3 <./CLUES-DM.png> <./gomez2003-fg6a.png>] [4 <./decision_tree.png>]
-<filaments.png, id=30, 433.62pt x 361.35pt>
+[3 <./CLUES-DM.png> <./gomez2003-fg6a.png>]
+<filaments.png, id=25, 433.62pt x 361.35pt>
 File: filaments.png Graphic file (type png)
  <use filaments.png>
-Package pdftex.def Info: filaments.png used on input line 455.
+Package pdftex.def Info: filaments.png used on input line 457.
 (pdftex.def)             Requested size: 234.8775pt x 195.7326pt.
 
-<KimFig2a.png, id=32, 492.84125pt x 430.60875pt>
+<KimFig2a.png, id=27, 492.84125pt x 430.60875pt>
 File: KimFig2a.png Graphic file (type png)
  <use KimFig2a.png>
-Package pdftex.def Info: KimFig2a.png used on input line 456.
+Package pdftex.def Info: KimFig2a.png used on input line 458.
 (pdftex.def)             Requested size: 216.09045pt x 188.8048pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<sample.png, id=33, 867.24pt x 289.08pt>
+[4 <./decision_tree.png>] <sample.png, id=33, 867.24pt x 289.08pt>
 File: sample.png Graphic file (type png)
- <use sample.png>
-Package pdftex.def Info: sample.png used on input line 508.
+
+<use sample.png>
+Package pdftex.def Info: sample.png used on input line 510.
 (pdftex.def)             Requested size: 469.75502pt x 156.58607pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 569.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 571.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 569.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 571.
  [5 <./model-comparisonv2.png>] <HalphaProfileWISE.png, id=37, 955.57pt x 434.6
 2375pt>
 File: HalphaProfileWISE.png Graphic file (type png)
 
 <use HalphaProfileWISE.png>
-Package pdftex.def Info: HalphaProfileWISE.png used on input line 599.
+Package pdftex.def Info: HalphaProfileWISE.png used on input line 601.
 (pdftex.def)             Requested size: 399.29463pt x 181.61227pt.
 
 
@@ -390,7 +391,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: NGC5320multiwaveV2.png Graphic file (type png)
 
 <use NGC5320multiwaveV2.png>
-Package pdftex.def Info: NGC5320multiwaveV2.png used on input line 708.
+Package pdftex.def Info: NGC5320multiwaveV2.png used on input line 710.
 (pdftex.def)             Requested size: 375.80544pt x 184.51285pt.
 
 
@@ -400,19 +401,19 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [10] <work-plan2.pdf, id=57, 794.97pt x 614.295pt>
 File: work-plan2.pdf Graphic file (type pdf)
  <use work-plan2.pdf>
-Package pdftex.def Info: work-plan2.pdf used on input line 1132.
+Package pdftex.def Info: work-plan2.pdf used on input line 1134.
 (pdftex.def)             Requested size: 516.73338pt x 399.30576pt.
 
-Overfull \hbox (46.97836pt too wide) in paragraph at lines 1132--1134
+Overfull \hbox (46.97836pt too wide) in paragraph at lines 1134--1136
 [][]
  []
 
 [11 <./work-plan2.pdf>] [12]
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 1246.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 1248.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 1246.
- [13] [14] [15] [16] (./project.bbl
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 1248.
+ [13] [14] [15] (./project.bbl
 Underfull \hbox (badness 1838) in paragraph at lines 43--49
 []\OT1/cmr/m/n/10.95 Blanton, MR; Schlegel, DJ; Strauss, MA; Brinkmann, J; Fink
 beiner, D; Fukugita, M;
@@ -424,7 +425,7 @@ Underfull \hbox (badness 1092) in paragraph at lines 43--49
 /it/10.95 AJ\OT1/cmr/m/n/10.95 , v. 129, 2005, p. 2562--2578.
  []
 
-[17
+[16
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 104--107
@@ -462,7 +463,7 @@ Underfull \hbox (badness 1337) in paragraph at lines 162--166
 mr/m/it/10.95 AJ\OT1/cmr/m/n/10.95 , v. 130, 2005, p. 65--72.
  []
 
-[18]
+[17]
 Underfull \hbox (badness 4328) in paragraph at lines 245--250
 []\OT1/cmr/m/n/10.95 Finn, RA; De-sai, V; Rud-nick, G; Pog-gianti, B; Bell, EF;
  Hinz, J; Jablonka, P;
@@ -493,7 +494,7 @@ Underfull \hbox (badness 2635) in paragraph at lines 253--258
 cmr/m/it/10.95 A&A\OT1/cmr/m/n/10.95 , v. 545, 2012, p. A16.
  []
 
-[19]
+[18]
 Underfull \hbox (badness 1354) in paragraph at lines 269--274
 []\OT1/cmr/m/n/10.95 Geach, JE; Hickox, RC; Diamond-Stanic, AM; Krips, M; Rud-n
 ick, GH; Tremonti, CA;
@@ -529,7 +530,7 @@ Underfull \hbox (badness 1810) in paragraph at lines 327--332
 ann, G; Lem-son, G; Li,
  []
 
-[20]
+[19]
 Underfull \hbox (badness 10000) in paragraph at lines 373--376
 []\OT1/cmr/m/n/10.95 Koopmann, RA; Ken-ney, JDP. ``H$\OML/cmm/b/it/10.95 $ \OT
 1/cmr/m/n/10.95 Mor-pholo-gies and En-vi-ron-men-tal Ef-
@@ -553,7 +554,7 @@ Underfull \hbox (badness 2359) in paragraph at lines 419--424
 it/10.95 MN-RAS\OT1/cmr/m/n/10.95 , v. 376, 2007, p. 497--522.
  []
 
-[21]
+[20]
 Underfull \hbox (badness 10000) in paragraph at lines 497--500
 []\OT1/cmr/m/n/10.95 Springel, V; Di Mat-teo, T; Hern-quist, L. ``Mod-elling fe
 ed-back from stars and
@@ -571,15 +572,15 @@ Underfull \hbox (badness 10000) in paragraph at lines 512--514
 0.95 ApJ\OT1/cmr/m/n/10.95 , v. 257, 1982, p. 389--422.
  []
 
-[22]
+[21]
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 544.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 544.
-) [23] (./project.aux) )
+) [22] (./project.aux) )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 669 ({)
+### simple group (level 1) entered at line 671 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
  3555 strings out of 493315
@@ -605,10 +606,10 @@ pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
 usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></us
 r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr
 /local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on project.pdf (23 pages, 3650387 bytes).
+Output written on project.pdf (22 pages, 3649746 bytes).
 PDF statistics:
- 254 PDF objects out of 1000 (max. 8388607)
- 170 compressed objects within 2 object streams
+ 251 PDF objects out of 1000 (max. 8388607)
+ 168 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  51 words of extra memory for PDF output out of 10000 (max. 10000000)
 
