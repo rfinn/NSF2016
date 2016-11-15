@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  14 NOV 2016 10:11
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 NOV 2016 08:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -125,7 +125,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 39.
 
-Overfull \hbox (24.73833pt too wide) in paragraph at lines 39--45
+Overfull \hbox (6.10974pt too wide) in paragraph at lines 39--45
 [][] 
  []
 
@@ -158,7 +158,7 @@ usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></us
 r/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/te
 xlive/2013/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/2013
 /texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on bio_rudnick.pdf (2 pages, 76998 bytes).
+Output written on bio_rudnick.pdf (2 pages, 77013 bytes).
 PDF statistics:
  36 PDF objects out of 1000 (max. 8388607)
  25 compressed objects within 1 object stream
