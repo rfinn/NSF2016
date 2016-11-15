@@ -1,4 +1,4 @@
-\begin{thebibliography}{59}
+\begin{thebibliography}{60}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Bah{\'e}} et~al.(2013){Bah{\'e}}, {McCarthy}, {Balogh}, and
@@ -92,6 +92,12 @@ Bolatto, AD; Wolfire, M; Leroy, AK. ``{The CO-to-H2 Conversion Factor},'' {\em
   {Poggianti}, BM; {Finn}, R; {Simard}, L. ``{Disc colours in field and cluster
   spiral galaxies at $0.5 < z < 0.8$},'' {\em \aap\/}, v. 589, 2016, p. A82.
   \url{http://adsabs.harvard.edu/abs/2016A\%26A...589A..82C}
+
+\bibitem[Carlesi et~al.(2016)Carlesi, Hoffman, Sorce, Gottloeber, Yepes,
+  Courtois, and Tully]{Carlesi16}
+Carlesi, E; Hoffman, Y; Sorce, JG; Gottloeber, S; Yepes, G; Courtois, H; Tully,
+  RB. ``{The tangential velocity of M31: CLUES from constrained simulations},''
+  {\em arXiv.org\/}, 2016, p. arXiv:1603.09498
 
 \bibitem[{Chung} et~al.(2007){Chung}, {van Gorkom}, {Kenney}, and
   {Vollmer}]{chung07}
