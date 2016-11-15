@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 NOV 2016 15:22
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 NOV 2016 15:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -391,7 +391,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: NGC5320multiwaveV2.png Graphic file (type png)
 
 <use NGC5320multiwaveV2.png>
-Package pdftex.def Info: NGC5320multiwaveV2.png used on input line 711.
+Package pdftex.def Info: NGC5320multiwaveV2.png used on input line 710.
 (pdftex.def)             Requested size: 375.80544pt x 184.51285pt.
 
 
@@ -401,18 +401,18 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [10] <work-plan2.pdf, id=57, 794.97pt x 614.295pt>
 File: work-plan2.pdf Graphic file (type pdf)
  <use work-plan2.pdf>
-Package pdftex.def Info: work-plan2.pdf used on input line 1137.
+Package pdftex.def Info: work-plan2.pdf used on input line 1136.
 (pdftex.def)             Requested size: 516.73338pt x 399.30576pt.
 
-Overfull \hbox (46.97836pt too wide) in paragraph at lines 1137--1139
+Overfull \hbox (46.97836pt too wide) in paragraph at lines 1136--1138
 [][]
  []
 
 [11 <./work-plan2.pdf>] [12]
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 1253.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 1252.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 1253.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 1252.
  [13] [14] [15] (./project.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 69--72
 []\OT1/cmr/m/n/10.95 Chung, A; van Gorkom, JH; Ken-ney, JDP; Vollmer, B. ``Virg
@@ -593,7 +593,7 @@ pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
 usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></us
 r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr
 /local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on project.pdf (21 pages, 3646984 bytes).
+Output written on project.pdf (21 pages, 3646977 bytes).
 PDF statistics:
  248 PDF objects out of 1000 (max. 8388607)
  166 compressed objects within 2 object streams
