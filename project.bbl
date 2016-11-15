@@ -1,4 +1,4 @@
-\begin{thebibliography}{60}
+\begin{thebibliography}{61}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Bah{\'e}} et~al.(2013){Bah{\'e}}, {McCarthy}, {Balogh}, and
@@ -533,5 +533,12 @@ Ciesla, L; Boselli, A; Smith, MWL; Bendo, GJ; Cortese, L; Eales, S; Bianchi, S;
   from GALPHAT- I. Motivation, methodology and benchmarks for S{\'e}rsic
   models},'' {\em \mnras\/}, v. 414, 2011, p. 1625--1655.
   \url{http://adsabs.harvard.edu/abs/2011MNRAS.414.1625Y}
+
+\bibitem[{Zoldan} et~al.(2016){Zoldan}, {De Lucia}, {Xie}, {Fontanot}, and
+  {Hirschmann}]{Zoldan16}
+{Zoldan}, A; {De Lucia}, G; {Xie}, L; {Fontanot}, F; {Hirschmann}, M.
+  ``{HI-selected Galaxies in Hierarchical Models of Galaxy Formation and
+  Evolution},'' preprint ({\tt arXiv:1610.02042}), 2016.
+  \url{http://adsabs.harvard.edu/abs/2016arXiv161002042Z}
 
 \end{thebibliography}

@@ -4,7 +4,7 @@
 \usepackage{natbib}
 \usepackage{epsfig}
 \setlength{\parindent}{0in}
-\newcommand{\ha}{$H\alpha$}
+\newcommand{\ha}{H$\alpha$}
 \newcommand{\rtwo}{$R_{200}$}
 \newcommand{\size}{$ R_e(24)/R_e(r)$}
 \newcommand{\sizeb}{$ R_e(22)/R_e(r)$}
@@ -67,7 +67,7 @@ sites of significant environmetally-driven quenching.  For example, \citet{cybul
   galaxy star-formation rates are altered in filaments.  However, they
   are not able to identify the mechanisms that are driving quenching
   in filaments because they don't measure the spatial distribution of
- star formation.  
+ star formation and don't have direct measures of the neutral and molecular gas content.
 
 % As a result, a large range of local densities
 % can exist at the same distance from a cluster, 
@@ -85,7 +85,7 @@ sites of significant environmetally-driven quenching.  For example, \citet{cybul
 %(Fig.~\ref{kimfigure}).  
 We propose a
 comprehensive survey of the warm ionized, neutral, and
-molecular gas and dust properties in galaxies that reside in 4 nearby
+molecular gas and dust properties in galaxies that reside in four nearby
 filaments surrounding the Virgo cluster.  We will
 create spatially-resolved maps of the gas and dust for a large sample
 of filament galaxies.  We will
@@ -306,7 +306,7 @@ red dashed line is a linear fit to the stellar half-light radius and
 is shown in the top panel for comparison.  The size of the star
 forming region is smaller than predicted by semi-analytic models,
 suggesting that starvation is not sufficient to explain the observed
-size of the star-forming region in dense environments.  }
+size of the star-forming region in dense environments.  However, starvation greatly overproduces the fraction of quenched satellite galaxies, implying that the models are in dire need of more detailed observational constraints.}
 \label{lizhi_comparison}
 \end{figure*}
 Hydrodynamic simulations of cluster infall regions predict that
@@ -576,10 +576,11 @@ with star-formation rates 10 times lower than the star-forming main sequence.
 %The detection limits of our \ha \ imaging will allow us to detect galaxies with star-formation rates a
 %factor of ten below the star-forming main sequence.
 
-
+\vspace{-0.3cm}
 \begin{figure}[h]
 \centering
 \includegraphics[width=.85\textwidth]{HalphaProfileWISE.png}
+\vspace{-0.3cm}
 \caption{\small
 % \textit{Left:} SDSS $gri$ color composites of the 20 galaxies
 %   in our $CO-H\alpha$ sample. \textit{Right:}  
@@ -588,15 +589,17 @@ imaging taken with the KPNO 0.9-m$+$HDI of two galaxies within the
 nearby group  MKW11 ($v_r = 6900$~km/s). The top row shows a
 galaxy whose \ha \ is truncated
 relative to the stellar disk as
-probed in the $r$-band. The bottom row shows a galaxy with extended
+probed in the $r$-band. This is clearly seen in the radial profiles (third column from left.)  The bottom row shows a galaxy with extended
 \ha \ emission.  The SFR is resolved  at about 1/10 of a kpc in \ha. In
-contrast, the WISE PSF is 12 arcsec, corresponding to about 1~kpc. The image thumbnails in each row are the same size, demonstrating
-that the WISE data are not sufficient to measure the extent and
-morphology of the star formation.   Indeed, the WISE photometry may
+contrast, the WISE PSF at 22\micron\ is 12 arcsec, corresponding to about 1~kpc. The image thumbnails in each row are the same size, demonstrating
+that the WISE data are not sufficient to measure the 
+morphology of the star formation.  The WISE 22\micron\ data will be useful for a global SFR estimate when combined with GALEX UV and \ha\ imaging, and the 12\micron\ data (FWHM $=1/2$ kpc) will probe the radial profile of obscured star formation.  While the WISE photometry may
 underestimate the SFR for  the lowest mass galaxies in our sample
-because of their low metallicity.  As these galaxies are likely the
-most susceptible to stripping, \ha\ imaging is necessary to understand
-how environment affects their gas.}
+because of their low metallicity, the combination of WISE, UV, and \ha\ imaging will allow us to understand how environment affects the distribution of star-formation.
+%  As these galaxies are likely the
+%most susceptible to stripping, \ha\ imaging is necessary to understand
+%how environment affects their gas.
+}
 \label{fig3}
 \end{figure}
 
@@ -623,7 +626,7 @@ either from KU or from Siena College; remote observing will save substantially o
 We have included funds to purchase a narrow-band filter suitable for observing $H\alpha$  at the redshift of our filaments.  
 
 
-PI Finn is involved in an \ha \ imaging survey of nearby galaxy groups
+Co-PI Finn is involved in an \ha \ imaging survey of nearby galaxy groups
 as part of the Undergraduate ALFALFA Team.  She and her undergraduate
 students have developed code to reduce \ha \ imaging taken with the HDI camera on
 the WIYN 0.9 m telescope.  These programs will be used to reduce the
@@ -691,9 +694,8 @@ infrared size measurements that are likely to be affected by an AGN.
 Multi-wavelength images of spiral galaxy NGC~5320.  The top row shows
 the SDSS color image, the newly acquired CO(1-0) and (2-1) spectra,
 and the HI archival spectrum.  The bottom row shows the SDSS r-band
-imaging and the WISE 3.4, 12 and 22\micron \ images. The resolution of WISE is
-sufficient to measure the spatial extent of dust emission using the
-12\micron \ images.  The 22\micron \ fluxes indicate the amount of
+imaging and the WISE 3.4, 12 and 22\micron \ images. The resolution of WISE at 12\micron\ is
+sufficient to measure the spatial extent of dust emission.  The 22\micron \ fluxes indicate the amount of
 dust-obscured star formation and thus provide an important complement
 to the \ha-derived star-formation rates.
 % {\it (Left)} Newly acquired
@@ -707,6 +709,7 @@ to the \ha-derived star-formation rates.
 %   selected galaxies in NGC5353 filament.  
 }
 \label{wiseCO}
+\vspace{-0.5cm}
 \end{figure}
 
 % This proposal rests on the assumption that 12\micron \ emission, in
@@ -953,7 +956,7 @@ obtained from the literature
 \subsection{Comparison with Theory}
 \vspace*{-.4cm}
 
-An important aspect of our work is using theoretical models to understand what processes are affecting the gas distribution in our galaxies.  Our collaborator De Lucia is an expert in semi-analytic models of galaxy formation and will produce models directly suited for comparison with our observations.  The first scenario we must consider is whether our results are
+An important aspect of our work is using theoretical models to understand what processes are affecting the gas distribution in our galaxies.  Our collaborator De Lucia is an expert in semi-analytic models of galaxy formation and, in addition to her existing models \citep{Zoldan16} will produce models directly suited for comparison with our observations.  The first scenario we must consider is whether our results are
 consistent with predictions of gas depletion through starvation and
 the consumption of the remaining gas
 rather than more extreme environmental processes such as ram-pressure stripping.
@@ -1026,14 +1029,14 @@ The division of observing and analysis responsibilities among the team
 members is outlined in Fig.~\ref{fig:workplan}.   The expertise and
 roles of individual team members is described below.
 
-Rose Finn, Ph.D., (PI) is a professor in the Department of Physics
+Rose Finn, Ph.D., (co-PI) is a professor in the Department of Physics
 and Astronomy at Siena College (Loudonville, NY).  She is the PI of
 the \lcs \ and has extensive experience with running GALFIT on MIPS
 24\micron \ imaging.  She will lead the \ha \ imaging survey at KPNO
 and the analysis of the WISE 12\micron
 \ imaging, supervise the undergraduate students, and draft the paper.
 
-Gregory Rudnick, Ph.D., is an associate professor at the University of
+Gregory Rudnick, Ph.D.,  (co-PI) is an associate professor at the University of
 Kansas.  He has expertise in galaxy evolution and the effects of environment on galaxy evolution, and he is leading an
 $HST$ study to measure the spatial extent of star-formation in
 intermediate-redshift galaxies.  He will lead the \ha \ imaging survey
@@ -1355,10 +1358,10 @@ projects, and hiring a mix of freshmen through juniors has worked
 nicely as the older students can help train the freshmen.  
 During the first year, two students will work with Finn to
 finalize the data reduction pipeline for the KPNO data and to adapt
-the pipeline for the TCP data.  The students will meaure radial
-profiles for the \ha \ imaing and develop ways to quantify the \ha \
+the pipeline for the TCP data.  The students will measure radial
+profiles for the \ha\ imaging and develop ways to quantify the \ha\
 morphologies.  The students will work in collaboration with the
-graduate student at Kansas to compile the \ha \ data products.
+graduate student at Kansas to compile the \ha\ data products.
 
 The other two summer students will work on the analysis of the WISE
 12\micron \ images.  This part of the project will require more

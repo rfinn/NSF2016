@@ -1,4 +1,4 @@
-This is BibTeX, Version 0.99d (TeX Live 2014/MacPorts 2014_9)
+This is BibTeX, Version 0.99d (TeX Live 2013)
 Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: project.aux
 The style file: nsf.bst
@@ -306,45 +306,45 @@ Repeated entry---line 13749 of file HSTreferences.bib
  : @article{Wong14
  :                ,
 I'm skipping whatever remains of this entry
-You've used 60 entries,
+You've used 61 entries,
             2925 wiz_defined-function locations,
-            1111 strings with 27855 characters,
-and the built_in function-call counts, 84174 in all, are:
-= -- 7580
-> -- 5744
+            1117 strings with 28094 characters,
+and the built_in function-call counts, 85139 in all, are:
+= -- 7677
+> -- 5787
 < -- 125
-+ -- 2148
-- -- 2088
-* -- 9002
-:= -- 13308
-add.period$ -- 116
-call.type$ -- 60
-change.case$ -- 996
-chr.to.int$ -- 60
-cite$ -- 60
-duplicate$ -- 1785
-empty$ -- 5181
-format.name$ -- 2156
-if$ -- 17111
++ -- 2164
+- -- 2103
+* -- 9106
+:= -- 13460
+add.period$ -- 118
+call.type$ -- 61
+change.case$ -- 1006
+chr.to.int$ -- 61
+cite$ -- 61
+duplicate$ -- 1800
+empty$ -- 5253
+format.name$ -- 2172
+if$ -- 17307
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 61
-newline$ -- 184
-num.names$ -- 240
-pop$ -- 836
+missing$ -- 63
+newline$ -- 187
+num.names$ -- 244
+pop$ -- 843
 preamble$ -- 1
-purify$ -- 936
+purify$ -- 945
 quote$ -- 0
-skip$ -- 1420
+skip$ -- 1431
 stack$ -- 0
-substring$ -- 10493
-swap$ -- 771
+substring$ -- 10654
+swap$ -- 774
 text.length$ -- 117
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 540
+type$ -- 549
 warning$ -- 0
-while$ -- 336
+while$ -- 340
 width$ -- 0
-write$ -- 717
+write$ -- 728
 (There were 74 error messages)
