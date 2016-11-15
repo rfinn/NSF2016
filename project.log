@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/MacPorts 2014_9) (preloaded format=xelatex 2014.11.18)  14 NOV 2016 22:18
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/MacPorts 2014_9) (preloaded format=xelatex 2014.11.18)  14 NOV 2016 23:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -236,53 +236,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 15--15
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 15--15
-[]\OT1/cmr/m/n/10 Finn,
- []
-
-
 LaTeX Font Warning: Command \small invalid in math mode on input line 15.
-
-
-Underfull \hbox (badness 4084) in paragraph at lines 16--19
-\OT1/cmr/m/n/10 and where SAMs de-vi-ate
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--20
-[]\OT1/cmr/m/n/10 Finn,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--20
-\OT1/cmr/m/n/10 Vernizzi,
- []
 
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 20.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--23
-[]\OT1/cmr/m/n/10 all de-tec-tions with
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 21--23
-\OML/cmm/m/it/10 SNR\OT1/cmr/m/n/10 (12\OML/cmm/m/it/10 ^^Vm\OT1/cmr/m/n/10 ) \
-OML/cmm/m/it/10 > \OT1/cmr/m/n/10 10$ for
- []
-
-
-Overfull \hbox (1.77919pt too wide) in paragraph at lines 25--25
-[]\OT1/cmr/m/n/10 Jablonka,
- []
-
-
 LaTeX Font Warning: Command \small invalid in math mode on input line 25.
 
 
-Overfull \hbox (1.77919pt too wide) in paragraph at lines 29--29
-[]\OT1/cmr/m/n/10 Jablonka,
+Underfull \hbox (badness 10000) in paragraph at lines 26--28
+[]\OT1/cmr/m/n/10 CO ob-ser-va-tions are dif-fi-cult for
  []
 
 
@@ -311,23 +275,28 @@ File: NGC5320multiwaveV2.png Graphic file (type QTm)
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[7] [8]
+[7]
 
-LaTeX Warning: Reference `sdssCO' on page 9 undefined on input line 857.
+LaTeX Warning: Reference `sdssCO' on page 8 undefined on input line 857.
 
-[9]
+[8]
 File: model-comparisonv2.png Graphic file (type QTm)
- <use  "model-comparisonv2.png" > [10]
-File: work-plan.png Graphic file (type QTm)
- <use  "work-plan.png" >
+ <use  "model-comparisonv2.png" >
 
-LaTeX Warning: `h' float specifier changed to `ht'.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[9] [10]
+File: work-plan2.pdf Graphic file (type QTm)
+ <use  "work-plan2.pdf" >
+Overfull \hbox (46.97836pt too wide) in paragraph at lines 1045--1047
+[][]
+ []
 
 [11] [12]
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 1158.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 1159.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 1158.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 1159.
  [13] [14] [15] [16] (./project.bbl
 Underfull \hbox (badness 1838) in paragraph at lines 43--49
 []\OT1/cmr/m/n/10.95 Blanton, MR; Schlegel, DJ; Strauss, MA; Brinkmann, J; Fink
@@ -496,11 +465,11 @@ LaTeX Warning: There were undefined references.
 ### bottom level 
 Here is how much of TeX's memory you used:
  2637 strings out of 494893
- 32787 string characters out of 6167766
- 102414 words of memory out of 5000000
+ 32789 string characters out of 6167766
+ 101414 words of memory out of 5000000
  5869 multiletter control sequences out of 15000+600000
  18818 words of font info for 75 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 32i,11n,31p,1557b,398s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 32i,11n,31p,1489b,398s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on project.pdf (22 pages).
