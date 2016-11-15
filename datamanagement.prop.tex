@@ -1,0 +1,95 @@
+\documentclass[11pt,preprint]{aastex}
+
+\usepackage{graphicx}
+\usepackage[vmargin=1in,hmargin=1in]{geometry}
+\usepackage{natbib}
+\usepackage{epsfig}
+% \usepackage{epsfig, xcolor, footnote, mdwlist, wrapfig}
+% \usepackage{hyperref}
+% \usepackage[flushleft]{threeparttable}
+% \usepackage{sidecap}
+% \usepackage{simplemargins}
+% \usepackage[compact]{titlesec}
+% \usepackage{times}
+% \usepackage{amsmath}
+% \usepackage[]{natbib}
+% \usepackage{sidecap}
+
+%\usepackage[font=footnotesize]{caption}
+%\usepackage{caption}
+%\usepackage[font=footnotesize, figurename=Figure, labelsep=endash]{caption}
+%\usepackage{multirow}
+
+\setlength\parindent{0pt}
+
+
+%\setlength{\oddsidemargin}{-0.2 in}
+%\setlength{\evensidemargin}{-0.2 in}
+
+\pagenumbering{arabic} %roman/Roman/arabic
+\pagestyle{plain}
+
+\renewcommand{\baselinestretch}{0.94} 
+
+\begin{document}
+\section*{Data Management Plan}
+
+\subsection*{Products of the Research}
+
+Our ultimate goal is to release a comprehensive set of advanced data products to the community.  This will range from data at the pixel level to profiles, model fits and residual maps, and catalogs.  We will also make available the appropriate ancillary data, e.g. from WISE, or SDSS and any high-level software products developed by our group.
+
+The data products coming specifically from our observing program will  H$\alpha$+continuum maps of 200 galaxies and integrated HI and CO measurements, potentially supplemented by spatially resolved HI and CO data cubes.  We will add to this ancillary data as needed to replicate our analysis.  We propose to release all data when the respective papers are published, at the latest at the end of our funding period (12/20.)
+
+Our specific products will include:
+
+\begin{enumerate}
+
+\item WFully calibrated H$\alpha$ narrow-band images, continuum images, and continuum subtracted H$\alpha$ maps.  
+
+\item Any pipeline software that we develop to reduce H$\alpha$ images from the 0.9m and 1.25m telescopes that we will use in our program.  We will release these codes as an open github repository.
+
+\item While the WISE data are already available, we will provide WISE postage stamps of all of our galaxies, properly registered to the SDSS images.  
+
+\item All 2D model fits in all wavelengths, including the fit residuals.
+
+\item HI and CO(1--0)  and CO(2--0) spectra. 
+
+\item A catalog of derived properties such as stellar mass, SFR, size, and sersic fit parameters as a function of wavelength as well as uncertainties in all parameters.  We will also provide all input files for programs used to compute those properties.
+
+\item Any data cubes that result from our eventual interferometric follow-up of HI or CO.
+
+\end{enumerate}
+
+
+%{\Large{\bf Data Management Plan}}
+%\vspace*{2mm}
+
+
+%Expected Data and Usage:  All software algorithms, programs for data analysis and for simulations will be stored. The data collected, processed, and analyzed will be used to generate peer-reviewed research publications as well as local, national, and international research presentations. 
+
+\subsection*{Data Format} 
+
+To maximize their usefulness to the community, the catalogs will be
+released in three machine-readable formats (ASCII tables, fits tables,
+and IDL save files). We will also release the 1D and 2D spectra in
+fits format.
+
+
+\subsection*{Data Storage and Preservation}
+
+All data will be stored both on the Research File Storage (RFS) system at the University of Kansas as well as on desktops at KU and Siena college.  The desktops at Siena will be equipped with RAID1 dual hard-drive technology, which provides fault tolerance from disk errors or failures.   The RFS provides offsite backups and so all data will have multiply redundant storage.  All software will be stored in a github respository as well as on RFS and the local disks of the co-PIs.
+
+%The PI will be responsible for storing data and making decisions regarding overall data management. A master copy of all data, program, algorithms, simulations, and analyses will be kept, as well as a copy on physical media (DVD-R, CD-R, memory card, or external USB hard drive) for archival purposes that will be stored outside the laboratory. As such, these data files are available at all times on the laboratory computers, but are not susceptible to loss due to hard drive failure or laboratory damage. In addition, all desktops at Siena's computational laboratories and used in this project will be equipped with RAID1 dual hard-drive technology, which provides fault tolerance from disk errors or failures. 
+
+\subsection*{Data Sharing and Dissemination}
+
+%We will release all of our data with our final publication.  This will include 
+%reduced, calibrated, and astrometrically aligned HI,
+%Halpha, and SDSS maps with integrated CO fluxes.
+%We will produce a variety of measurements of the gas content of
+%filament galaxies.  We will produce a catalog of CO, HI, dust, Halpha
+%properties to be released with our final paper.
+%While this data set of derived information will not be exceptionally large in volume, it will be of value to other observational astronomers and theorists working on galaxy evolution. 
+To facilitate the widespread use of the data products outlined above, we will publish the full catalog of measured and derived quantities on the web and in the on-line version of Astrophysical Journal Supplement. In addition, we will work with the NASA/IPAC Extragalactic Database (NED) and the NASA Infrared Science Archive (IRSA) to ensure that our data are discoverable to a larger user base. Co-I Vandana Desai, resident at IPAC, will act as our NED liason to ensure that this gets done in a timely manner.
+
+\end{document}
