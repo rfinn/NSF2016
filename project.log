@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 NOV 2016 13:55
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 NOV 2016 14:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -306,22 +306,6 @@ Package pdftex.def Info: model-comparisonv2.png used on input line 316.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[3 <./CLUES-DM.png> <./gomez2003-fg6a.png>]
-<filaments.png, id=25, 433.62pt x 361.35pt>
-File: filaments.png Graphic file (type png)
- <use filaments.png>
-Package pdftex.def Info: filaments.png used on input line 450.
-(pdftex.def)             Requested size: 234.8775pt x 195.7326pt.
-
-<KimFig2a.png, id=27, 492.84125pt x 430.60875pt>
-File: KimFig2a.png Graphic file (type png)
- <use KimFig2a.png>
-Package pdftex.def Info: KimFig2a.png used on input line 451.
-(pdftex.def)             Requested size: 216.09045pt x 188.8048pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 (./sample.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--6
 []\OT1/cmr/bx/n/10 Gas
@@ -354,37 +338,48 @@ LaTeX Font Warning: Command \small invalid in math mode on input line 25.
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 29.
 
+)
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) <sample.png, id=28, 867.24pt x 289.08pt>
+[3 <./CLUES-DM.png> <./gomez2003-fg6a.png>] [4 <./decision_tree.png>]
+<filaments.png, id=30, 433.62pt x 361.35pt>
+File: filaments.png Graphic file (type png)
+ <use filaments.png>
+Package pdftex.def Info: filaments.png used on input line 455.
+(pdftex.def)             Requested size: 234.8775pt x 195.7326pt.
+
+<KimFig2a.png, id=32, 492.84125pt x 430.60875pt>
+File: KimFig2a.png Graphic file (type png)
+ <use KimFig2a.png>
+Package pdftex.def Info: KimFig2a.png used on input line 456.
+(pdftex.def)             Requested size: 216.09045pt x 188.8048pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<sample.png, id=33, 867.24pt x 289.08pt>
 File: sample.png Graphic file (type png)
  <use sample.png>
-Package pdftex.def Info: sample.png used on input line 504.
+Package pdftex.def Info: sample.png used on input line 508.
 (pdftex.def)             Requested size: 469.75502pt x 156.58607pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[4 <./decision_tree.png>]
-Overfull \vbox (9.73984pt too high) has occurred while \output is active []
-
-
-[5 <./model-comparisonv2.png>]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 569.
-
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 573.
 
 (/usr/local/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 569.
-
-<HalphaProfileWISE.png, id=37, 955.57pt x 434.62375pt>
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 573.
+ [5 <./model-comparisonv2.png>] <HalphaProfileWISE.png, id=37, 955.57pt x 434.6
+2375pt>
 File: HalphaProfileWISE.png Graphic file (type png)
 
 <use HalphaProfileWISE.png>
-Package pdftex.def Info: HalphaProfileWISE.png used on input line 599.
+Package pdftex.def Info: HalphaProfileWISE.png used on input line 603.
 (pdftex.def)             Requested size: 399.29463pt x 181.61227pt.
 
 
@@ -395,7 +390,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: NGC5320multiwaveV2.png Graphic file (type png)
 
 <use NGC5320multiwaveV2.png>
-Package pdftex.def Info: NGC5320multiwaveV2.png used on input line 708.
+Package pdftex.def Info: NGC5320multiwaveV2.png used on input line 712.
 (pdftex.def)             Requested size: 375.80544pt x 184.51285pt.
 
 
@@ -405,18 +400,18 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <work-plan2.pdf, id=57, 794.97pt x 614.295pt>
 File: work-plan2.pdf Graphic file (type pdf)
  <use work-plan2.pdf>
-Package pdftex.def Info: work-plan2.pdf used on input line 1132.
+Package pdftex.def Info: work-plan2.pdf used on input line 1136.
 (pdftex.def)             Requested size: 516.73338pt x 399.30576pt.
 
-Overfull \hbox (46.97836pt too wide) in paragraph at lines 1132--1134
+Overfull \hbox (46.97836pt too wide) in paragraph at lines 1136--1138
 [][]
  []
 
 [11] [12 <./work-plan2.pdf>]
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 1247.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 1251.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 1247.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 1251.
  [13] [14] [15] [16] (./project.bbl
 Underfull \hbox (badness 1838) in paragraph at lines 43--49
 []\OT1/cmr/m/n/10.95 Blanton, MR; Schlegel, DJ; Strauss, MA; Brinkmann, J; Fink
@@ -584,16 +579,16 @@ LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
 ) [23] (./project.aux) )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 669 ({)
+### simple group (level 1) entered at line 673 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
  3555 strings out of 493315
  47832 string characters out of 6137904
- 128864 words of memory out of 5000000
+ 127864 words of memory out of 5000000
  6927 multiletter control sequences out of 15000+600000
  17852 words of font info for 72 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,11n,31p,2016b,413s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,12n,31p,2016b,413s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx6.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm
@@ -610,7 +605,7 @@ pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
 usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></us
 r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr
 /local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on project.pdf (23 pages, 3624903 bytes).
+Output written on project.pdf (23 pages, 3624640 bytes).
 PDF statistics:
  254 PDF objects out of 1000 (max. 8388607)
  170 compressed objects within 2 object streams
