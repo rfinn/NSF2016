@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/MacPorts 2014_9) (preloaded format=xelatex 2014.11.18)  14 NOV 2016 23:07
+This is XeTeX, Version 3.14159265-2.6-0.99991 (TeX Live 2014/MacPorts 2014_9) (preloaded format=xelatex 2014.11.18)  14 NOV 2016 23:49
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -210,12 +210,23 @@ File: CLUES-DM.png Graphic file (type QTm)
 
 <use  "CLUES-DM.png" >
 File: gomez2003-fg6a.png Graphic file (type QTm)
- <use  "gomez2003-fg6a.png" > [3]
-File: filaments.png Graphic file (type QTm)
+ <use  "gomez2003-fg6a.png" >
+File: model-comparisonv2.png Graphic file (type QTm)
 
-<use  "filaments.png" >
+<use  "model-comparisonv2.png" >
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3]
+
+Package natbib Warning: Citation `cybulski14' on page 4 undefined on input line
+ 322.
+
+[4]
+File: filaments.png Graphic file (type QTm)
+ <use  "filaments.png" >
 File: KimFig2a.png Graphic file (type QTm)
- <use  "KimFig2a.png" > [4] (./sample.tex
+ <use  "KimFig2a.png" > [5] (./sample.tex
 Underfull \hbox (badness 10000) in paragraph at lines 6--6
 []\OT1/cmr/bx/n/10 Gas
  []
@@ -254,49 +265,43 @@ LaTeX Font Warning: Command \small invalid in math mode on input line 29.
 
 )
 File: sample.png Graphic file (type QTm)
- <use  "sample.png" > [5]
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 501.
+ <use  "sample.png" > [6]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 544.
 
 
 (/opt/local/share/texmf-texlive/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 501.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 544.
 File: HalphaProfileWISE.png Graphic file (type QTm)
 
 <use  "HalphaProfileWISE.png" >
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[6]
+[7]
 File: NGC5320multiwaveV2.png Graphic file (type QTm)
  <use  "NGC5320multiwaveV2.png" >
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[7]
-
-LaTeX Warning: Reference `sdssCO' on page 8 undefined on input line 857.
-
 [8]
-File: model-comparisonv2.png Graphic file (type QTm)
- <use  "model-comparisonv2.png" >
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+LaTeX Warning: Reference `sdssCO' on page 9 undefined on input line 900.
 
 [9] [10]
 File: work-plan2.pdf Graphic file (type QTm)
  <use  "work-plan2.pdf" >
-Overfull \hbox (46.97836pt too wide) in paragraph at lines 1045--1047
+Overfull \hbox (46.97836pt too wide) in paragraph at lines 1069--1071
 [][]
  []
 
 [11] [12]
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 1159.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 1183.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 1159.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 1183.
  [13] [14] [15] [16] (./project.bbl
 Underfull \hbox (badness 1838) in paragraph at lines 43--49
 []\OT1/cmr/m/n/10.95 Blanton, MR; Schlegel, DJ; Strauss, MA; Brinkmann, J; Fink
@@ -454,20 +459,27 @@ LaTeX Font Info:    Font shape `U/lasy/b/n' in size <9> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 486.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <5> not available
 (Font)              Font shape `U/lasy/m/n' tried instead on input line 486.
-) [22] (./project.aux)
+)
+
+Package natbib Warning: There were undefined citations.
+
+[22] (./project.aux)
 
 LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  )
 (\end occurred inside a group at level 1)
 
-### simple group (level 1) entered at line 598 ({)
+### simple group (level 1) entered at line 641 ({)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 2637 strings out of 494893
- 32789 string characters out of 6167766
- 101414 words of memory out of 5000000
- 5869 multiletter control sequences out of 15000+600000
+ 2638 strings out of 494893
+ 32801 string characters out of 6167766
+ 101413 words of memory out of 5000000
+ 5870 multiletter control sequences out of 15000+600000
  18818 words of font info for 75 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
  32i,11n,31p,1489b,398s stack positions out of 5000i,500n,10000p,200000b,80000s
