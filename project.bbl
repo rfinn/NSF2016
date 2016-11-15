@@ -149,19 +149,19 @@ Ciesla, L; Boselli, A; Smith, MWL; Bendo, GJ; Cortese, L; Eales, S; Bianchi, S;
   \aj\/}, v. 130, 2005, p. 65--72.
   \url{http://adsabs.harvard.edu/abs/2005AJ....130...65C}
 
+\bibitem[{Cybulski} et~al.(2014){Cybulski}, {Yun}, {Fazio}, and
+  {Gutermuth}]{cybulski14}
+{Cybulski}, R; {Yun}, MS; {Fazio}, GG; {Gutermuth}, RA. ``{From voids to Coma:
+  the prevalence of pre-processing in the local Universe},'' {\em \mnras\/}, v.
+  439, 2014, p. 3564--3586.
+  \url{http://adsabs.harvard.edu/abs/2014MNRAS.439.3564C}
+
 \bibitem[{Dale} et~al.(2001){Dale}, {Giovanelli}, {Haynes}, {Hardy}, and
   {Campusano}]{dale01}
 {Dale}, DA; {Giovanelli}, R; {Haynes}, MP; {Hardy}, E; {Campusano}, LE.
   ``{Signatures of Galaxy-Cluster Interactions: Spiral Galaxy Rotation Curve
   Asymmetry, Shape, and Extent},'' {\em \aj\/}, v. 121, 2001, p. 1886--1892.
   \url{http://adsabs.harvard.edu/abs/2001AJ....121.1886D}
-
-\bibitem[{Darvish} et~al.(2014){Darvish}, {Sobral}, {Mobasher}, {Scoville},
-  {Best}, {Sales}, and {Smail}]{darvish14}
-{Darvish}, B; {Sobral}, D; {Mobasher}, B; {Scoville}, NZ; {Best}, P; {Sales},
-  LV; {Smail}, I. ``{Cosmic Web and Star Formation Activity in Galaxies at z
-  \~{} 1},'' {\em \apj\/}, v. 796, 2014, p.~51.
-  \url{http://adsabs.harvard.edu/abs/2014ApJ...796...51D}
 
 \bibitem[{Dav{\'e}} et~al.(2011){Dav{\'e}}, {Oppenheimer}, and
   {Finlator}]{Dave11}
@@ -330,23 +330,10 @@ Ciesla, L; Boselli, A; Smith, MWL; Bendo, GJ; Cortese, L; Eales, S; Bianchi, S;
   arXiv:1611.00437}), 2016.
   \url{http://adsabs.harvard.edu/abs/2016arXiv161100437K}
 
-\bibitem[{Kitaura} et~al.(2009){Kitaura}, {Jasche}, {Li}, {En{\ss}lin},
-  {Metcalf}, {Wandelt}, {Lemson}, and {White}]{kitaura09}
-{Kitaura}, FS; {Jasche}, J; {Li}, C; {En{\ss}lin}, TA; {Metcalf}, RB;
-  {Wandelt}, BD; {Lemson}, G; {White}, SDM. ``{Cosmic cartography of the
-  large-scale structure with Sloan Digital Sky Survey data release 6},'' {\em
-  \mnras\/}, v. 400, 2009, p. 183--203.
-  \url{http://adsabs.harvard.edu/abs/2009MNRAS.400..183K}
-
-\bibitem[{Koopmann} \& {Kenney}(1998){Koopmann} and {Kenney}]{koopmann98}
-{Koopmann}, RA; {Kenney}, JDP. ``{The Trouble with Hubble Types in the Virgo
-  Cluster},'' {\em \apjl\/}, v. 497, 1998, p. L75.
-  \url{http://adsabs.harvard.edu/abs/1998ApJ...497L..75K}
-
 \bibitem[{Koopmann} \& {Kenney}(2004){Koopmann} and {Kenney}]{koopmann04}
----. ``{H{$\alpha$} Morphologies and Environmental Effects in Virgo Cluster
-  Spiral Galaxies},'' {\em \apj\/}, v. 613, 2004, p. 866--885.
-  \url{http://adsabs.harvard.edu/abs/2004ApJ...613..866K}
+{Koopmann}, RA; {Kenney}, JDP. ``{H{$\alpha$} Morphologies and Environmental
+  Effects in Virgo Cluster Spiral Galaxies},'' {\em \apj\/}, v. 613, 2004, p.
+  866--885. \url{http://adsabs.harvard.edu/abs/2004ApJ...613..866K}
 
 \bibitem[{Lang}(2014)]{lang14}
 {Lang}, D. ``{unWISE: Unblurred Coadds of the WISE Imaging},'' {\em \aj\/}, v.
@@ -422,10 +409,34 @@ Ciesla, L; Boselli, A; Smith, MWL; Bendo, GJ; Cortese, L; Eales, S; Bianchi, S;
   of Galaxies in Distant Clusters},'' {\em \apj\/}, v. 518, 1999, p. 576--593.
   \url{http://adsabs.harvard.edu/abs/1999ApJ...518..576P}
 
+\bibitem[{Poggianti} et~al.(2006){Poggianti}, {von der Linden}, {De Lucia},
+  {Desai}, {Simard}, {Halliday}, {Arag{\'o}n-Salamanca}, {Bower}, {Varela},
+  {Best}, {Clowe}, {Dalcanton}, {Jablonka}, {Milvang-Jensen}, {Pello},
+  {Rudnick}, {Saglia}, {White}, and {Zaritsky}]{Poggianti06}
+{Poggianti}, BM; {von der Linden}, A; {De Lucia}, G; {Desai}, V; {Simard}, L;
+  {Halliday}, C; {Arag{\'o}n-Salamanca}, A; {Bower}, R; {Varela}, J; {Best}, P;
+  {Clowe}, DI; {Dalcanton}, J; {Jablonka}, P; {Milvang-Jensen}, B; {Pello}, R;
+  {Rudnick}, G; {Saglia}, R; {White}, SDM; {Zaritsky}, D. ``{The Evolution of
+  the Star Formation Activity in Galaxies and Its Dependence on Environment},''
+  {\em \apj\/}, v. 642, 2006, p. 188--215.
+  \url{http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2006ApJ...642..188P&db_key=AST}
+
 \bibitem[{Quilis} et~al.(2000){Quilis}, {Moore}, and {Bower}]{quilis00}
 {Quilis}, V; {Moore}, B; {Bower}, R. ``{Gone with the Wind: The Origin of S0
   Galaxies in Clusters},'' {\em Science\/}, v. 288, 2000, p. 1617--1620.
   \url{http://adsabs.harvard.edu/abs/2000Sci...288.1617Q}
+
+\bibitem[{Rudnick} et~al.(2009){Rudnick}, {von der Linden}, {Pell{\'o}},
+  {Arag{\'o}n-Salamanca}, {Marchesini}, {Clowe}, {DeLucia}, {Halliday},
+  {Jablonka}, {Milvang-Jensen}, {Poggianti}, {Saglia}, {Simard}, {White}, and
+  {Zaritsky}]{Rudnick09}
+{Rudnick}, G; {von der Linden}, A; {Pell{\'o}}, R; {Arag{\'o}n-Salamanca}, A;
+  {Marchesini}, D; {Clowe}, D; {DeLucia}, G; {Halliday}, C; {Jablonka}, P;
+  {Milvang-Jensen}, B; {Poggianti}, B; {Saglia}, R; {Simard}, L; {White}, S;
+  {Zaritsky}, D. ``{The Rest-frame Optical Luminosity Function of Cluster
+  Galaxies at z $<$ 0.8 and the Assembly of the Cluster Red Sequence},'' {\em
+  \apj\/}, v. 700, 2009, p. 1559--1588.
+  \url{http://esoads.eso.org/abs/2009ApJ...700.1559R}
 
 \bibitem[{Rudnick} et~al.(2012){Rudnick}, {Tran}, {Papovich}, {Momcheva}, and
   {Willmer}]{rudnick12}

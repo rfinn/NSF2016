@@ -102,10 +102,6 @@ Repeated entry---line 6686 of file references_2.bib
  : @article{Koopmann04
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6701 of file references_2.bib
- : @article{Koopmann98
- :                    ,
-I'm skipping whatever remains of this entry
 Repeated entry---line 7076 of file references_2.bib
  : @article{Lang16
  :                ,
@@ -245,10 +241,6 @@ Repeated entry---line 6757 of file HSTreferences.bib
  : @article{Koopmann04
  :                    ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6772 of file HSTreferences.bib
- : @article{Koopmann98
- :                    ,
-I'm skipping whatever remains of this entry
 Repeated entry---line 7248 of file HSTreferences.bib
  : @article{Lang14
  :                ,
@@ -265,6 +257,10 @@ Repeated entry---line 9281 of file HSTreferences.bib
  : @article{Papovich12
  :                    ,
 I'm skipping whatever remains of this entry
+Repeated entry---line 9689 of file HSTreferences.bib
+ : @article{Poggianti06
+ :                     ,
+I'm skipping whatever remains of this entry
 Repeated entry---line 9720 of file HSTreferences.bib
  : @article{Poggianti99
  :                     ,
@@ -272,6 +268,10 @@ I'm skipping whatever remains of this entry
 Repeated entry---line 9955 of file HSTreferences.bib
  : @article{Quilis00
  :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 10425 of file HSTreferences.bib
+ : @article{Rudnick09
+ :                   ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 10446 of file HSTreferences.bib
  : @article{Rudnick12
@@ -289,45 +289,47 @@ Repeated entry---line 13749 of file HSTreferences.bib
  : @article{Wong14
  :                ,
 I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "Desai07"
+Warning--I didn't find a database entry for "Cantale16"
 You've used 55 entries,
             2925 wiz_defined-function locations,
-            1071 strings with 25593 characters,
-and the built_in function-call counts, 76857 in all, are:
-= -- 6940
-> -- 5161
-< -- 117
-+ -- 1930
-- -- 1875
-* -- 8247
-:= -- 12134
+            1079 strings with 26234 characters,
+and the built_in function-call counts, 78344 in all, are:
+= -- 7049
+> -- 5329
+< -- 116
++ -- 1993
+- -- 1938
+* -- 8422
+:= -- 12382
 add.period$ -- 108
 call.type$ -- 55
-change.case$ -- 900
+change.case$ -- 921
 chr.to.int$ -- 55
 cite$ -- 55
-duplicate$ -- 1601
-empty$ -- 4797
-format.name$ -- 1940
-if$ -- 15623
+duplicate$ -- 1611
+empty$ -- 4855
+format.name$ -- 2001
+if$ -- 15906
 int.to.chr$ -- 1
 int.to.str$ -- 1
 missing$ -- 56
 newline$ -- 169
 num.names$ -- 220
-pop$ -- 751
+pop$ -- 771
 preamble$ -- 1
-purify$ -- 845
+purify$ -- 866
 quote$ -- 0
-skip$ -- 1247
+skip$ -- 1263
 stack$ -- 0
-substring$ -- 9785
-swap$ -- 672
+substring$ -- 9946
+swap$ -- 681
 text.length$ -- 108
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 495
 warning$ -- 0
-while$ -- 308
+while$ -- 310
 width$ -- 0
 write$ -- 660
 (There were 70 error messages)
