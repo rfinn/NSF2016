@@ -1,4 +1,4 @@
-\begin{thebibliography}{61}
+\begin{thebibliography}{57}
 \expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
 
 \bibitem[{Bah{\'e}} et~al.(2013){Bah{\'e}}, {McCarthy}, {Balogh}, and
@@ -37,44 +37,9 @@
   groups and clusters},'' {\em \mnras\/}, v. 438, 2014, p. 444--462.
   \url{http://adsabs.harvard.edu/abs/2014MNRAS.438..444B}
 
-\bibitem[{Blanton} et~al.(2005){Blanton}, {Schlegel}, {Strauss}, {Brinkmann},
-  {Finkbeiner}, {Fukugita}, {Gunn}, {Hogg}, {Ivezi{\'c}}, {Knapp}, {Lupton},
-  {Munn}, {Schneider}, {Tegmark}, and {Zehavi}]{blanton05}
-{Blanton}, MR; {Schlegel}, DJ; {Strauss}, MA; {Brinkmann}, J; {Finkbeiner}, D;
-  {Fukugita}, M; {Gunn}, JE; {Hogg}, DW; {Ivezi{\'c}}, {\v Z}; {Knapp}, GR;
-  {Lupton}, RH; {Munn}, JA; {Schneider}, DP; {Tegmark}, M; {Zehavi}, I. ``{New
-  York University Value-Added Galaxy Catalog: A Galaxy Catalog Based on New
-  Public Surveys},'' {\em \aj\/}, v. 129, 2005, p. 2562--2578.
-  \url{http://adsabs.harvard.edu/abs/2005AJ....129.2562B}
-
 \bibitem[Bolatto et~al.(2013)Bolatto, Wolfire, and Leroy]{Bolatto13}
 Bolatto, AD; Wolfire, M; Leroy, AK. ``{The CO-to-H2 Conversion Factor},'' {\em
   Annual Review of Astronomy {\&} Astrophysics\/}, v.~51, 2013, p. 207--268
-
-\bibitem[{Boselli} et~al.(2011){Boselli}, {Boissier}, {Heinis}, {Cortese},
-  {Ilbert}, {Hughes}, {Cucciati}, {Davies}, {Ferrarese}, {Giovanelli},
-  {Haynes}, {Baes}, {Balkowski}, {Brosch}, {Chapman}, {Charmandaris},
-  {Clemens}, {Dariush}, {De Looze}, {di Serego Alighieri}, {Duc}, {Durrell},
-  {Emsellem}, {Erben}, {Fritz}, {Garcia-Appadoo}, {Gavazzi}, {Grossi},
-  {Jord{\'a}n}, {Hess}, {Huertas-Company}, {Hunt}, {Kent}, {Lambas}, {Lan{\c
-  c}on}, {MacArthur}, {Madden}, {Magrini}, {Mei}, {Momjian}, {Olowin},
-  {Papastergis}, {Smith}, {Solanes}, {Spector}, {Spekkens}, {Taylor},
-  {Valotto}, {van Driel}, {Verstappen}, {Vlahakis}, {Vollmer}, and
-  {Xilouris}]{boselli11}
-{Boselli}, A; {Boissier}, S; {Heinis}, S; {Cortese}, L; {Ilbert}, O; {Hughes},
-  T; {Cucciati}, O; {Davies}, J; {Ferrarese}, L; {Giovanelli}, R; {Haynes}, MP;
-  {Baes}, M; {Balkowski}, C; {Brosch}, N; {Chapman}, SC; {Charmandaris}, V;
-  {Clemens}, MS; {Dariush}, A; {De Looze}, I; {di Serego Alighieri}, S; {Duc},
-  PA; {Durrell}, PR; {Emsellem}, E; {Erben}, T; {Fritz}, J; {Garcia-Appadoo},
-  DA; {Gavazzi}, G; {Grossi}, M; {Jord{\'a}n}, A; {Hess}, KM;
-  {Huertas-Company}, M; {Hunt}, LK; {Kent}, BR; {Lambas}, DG; {Lan{\c c}on}, A;
-  {MacArthur}, LA; {Madden}, SC; {Magrini}, L; {Mei}, S; {Momjian}, E;
-  {Olowin}, RP; {Papastergis}, E; {Smith}, MWL; {Solanes}, JM; {Spector}, O;
-  {Spekkens}, K; {Taylor}, JE; {Valotto}, C; {van Driel}, W; {Verstappen}, J;
-  {Vlahakis}, C; {Vollmer}, B; {Xilouris}, EM. ``{The GALEX Ultraviolet Virgo
-  Cluster Survey (GUViCS). I. The UV luminosity function of the central 12 sq.
-  deg},'' {\em \aap\/}, v. 528, 2011, p. A107.
-  \url{http://adsabs.harvard.edu/abs/2011A\%26A...528A.107B}
 
 \bibitem[{Boselli} et~al.(2015){Boselli}, {Fossati}, {Gavazzi}, {Ciesla},
   {Buat}, {Boissier}, and {Hughes}]{boselli15}
@@ -216,29 +181,6 @@ Ciesla, L; Boselli, A; Smith, MWL; Bendo, GJ; Cortese, L; Eales, S; Bianchi, S;
   $<$ 0.8},'' {\em \apj\/}, v. 660, 2007, p. 1151--1164.
   \url{http://adsabs.harvard.edu/abs/2007ApJ...660.1151D}
 
-\bibitem[{Ferrarese} et~al.(2012){Ferrarese}, {C{\^o}t{\'e}}, {Cuillandre},
-  {Gwyn}, {Peng}, {MacArthur}, {Duc}, {Boselli}, {Mei}, {Erben}, {McConnachie},
-  {Durrell}, {Mihos}, {Jord{\'a}n}, {Lan{\c c}on}, {Puzia}, {Emsellem},
-  {Balogh}, {Blakeslee}, {van Waerbeke}, {Gavazzi}, {Vollmer}, {Kavelaars},
-  {Woods}, {Ball}, {Boissier}, {Courteau}, {Ferriere}, {Gavazzi},
-  {Hildebrandt}, {Hudelot}, {Huertas-Company}, {Liu}, {McLaughlin}, {Mellier},
-  {Milkeraitis}, {Schade}, {Balkowski}, {Bournaud}, {Carlberg}, {Chapman},
-  {Hoekstra}, {Peng}, {Sawicki}, {Simard}, {Taylor}, {Tully}, {van Driel},
-  {Wilson}, {Burdullis}, {Mahoney}, and {Manset}]{ferrarese12}
-{Ferrarese}, L; {C{\^o}t{\'e}}, P; {Cuillandre}, JC; {Gwyn}, SDJ; {Peng}, EW;
-  {MacArthur}, LA; {Duc}, PA; {Boselli}, A; {Mei}, S; {Erben}, T;
-  {McConnachie}, AW; {Durrell}, PR; {Mihos}, JC; {Jord{\'a}n}, A; {Lan{\c
-  c}on}, A; {Puzia}, TH; {Emsellem}, E; {Balogh}, ML; {Blakeslee}, JP; {van
-  Waerbeke}, L; {Gavazzi}, R; {Vollmer}, B; {Kavelaars}, JJ; {Woods}, D;
-  {Ball}, NM; {Boissier}, S; {Courteau}, S; {Ferriere}, E; {Gavazzi}, G;
-  {Hildebrandt}, H; {Hudelot}, P; {Huertas-Company}, M; {Liu}, C; {McLaughlin},
-  D; {Mellier}, Y; {Milkeraitis}, M; {Schade}, D; {Balkowski}, C; {Bournaud},
-  F; {Carlberg}, RG; {Chapman}, SC; {Hoekstra}, H; {Peng}, C; {Sawicki}, M;
-  {Simard}, L; {Taylor}, JE; {Tully}, RB; {van Driel}, W; {Wilson}, CD;
-  {Burdullis}, T; {Mahoney}, B; {Manset}, N. ``{The Next Generation Virgo
-  Cluster Survey (NGVS). I. Introduction to the Survey},'' {\em \apjs\/}, v.
-  200, 2012, p.~4. \url{http://adsabs.harvard.edu/abs/2012ApJS..200....4F}
-
 \bibitem[{Finn} et~al.(2010){Finn}, {Desai}, {Rudnick}, {Poggianti}, {Bell},
   {Hinz}, {Jablonka}, {Milvang-Jensen}, {Moustakas}, {Rines}, and
   {Zaritsky}]{Finn10}
@@ -284,26 +226,6 @@ Ciesla, L; Boselli, A; Smith, MWL; Bendo, GJ; Cortese, L; Eales, S; Bianchi, S;
   A; {Weiner}, B. ``{A study of the gas-star formation relation over cosmic
   time},'' {\em \mnras\/}, v. 407, 2010, p. 2091--2108.
   \url{http://adsabs.harvard.edu/abs/2010MNRAS.407.2091G}
-
-\bibitem[{Giovanelli} et~al.(2005){Giovanelli}, {Haynes}, {Kent}, {Perillat},
-  {Saintonge}, {Brosch}, {Catinella}, {Hoffman}, {Stierwalt}, {Spekkens},
-  {Lerner}, {Masters}, {Momjian}, {Rosenberg}, {Springob}, {Boselli},
-  {Charmandaris}, {Darling}, {Davies}, {Garcia Lambas}, {Gavazzi},
-  {Giovanardi}, {Hardy}, {Hunt}, {Iovino}, {Karachentsev}, {Karachentseva},
-  {Koopmann}, {Marinoni}, {Minchin}, {Muller}, {Putman}, {Pantoja}, {Salzer},
-  {Scodeggio}, {Skillman}, {Solanes}, {Valotto}, {van Driel}, and {van
-  Zee}]{giovanelli05}
-{Giovanelli}, R; {Haynes}, MP; {Kent}, BR; {Perillat}, P; {Saintonge}, A;
-  {Brosch}, N; {Catinella}, B; {Hoffman}, GL; {Stierwalt}, S; {Spekkens}, K;
-  {Lerner}, MS; {Masters}, KL; {Momjian}, E; {Rosenberg}, JL; {Springob}, CM;
-  {Boselli}, A; {Charmandaris}, V; {Darling}, JK; {Davies}, J; {Garcia Lambas},
-  D; {Gavazzi}, G; {Giovanardi}, C; {Hardy}, E; {Hunt}, LK; {Iovino}, A;
-  {Karachentsev}, ID; {Karachentseva}, VE; {Koopmann}, RA; {Marinoni}, C;
-  {Minchin}, R; {Muller}, E; {Putman}, M; {Pantoja}, C; {Salzer}, JJ;
-  {Scodeggio}, M; {Skillman}, E; {Solanes}, JM; {Valotto}, C; {van Driel}, W;
-  {van Zee}, L. ``{The Arecibo Legacy Fast ALFA Survey. I. Science Goals,
-  Survey Design, and Strategy},'' {\em \aj\/}, v. 130, 2005, p. 2598--2612.
-  \url{http://adsabs.harvard.edu/abs/2005AJ....130.2598G}
 
 \bibitem[{G{\'o}mez} et~al.(2003){G{\'o}mez}, {Nichol}, {Miller}, {Balogh},
   {Goto}, {Zabludoff}, {Romer}, {Bernardi}, {Sheth}, {Hopkins}, {Castander},

@@ -4,13 +4,13 @@ The top-level auxiliary file: project.aux
 The style file: nsf.bst
 Database file #1: rfinn.bib
 Database file #2: nsfCAREERref14.bib
-Repeated entry---line 410 of file nsfCAREERref14.bib
- : @article{blanton05
- :                   ,
-I'm skipping whatever remains of this entry
 Repeated entry---line 1005 of file nsfCAREERref14.bib
  : @article{croton06
  :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1913 of file nsfCAREERref14.bib
+ : @article{gunn72
+ :                ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 2344 of file nsfCAREERref14.bib
  : @article{kawata08
@@ -37,10 +37,6 @@ I'm skipping whatever remains of this entry
 Repeated entry---line 673 of file references_2.bib
  : @article{Bardar06
  :                  ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1095 of file references_2.bib
- : @article{Blanton05
- :                   ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 2059 of file references_2.bib
  : @article{Chung07
@@ -89,6 +85,10 @@ I'm skipping whatever remains of this entry
 Repeated entry---line 4814 of file references_2.bib
  : @article{Gomez03
  :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5105 of file references_2.bib
+ : @article{Gunn72
+ :                ,
 I'm skipping whatever remains of this entry
 You're missing a field part---line 6120 of file references_2.bib
  :     month = 
@@ -152,10 +152,6 @@ You're missing a field part---line 9657 of file references_2.bib
  :     month = 
  :             ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 9721 of file references_2.bib
- : @article{Quilis00
- :                  ,
-I'm skipping whatever remains of this entry
 Repeated entry---line 10212 of file references_2.bib
  : @article{Rudnick12
  :                   ,
@@ -197,10 +193,6 @@ I'm skipping whatever remains of this entry
 Repeated entry---line 671 of file HSTreferences.bib
  : @article{Bardar06
  :                  ,
-I'm skipping whatever remains of this entry
-Repeated entry---line 1093 of file HSTreferences.bib
- : @article{Blanton05
- :                   ,
 I'm skipping whatever remains of this entry
 Repeated entry---line 2102 of file HSTreferences.bib
  : @article{Chung07
@@ -282,10 +274,6 @@ Repeated entry---line 9720 of file HSTreferences.bib
  : @article{Poggianti99
  :                     ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 9955 of file HSTreferences.bib
- : @article{Quilis00
- :                  ,
-I'm skipping whatever remains of this entry
 Repeated entry---line 10425 of file HSTreferences.bib
  : @article{Rudnick09
  :                   ,
@@ -306,45 +294,45 @@ Repeated entry---line 13749 of file HSTreferences.bib
  : @article{Wong14
  :                ,
 I'm skipping whatever remains of this entry
-You've used 61 entries,
+You've used 57 entries,
             2925 wiz_defined-function locations,
-            1117 strings with 28094 characters,
-and the built_in function-call counts, 85139 in all, are:
-= -- 7677
-> -- 5787
-< -- 125
-+ -- 2164
-- -- 2103
-* -- 9106
-:= -- 13460
-add.period$ -- 118
-call.type$ -- 61
-change.case$ -- 1006
-chr.to.int$ -- 61
-cite$ -- 61
-duplicate$ -- 1800
-empty$ -- 5253
-format.name$ -- 2172
-if$ -- 17307
+            1089 strings with 24265 characters,
+and the built_in function-call counts, 74230 in all, are:
+= -- 6911
+> -- 4487
+< -- 118
++ -- 1677
+- -- 1620
+* -- 7797
+:= -- 11516
+add.period$ -- 110
+call.type$ -- 57
+change.case$ -- 825
+chr.to.int$ -- 57
+cite$ -- 57
+duplicate$ -- 1674
+empty$ -- 4882
+format.name$ -- 1687
+if$ -- 15301
 int.to.chr$ -- 1
 int.to.str$ -- 1
-missing$ -- 63
-newline$ -- 187
-num.names$ -- 244
-pop$ -- 843
+missing$ -- 59
+newline$ -- 175
+num.names$ -- 228
+pop$ -- 672
 preamble$ -- 1
-purify$ -- 945
+purify$ -- 768
 quote$ -- 0
-skip$ -- 1431
+skip$ -- 1328
 stack$ -- 0
-substring$ -- 10654
-swap$ -- 774
-text.length$ -- 117
+substring$ -- 9885
+swap$ -- 717
+text.length$ -- 109
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 549
+type$ -- 513
 warning$ -- 0
-while$ -- 340
+while$ -- 317
 width$ -- 0
-write$ -- 728
-(There were 74 error messages)
+write$ -- 680
+(There were 71 error messages)
