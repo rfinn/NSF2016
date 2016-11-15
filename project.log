@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 NOV 2016 14:22
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  15 NOV 2016 14:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -338,7 +338,11 @@ LaTeX Font Warning: Command \small invalid in math mode on input line 25.
 
 LaTeX Font Warning: Command \small invalid in math mode on input line 29.
 
-) [3 <./CLUES-DM.png> <./gomez2003-fg6a.png>] [4 <./decision_tree.png>]
+)
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[3 <./CLUES-DM.png> <./gomez2003-fg6a.png>] [4 <./decision_tree.png>]
 <filaments.png, id=30, 433.62pt x 361.35pt>
 File: filaments.png Graphic file (type png)
  <use filaments.png>
@@ -405,9 +409,9 @@ Overfull \hbox (46.97836pt too wide) in paragraph at lines 1132--1134
 
 [11 <./work-plan2.pdf>] [12]
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 1247.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 1246.
 LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
-(Font)              Font shape `U/lasy/m/n' tried instead on input line 1247.
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 1246.
  [13] [14] [15] [16] (./project.bbl
 Underfull \hbox (badness 1838) in paragraph at lines 43--49
 []\OT1/cmr/m/n/10.95 Blanton, MR; Schlegel, DJ; Strauss, MA; Brinkmann, J; Fink
@@ -601,7 +605,7 @@ pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb
 usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></us
 r/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr
 /local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on project.pdf (23 pages, 3653438 bytes).
+Output written on project.pdf (23 pages, 3650387 bytes).
 PDF statistics:
  254 PDF objects out of 1000 (max. 8388607)
  170 compressed objects within 2 object streams
